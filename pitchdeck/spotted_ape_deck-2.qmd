@@ -1,0 +1,167 @@
+---
+title: "The Visible Agent, The Invisible Studio"
+format: 
+  revealjs:
+    theme: black
+    slide-number: true
+    transition: fade
+---
+
+## The Premise
+
+In the 1980s, Max Headroom appeared to be fully computer-generated.
+
+Sharp. Synthetic. Digital.
+
+But behind the illusion:
+- Human performance  
+- Manual compositing  
+- Crafted intelligence  
+
+The AI was not real.  
+**The experience was.**
+
+---
+
+## The Inversion
+
+We take that concept and flip it.
+
+Today, the intelligence *is* real.
+
+But it exists on a spectrum:
+- From dufus  
+- To genius  
+- Often unpredictably in between  
+
+AI is powerful—but not yet consistently reliable.
+
+---
+
+## The Opportunity
+
+What if clients could experience AI at its best…
+
+Without being exposed to its worst?
+
+---
+
+## The Concept
+
+A cloud-based design studio where:
+
+- Clients interact with intelligent AI agents  
+- Agents feel like autonomous creative partners  
+- The experience is seamless, consistent, always on  
+
+**A single, continuous digital presence.**
+
+---
+
+## The Illusion (By Design)
+
+The agent appears:
+- Fully capable  
+- Context-aware  
+- Creatively reliable  
+
+Like a modern digital persona.
+
+---
+
+## The Reality
+
+Behind every agent:
+
+- Human designers  
+- Creative directors  
+- Strategists  
+
+Operating quietly in the loop.
+
+---
+
+## The Model
+
+**Human-in-the-loop AI**
+
+- AI handles speed, iteration, continuity  
+- Humans ensure:
+  - Accuracy  
+  - Cultural relevance  
+  - Creative quality  
+  - Strategic alignment  
+
+---
+
+## Why This Matters
+
+Pure AI:
+- Fast, but inconsistent  
+
+Pure human:
+- High quality, but slow and expensive  
+
+We combine both:
+- AI interface  
+- Human assurance  
+
+---
+
+## The Strategy
+
+“Fake it till you make it”—but with intent.
+
+Not deception.  
+**Staged maturity.**
+
+- Present a stable AI experience today  
+- Use human oversight to:
+  - Correct errors  
+  - Train systems  
+  - Refine outputs  
+
+---
+
+## The Evolution
+
+Over time:
+
+- Less human correction  
+- More autonomous capability  
+- Increasing system intelligence  
+
+The illusion becomes reality.
+
+---
+
+## The Value
+
+Clients get:
+- Always-on creative partner  
+- Faster turnaround  
+- Consistent interaction  
+- High-quality output  
+
+Without AI volatility.
+
+---
+
+## The Position
+
+**AI delivers the experience.**  
+**Humans guarantee the outcome.**
+
+---
+
+## The Vision
+
+The Visible Agent.  
+The Invisible Studio.
+
+A new model for creative work:
+- Scalable  
+- Intelligent  
+- Human-secured  
+
+---

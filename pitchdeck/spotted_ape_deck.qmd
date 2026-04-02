@@ -1,0 +1,312 @@
+---
+title: "Spotted Ape"
+subtitle: "Strategic Execution Engine"
+author: "thespottedape.com · in collaboration with marcelmare.com"
+format:
+  revealjs:
+    theme: black
+    css: spotted_ape_theme.css
+    slide-number: true
+    progress: true
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    width: 1280
+    height: 720
+    margin: 0.08
+    highlight-style: github
+    code-block-bg: true
+    embed-resources: true
+    auto-animate: true
+    controls: true
+    controls-layout: bottom-right
+    footer: "marcelmare.com"
+---
+
+## {.slide-hero background-color="#FAFAF8"}
+
+::: {.hero-eyebrow}
+Strategic Execution Engine
+:::
+
+::: {.hero-title}
+Where Machine *Speed*  
+Meets Human *Wisdom*
+:::
+
+::: {.hero-rule}
+:::
+
+::: {.pill-row}
+[Human-in-the-Loop (HITL)]{.pill .pill-amber}
+[Team-as-a-Subscription]{.pill .pill-teal}
+[Agentic Mesh]{.pill .pill-amber}
+:::
+
+
+## The Problem {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Problem
+:::
+
+### Strategy Dies in Execution {.section-title}
+
+Traditional consulting delivers decks. Organisations are left navigating the gap between ambition and operational reality — alone.
+
+::: {.vs-grid}
+
+::: {.vs-col .vs-bad}
+**Legacy Consulting**
+
+✕ Static strategy documents  
+✕ Organisational inertia ignored  
+✕ Human bandwidth limits scale  
+✕ Vanity metrics masquerade as outcomes  
+:::
+
+::: {.vs-col .vs-good}
+**Spotted Ape HITL**
+
+✓ Living, breathing operations  
+✓ Designed to overcome inertia  
+✓ Agent Mesh executes at 24/7 scale  
+✓ Decisions that hold under real-world push  
+:::
+
+:::
+
+
+## Our Framework {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+Our Framework
+:::
+
+### Strategic Steering, Not Consulting {.section-title}
+
+> *"We navigate combinatorial complexity by deploying an Agentic Mesh that executes at machine speed, governed by a Human-in-the-Loop steering force."*
+
+::: {.two-col}
+
+::: {.card-amber}
+**Human Layer**
+
+**Problem Reframing**  
+Name the challenge correctly before a single agent is deployed. Stress-test the North Star.
+:::
+
+::: {.card-teal}
+**Agent Layer**
+
+**Agentic Mesh Execution**  
+24/7 multi-channel distribution, SEO monitoring, content variation — at machine speed.
+:::
+
+:::
+
+
+## Core Capability {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+Core Capability
+:::
+
+### Managing Combinatorial Complexity {.section-title}
+
+Thousands of variables — micro-segments, cultural nuances, real-time signals — exceed human bandwidth alone.
+
+::: {.mesh-grid}
+
+::: {.mesh-node}
+⬡
+
+**Multi-Channel**  
+Distributed execution
+:::
+
+::: {.mesh-node}
+◎
+
+**Micro-Segmentation**  
+Behavioural precision
+:::
+
+::: {.mesh-node}
+⟳
+
+**Real-Time Signals**  
+Market adaptation
+:::
+
+::: {.mesh-node}
+◈
+
+**Pattern Recognition**  
+Human curation layer
+:::
+
+::: {.mesh-node .node-teal}
+⌘
+
+**Cultural Safety**  
+Resonance, not noise
+:::
+
+::: {.mesh-node .node-amber}
+◉
+
+**BCD Framework**  
+COM-B behavioural design
+:::
+
+:::
+
+
+## Design Philosophy {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+Design Philosophy
+:::
+
+### Design for *Emergence* {.section-title}
+
+::: {.two-col}
+
+::: {.left-col}
+We treat marketing ecosystems as living organisms — not machines. Our HITL approach mirrors the Baobab Tree philosophy.
+
+::: {.card-amber}
+**Rhizomatic Growth**  
+AI agents spread horizontally across channels while human judgment keeps roots in behavioural truth.
+:::
+
+::: {.card-teal .mt-sm}
+**Outcome-Driven**  
+We replace vanity metrics with decisions that hold under the push-back of reality.
+:::
+
+:::
+
+::: {.stat-col}
+
+::: {.stat-card}
+::: {.stat-big}
+65%
+:::
+Routine mechanical tasks automated at Tier I
+:::
+
+::: {.stat-card}
+::: {.stat-big}
+24/7
+:::
+Agent-driven execution without human bandwidth limits
+:::
+
+:::
+
+:::
+
+
+## Service Model {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+Service Model
+:::
+
+### Three Tiers. One Operating System. {.section-title}
+
+::: {.tier-grid}
+
+::: {.tier-card}
+[Tier I · Pilot]{.tier-badge}
+
+**Efficiency**
+
+Automating 65% of routine tasks — SEO, content drafts, distribution. Human validates brand voice and cultural safety.
+
+*Agent:* Mechanical automation
+
+[Removes the technical tax]{.tier-outcome}
+:::
+
+::: {.tier-card .tier-featured}
+[Tier II · Squad]{.tier-badge .badge-teal}
+
+**Agility**
+
+Collaborative workflow where agents share data to optimise multi-channel campaigns. Human curates based on real-time market shifts.
+
+*Agent:* Cross-agent optimisation
+
+[Sync-first collaboration]{.tier-outcome .outcome-teal}
+:::
+
+::: {.tier-card .tier-amber}
+[Tier III · Mesh]{.tier-badge .badge-amber}
+
+**Transformation**
+
+Full autonomy — lifecycle management and micro-segmentation. Human interrogates systemic logic and designs for emergence.
+
+*Agent:* Full autonomous mesh
+
+[Custom Marketing OS]{.tier-outcome .outcome-amber}
+:::
+
+:::
+
+
+## The Differentiator {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Differentiator
+:::
+
+### The Spotted Ape *Advantage* {.section-title}
+
+We don't just "do AI." We apply Behavioural Centred Design to every agent interaction.
+
+::: {.adv-grid}
+
+::: {.card-amber}
+**Behavioural Science**  
+COM-B and BCD frameworks govern how agents engage audiences — turning statistical patterns into culturally resonant behaviour change.
+:::
+
+::: {.card-teal}
+**Strategic Autonomy**  
+We bridge the gap between where you are and where strategy says you should be — machine speed, human wisdom woven in.
+:::
+
+::: {.card-plain}
+**Pattern Recognition**  
+Humans identify which machine-generated patterns are culturally resonant vs. statistical noise. Signal over volume, always.
+:::
+
+::: {.card-plain}
+**TaaS Model**  
+A senior strategic execution team on subscription. No retainer bloat, no agency overhead. Integrated from day one.
+:::
+
+:::
+
+
+## Ready to Close the Execution *Gap?* {.slide-cta background-color="#FAFAF8"}
+
+::: {.hero-rule}
+:::
+
+Start with a Tier I Pilot. Prove the model. Scale to a full Agentic Mesh at your own pace — with a team that steers, not just delivers.
+
+::: {.cta-row}
+[→ thespottedape.com](https://thespottedape.com){.cta-primary}
+[→ marcelmare.com](https://marcelmare.com){.cta-secondary}
+:::
+
+::: {.pill-row .mt-lg}
+[Human-in-the-Loop]{.pill .pill-amber}
+[Agentic Mesh]{.pill .pill-teal}
+[Behavioural Centred Design]{.pill .pill-amber}
+:::
