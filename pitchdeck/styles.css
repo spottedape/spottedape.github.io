@@ -1,0 +1,237 @@
+// Base font family and size
+@font-face {
+  font-family: 'NimbusSanL';
+  src: url('fonts/NimbusSanL-Reg.otf') format('otf');
+}
+
+.my-title-slide {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.my-title-slide h1.title {
+  font-family: 'Futura', sans-serif;
+  font-size: 200px; /* Increased size for emphasis */
+  color: #FFF9B8;
+  font-weight: medium;
+  letter-spacing: 0.2em; /* Adds significant space between letters (kerning) */
+  text-transform: uppercase; /* Optional: Often used with kerning for a clean look */
+  margin-top: 0.4em;
+  margin-bottom: 0.5em;
+  /*background: linear-gradient(to right, #1A237E, #3949AB);
+  padding: 0.5em 0;
+  border-radius: 12px; */
+  width: 140%;
+  text-align: center;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* --- Subtitle --- */
+.my-title-slide p.subtitle {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 54px;
+  color: #FFF9B8;
+  font-style: 'NimbusSanL';
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  line-height: 1.3;
+  text-align: center;
+}
+
+/* --- Author / Facilitator --- */
+.my-title-slide .quarto-title-author-name {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 54px;
+  color: #FFF9B8;
+  font-style: normal;
+  margin-top: 0.5em;
+  line-height: 1.3;
+  text-align: center;
+}
+
+
+.reveal {
+  font-family: 'NimbusSanL', sans-serif;
+  font-size: 30px;
+  line-height: 1.6;
+}
+
+.reveal h1 {
+  color: #FFFFFF; /* Light blue for ## headings */
+  font-size: 54px;
+  font-weight: normal;
+}
+
+.reveal h2 {
+  position: absolute;
+    top: -500px;
+    left: -740px;
+  color: #FFFFFF; /* Light blue for ## headings */
+  font-size: 74px;
+  font-weight: normal;
+  margin-top: 30px;
+}
+
+.reveal h3 {
+  color: #0096FF; /* Light blue for ### headings */
+  font-size: 64px;
+  font-weight: normal;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.reveal h4 {
+  color: #0096FF; /* Light blue for ### headings */
+  font-size: 54px;
+  font-weight: normal;
+  font-style: normal;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  text-indent: -10px;
+}
+
+// Speaker notes
+.reveal .speaker-notes {
+  font-family: 'Noto', sans-serif;
+  font-size: 1.0em;
+  color: #666;
+}
+
+.reveal .purple-heading {
+  color: #0096FF;
+  font-weight: normal;
+}
+
+.reveal .columns {
+  display: flex;
+  gap: 2rem;
+}
+
+.reveal .column {
+  flex: 1;
+}
+
+.reveal .column.centered {
+  display: flex;
+  flex-direction: column;  /* important! */
+  align-items: left;
+  justify-content: center;
+  text-align: left;
+}
+
+/* custom.css */
+.reveal .white-text {
+  color: white;
+}
+
+.reveal .white-text h1,
+.reveal .white-text h2,
+.reveal .white-text h3,
+.reveal .white-text p,
+.reveal .white-text li,
+.reveal .white-text strong {
+  color: white !important;
+}
+
+.floating-end {
+ position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  z-index: 1000;
+}
+
+.spacer-small {
+  margin-top: 1.5em; /* Adds vertical space above */
+}
+
+.spacer-large {
+  margin-top: 50px;
+}
+
+
+
+/* 1. Container for 60% width and centering */
+.prompt-box {
+  width: 100%;
+  margin: 0em auto !important; /* Center the block */
+}
+
+/* 2. Target the PRE block to set the space for the indent */
+.prompt-box pre {
+  /* Create 20px of space inside the block on the left */
+  padding-left: 0px !important;
+  /* Ensure no residual indent is applied by the theme */
+  text-indent: 0px !important;
+  /* Ensure top/bottom padding is reset */
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  /*max-height: 700px;          adjust height to taste */
+  /*overflow-y: auto;           /* adds vertical scrollbar if content exceeds box */
+  /*overflow-x: hidden;         /* prevents horizontal overflow */
+  max-height: 600px !important;   /* your desired prompt height */
+  height: auto !important;        /* let it expand if content fits */
+  overflow-y: auto !important;    /* scroll if needed */
+  overflow-x: hidden !important;
+}
+
+/* 3. Target the CODE block for wrapping and alignment */
+.prompt-box code {
+  /* --- WRAPPING RULES (Essential) --- */
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+
+  /* --- ALIGNMENT FIX (The Hanging Indent) --- */
+  /* Pull the FIRST line back by 20px to align with the box boundary */
+  text-indent: 0px !important; 
+  /* Must be 'display: block' for text-indent to work correctly on the code block */
+  display: block !important;
+
+  /* Remove any default left padding on the code block itself */
+  padding-left: 0px !important;
+}
+
+/* RevealJS by default constrains vertical overflow inside slides;
+   this allows the prompt container to take its full height. */
+.reveal .slides section {
+  overflow: visible !important;
+}
+
+/* Sometimes the slide content container also clips pre/code blocks */
+.reveal pre {
+  overflow: visible !important;
+  max-height: none !important;
+}
+
+/* Optional: give your prompt a subtle shadow for clarity */
+.prompt-box {
+  background: #f8f9fa;
+  border: 1px solid #d9d9d9;
+  border-left: 4px solid #007acc;
+  padding: 0.5em;
+  border-radius: 8px;
+}
+
+.qr-left {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;   /* or 0 if you want full left edge */
+  float: left;          /* optional: text can wrap beside it */
+}
+
+
+// Wait until RevealJS finishes initialising
+Reveal.on('ready', function() {
+  // find all prompt boxes and uncap their pre/code height
+  document.querySelectorAll('.prompt-box pre').forEach(pre => {
+    pre.style.maxHeight = 'none';
+    pre.style.height = 'auto';
+    pre.style.overflowY = 'visible';
+  });
+});

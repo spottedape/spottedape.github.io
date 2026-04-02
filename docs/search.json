@@ -717,5 +717,110 @@
     "title": "The Visible Agent, The Invisible Studio",
     "section": "The Vision",
     "text": "The Vision\nThe Visible Agent.\nThe Invisible Studio.\nA new model for creative work: - Scalable\n- Intelligent\n- Human-secured"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-1",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-1",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Welcome & Introduction\nSeminar: AI Workflows for Academic Writing\nDuration: 90 minutes\nFocus: How AI supports — not replaces — scholarship.\n\nOpening context:\n\nThesis writing challenges: information overload, argument structure, fatigue.\nAI can assist with search, synthesis, and writing clarity.\nYou remain the scholar — AI is your assistant, not your author.\n\nIn this session you will:\n\nLearn how to search, synthesise and draft with AI.\nExplore ethics and attribution.\nLeave with a personal workflow plan.\n\n\n\n\nGreet participants warmly and thank them for joining.\nIntroduce the title: AI Workflows for Academic Writing.\nExplain that the session is compact and hands-on.\nAsk everyone to open the live poll or Mentimeter link.\nSay: “Tell me your top writing pain point; we’ll use your answers for examples later.”\nMention that poll results will guide the live demos.\nTransition: “Let’s look at where AI actually fits into academic work.”\nSlide Purpose: Orientation and motivation.\nLearning Outcomes addressed: introduction to LO 1–3 orientation.\nFacilitator activity: read script."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-2",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-2",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "What frustrates you most?\n\n\n  \n\n\nhttps://forms.gle/oSL8rGdxmhjioe4x8\n\n\n\n\nAsk everyone to open the live poll or Mentimeter link.\nSay: “Tell me your top writing pain point; we’ll use your answers for examples later.”\nMention that poll results will guide the live demos.\nTransition: “Let’s look at where AI actually fits into academic work.”\nFacilitator activity: launch live poll, note top three issues for later demos."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-3",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-3",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Where AI Helps…  and Where It Doesn’t (Yet)\n\nUniversity standards require:\n\nIntegrity — no plagiarism or data fabrication.\nOriginality — ideas must be your own.\nTransparency — disclose AI use if required by policy.\n\nAI can assist with:\n\nRapid literature discovery\n\nStructuring outlines, abstracts, and drafts\n\nGrammar, tone, and citation checks.\n\nGenerating sample code or figures from your notes.\n\nAI cannot replace:\n\nReading and understanding papers.\n\nCritical judgment or design reasoning.\n\nEthical authorship or data verification.\n\n\n\n\n\n\n\n\nTip\n\n\nUse AI to speed tasks — not to skip thinking.\n\n\n\n\n\n\n\nWhere AI Helps — and Where It Doesn’t.\nExplain that AI tools act like accelerators, not replacements for academic skills.\nGive one concrete example: “If you ask for key papers, always verify titles and DOIs before citing.”\nMention that AI may misread visuals or produce generic text if prompts are vague.\nEmphasise that the human remains the researcher; AI does the mechanical side.\nConclude: “We’ll explore how to balance speed and scholarship in today’s session.”\nSegment timing: 5–15 min\nLearning Outcomes linked: LO #1 (Search & curate), LO #2 (Synthesize literature), LO #3 (Draft with AI) — Knowledge phase\nFacilitator task: deliver a 10-minute talk with examples, show a one-page cheat-sheet or diagram of the research lifecycle."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-4",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-4",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "What’s your research about?\n\nActivity:\nIn pairs, take turns to describe your current research question.\nPrompting Q’s:\n\nWhat are you studying?\n\nWhere are you stuck: finding sources, structuring ideas, or writing?\n\nWhat would you like AI to help with today?\n\nTiming:\n\nEach pair talk to each other → switch sides after 3 minutes.\n\nPost a 3-sentence summary of your project in the chat.\n\n\n\n\nAnnounce that it’s time to meet one partner for a quick exchange.\n\nSay: “In your breakout pair, tell each other what you’re researching and what frustrates you most right now.”\n\nEncourage short, focused sharing — one minute setup, one minute response.\n\nAfter the chat posts appear, read two or three aloud as examples.\n\nNote recurring themes — these will guide which examples you demo later.\n\nTransition line: “Let’s see how we can use AI to find relevant papers for these topics.”\nSegment timing: 15–25 min\nLearning Outcomes linked: LO #2 (Synthesize literature) — motivation and peer context.\nFormat: Breakout pairs → plenary chat.\nDeliverable: 2-sentence problem statement per participant."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-5",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-5",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "LO #1: Search & Curate Literature\nFind 10 peer-reviewed papers relevant to your topic within 20 minutes.\n\nActivity:\n\nCreate the prompt - context is king!\n\nFrame your topic (Boolean+)\nFilter for recent peer-reviewed items (2018+)\nCheck quality on publisher sites (DOI addresses).\nGenerate a 1-sentence annotation for each paper.\nFormat result as an ordered list.\n\nPaste your list (10 items + summaries) in chat/shared doc.\nVerify one paper: check DOI link to confirm accuracy.\n\n\n\n\nIntroduce this as the first hands-on demo of AI in research.\n\nRemind them to treat AI suggestions as leads, not truth.\n\nExplain that we’ll build an annotated bibliography later from these results.\n\nModel a live search using a neutral example topic (e.g., sustainable packaging design).\n\nWalk through each result: check title, author, journal, year.\n\nAsk participants to verify one entry before posting their list.\n\nSummarise: “We’ve just completed the first outcome — a curated, checked mini-bibliography.”\n\nSegment timing: 25 – 40 min Learning Outcome linked: LO #1 (Search & curate). Format: Demo + guided individual practice. Deliverable: Five-paper annotated mini-bibliography (shared text or chat)."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-6",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-6",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Frame your topic\n\n\nFormulate Old School Boolean Search\nCombine key terms to capture relevant papers and exclude noise using Boolean building blocks\n\n\n\n\n\n\n\n\nOp.\nFunction\nExample\n\n\n\n\nOR\nrelated terms\n“sustainable product” OR “ecodesign”\n\n\nAND\ncombine diff. ideas\n“ecodesign” AND “manufacturing”\n\n\n” “\nexact phrase\n“green design”\n\n\n*\nfind word variants\ndesign* → design, designer, designing\n\n\n\n resulting in… \n\n(“sustainable product” OR “green design”) AND (design* OR develop* OR engineer*)\n\n Paste into Google Scholar, Scopus, or LLM:\nApply filters: Peer-reviewed, 2018 onwards, English language etc\nFrame Your Topic with AI (Boolean+)\n\nGenerate a Boolean search string for my topic:\n[insert your topic here].\n\nInclude:\n    •   Synonyms and related terms (use OR)\n    •   Two distinct concept groups combined with AND\n    •   Quotation marks for multi-word phrases\n    •   Wildcards where useful (e.g., design*)\n\nReturn the Boolean query on one line ready for Scopus, Google Scholar, or Elicit.\n\n\n\n\nStart by asking: “What are the key ideas in your topic?” (e.g., sustainability + design).\n\nExplain that OR collects synonyms and broadens results; AND combines concept groups.\n\nShow that quotation marks keep multi-word phrases intact.\n\nDemonstrate the asterisk for word variations – “design*” captures design, designer, designing.\n\nRun the example live in a database or AI tool.\n\nEmphasise that Boolean logic helps you control results – it’s not random guessing.\n\nTransition: “Now that we’ve built a good search string, we can feed it into AI tools to generate candidate papers.”"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-7",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-7",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Creating Prompts\nBuild and refine LLM prompts for literature discovery.\n\nWhat is a prompt?\nA short instruction or question you give to an AI model.\nIt guides the model’s task, scope, and format of response.\n\nFind 10 peer-reviewed papers from 2018–2025  \non sustainable or green product design, development, or engineering.  \nInclude title, author, year, DOI, and one-line summary.  \nMark any uncertain citation with [VERIFY].\n\nPrompt structure\n\nRole – tell the AI who it should act as.\n\nTask – describe exactly what to do.\n\nContext / criteria – add limits or filters.\n\nOutput format – specify how results should appear.\n\nOptimise Your Prompt with the LLM\nYou can also ask the LLM to co-create or optimise the prompt with you.\n\nYou are an academic search assistant helping me locate recent, peer-reviewed papers.\nImprove my prompt for clarity and reproducibility.\n\nKeep all key terms and add filters for:\n    •   peer-reviewed journals\n    •   date range (2018–present)\n    •   output format (table)\nReturn your optimised version."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-8",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-8",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Build and refine LLM prompts for literature discovery.\n\nDetailed Prompt Sample\n\nYou are a research assistant helping me locate recent, peer-reviewed papers.\nTopic focus: [YOUR TOPIC]\n\nPlease do the following:\n1. Return a list of **10 peer-reviewed journal articles from 2018 onwards**.  \n2. For each article, include:\n   - Title  \n   - Author(s)  \n   - Year  \n   - DOI or publisher link  \n   - A **one-sentence summary** of the study’s aim or contribution.  \n3. Exclude:\n   - Preprints, blogs, or non-peer-reviewed sources  \n   - Duplicates or incomplete references  \n4. If uncertain about any citation, mark it with `[VERIFY]` instead of guessing a DOI.  \n5. Present the output as a simple table.\n\nExample output format:\n| # | Title | Author(s) | Year | DOI | Summary |  \n|---|--------|------------|------|------|----------|  \n| 1 | ... | ... | ... | ... | ... |\n\nRespond only with verifiable results."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-9",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-9",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "LO #2: Synthesize the Literature & find the Gap\n\nShort Prompt:\nWrite a 150–200 word paragraph summarising what’s known + the gap.\nSample Prompt:\n\nUsing these 10 papers, write a 150-word paragraph that\\\n(a) summarises the main approaches,\n(b) identifies what remains unresolved,\n(c) ends with the gap my project will address.\n\nYour task (10 min):\n\nCreate your own prompt.\n\nDraft your paragraph.\n\nPaste it in the shared document/chat.\n\nLabel your post: “LIT-GAP PARA – [Your Name].”\n\nChecklist:\n\nClarity\nEvidence from sources\nExplicit gap statement\n\n\n\n\nAnnounce that it’s time to turn search results into synthesis.\n\nEncourage writing first in plain language, then refining with AI if they wish.\n\nRemind them to cite or note authors within the paragraph.\n\nSay: “Keep your paragraph factual and show where the gap is—don’t just list papers.”\n\nAfter 10 minutes, invite two volunteers to read theirs aloud.\n\nTransition: “We’ll now swap for quick peer feedback to see how these paragraphs read to others.”\n\nSegment timing: 40 – 50 min Learning Outcome linked: LO #2 (Synthesize literature) Format: Individual writing → shared submission Deliverable: 150–200 word literature-gap paragraph per participant"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-10",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-10",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Rapid Peer Feedback\n(Small-Group Critique)\n\nTask:\nStrengthen clarity and logic in your literature-gap paragraph.\nGroup setup:\n3 participants per group.\nTask (10 min total):\n\nExchange your paragraphs.\nGive 4 comments each:\n\nIs the prompt well-structured?\n\nIs the paragraph clear and concise?\n\nIs the evidence properly linked to sources?\n\nIs the gap explicit and meaningful?\n\n\nQuick rubric (1–5 scale):\n1 = unclear 3 = understandable 5 = compelling\nDeliverable:\n3 short comments + rating per peer.\n\n\n\nDirect students to breakout groups of three.\n\nSay: “Each person reads another’s paragraph and gives three quick, specific comments.”\n\nEmphasise constructive tone—focus on clarity and connection to literature.\n\nDisplay the 1–5 scale so everyone uses a common measure.\n\nKeep time: 3 minutes each round, one minute to wrap up.\n\nAfter 10 minutes, call everyone back and ask for one insight from the activity.\n\nTransition: “Now that we’ve practised synthesis, let’s try generating and refining an abstract using AI.”\n\nSegment timing: 50 – 60 min Learning Outcome linked: LO #2 (Synthesize literature) — peer feedback and revision. Format: Small groups of three. Deliverable: Peer comments and numeric rating for each paragraph."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-11",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-11",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "LO #3: From Draft to Abstract\n\nCreate an Abstract with AI:\nProduce a ≤ 250-word abstract using an AI-assisted prompt, then edit for clarity and accuracy.\nDemo steps (facilitator):\n\nPaste a 1-page methods + results section into the LLM.\n\nRun the “Structured Abstract” prompt.\n\n\n\nCreate a structured abstract (≤ 250 words) from this text.\nKeep numbers and claims as given, and\nmark any you’re unsure of with [CHECK].\n\n\nReview the output for structure (IMRaD form – Intro, Methods, Results, Discussion).\n\nRun a second prompt to humanise tone and insert [CHECK] tags where facts need verification.\nPaste your before/after pair in the shared document.\n\nEdit Checklist:\n\nAccuracy\nClarity\nLogical flow\nWord limit ≤ 250\n\n\n\n\nIntroduce this as our “AI draft and refine” moment.\n\nDemonstrate live with a neutral sample text (e.g., study on design thinking methods).\n\nShow how to run the first prompt and what a structured abstract looks like.\n\nEmphasise human editing afterwards — highlight where AI misses nuance or adds generic phrasing.\n\nAsk participants to try the prompt with their own data if they have it, or use the sample provided.\n\nDiscuss how the [CHECK] tags help track verification needs.\n\nTransition: “Next, we’ll look at how to handle ethics and AI use in real publication scenarios.”\n\nSegment timing: 60 – 70 min Learning Outcome linked: LO #3 (Draft with AI). Format: Live demo + short individual practice. Deliverable: Before/after abstract pair + reflection checklist."
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-12",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-12",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Ethics in Practice — Hallucination & Attribution Challenge\n\nGoal (LO #7 – Ethics & Attribution):\nIdentify ethical responses when AI invents or misattributes sources.\nScenario:\nAn AI tool suggests a “seminal” paper that doesn’t exist.\nYour co-author wants to include it to strengthen your argument.\nGroup Task (10 min):\n\nDiscuss → What 3 steps would you take to verify and respond?\n\nDraft → One sentence your lab could add to its SOP to prevent this.\n\nPost → Your SOP sentence + 3 steps in the shared doc.\n\nReference Checklist:\n\nSearch the DOI or publisher site\nCross-check citations\nDisclose AI use honestly\n\n\n\n\nRead the scenario aloud to set the tone.\n\nEmphasise that “hallucination” means a fabricated reference or data point.\n\nInstruct small groups (3–4 people) to identify a verification sequence—what would they do first?\n\nSuggest steps like: confirm DOI, find real sources, note corrections transparently.\n\nAfter 8 minutes, call them back for 2-minute sharebacks.\n\nSummarise common themes: verification, documentation, disclosure.\n\nTransition: “Let’s hear a few of your lab policy statements before we wrap up.”\n\nSegment timing: 70 – 82 min Learning Outcome linked: LO #7 (Ethics & Attribution) Format: Small-group scenario discussion + plenary shareback Deliverable: 1-sentence lab SOP statement + 3 verification steps posted to shared doc"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-13",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-13",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Sharebacks\n\nConsolidate insights.\n\nRead your 1-sentence SOP statement. (voluntary)\n\nWhat are good practices? For instance:\n\nAlways verify sources manually.\n\nKeep an audit trail of AI prompts and outputs.\n\nUse transparent disclosure language.\n\n\n\n\n\nInvite 2–3 groups to share their SOP statements aloud.\n\nAffirm consistent points (verification, disclosure, authorship).\n\nEncourage quick clarifying questions from the group.\n\nKeep responses concise; flag deeper issues for follow-up resources.\n\nTransition line: “We’ll finish by capturing the key take-aways and linking them back to the outcomes we began with.”\n“The purpose of this exercise is not to avoid AI, but to use it with integrity and precision.”\n\nSegment timing: 40 min Learning Outcomes linked: Reinforces LO #7 (Ethics & Attribution) and transitions to LO #8 (Workflow Design). Format: Plenary shareback + facilitated discussion Deliverable: Shared SOP statements and verbal Q&A"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-14",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-14",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "Q + A\n\n\n“What’s one question or concern you still have about using AI in your writing?”\n\n\n\n\nEncourage quick clarifying questions from the group.\n\nKeep responses concise; flag deeper issues for follow-up resources.\n\nTransition line: “We’ll finish by capturing the key take-aways and linking them back to the outcomes we began with.”\n\nSegment timing: 40 min Learning Outcomes linked: Reinforces LO #7 (Ethics & Attribution) and transitions to LO #8 (Workflow Design). Format: Plenary shareback + facilitated discussion Deliverable: Shared SOP statements and verbal Q&A"
+  },
+  {
+    "objectID": "pitchdeck/wk-ai-uni2.html#slide-15",
+    "href": "pitchdeck/wk-ai-uni2.html#slide-15",
+    "title": "AI in Praxis",
+    "section": "",
+    "text": "LO #8: Wrap-Up & Reflection\n\nGoal ( – Workflow Design):\nSketch your own AI-augmented academic workflow for your next project (submit for next meeting).\nTask (5 min):\nCreate a quick workflow table with these elements:\n\nPhase: Which part will you augment first? (e.g. literature review)\nTool choice: Which AI tool(s) will you test? (e.g. Elicit + Scite)\nCheckpoint: How will you verify outputs? (e.g. Verify DOIs weekly)\nTimeline: When will you run this and who will review it? (e.g. 2 weeks)\n\nClosing reflection:\n\n“Name one change you’ll make in how you use AI for your research this month.”\n\n\n\n\nExplain that this final activity ties all outcomes together through a personal action plan.\n\nEncourage students to be realistic—choose one manageable workflow phase to pilot.\n\nRemind them to include verification and disclosure steps in their plan.\n\nAsk for one volunteer to share their workflow idea aloud.\n\nEnd with: “AI is here to support disciplined creativity and efficient scholarship—use it well, use it ethically.”\n\nThank everyone for participating and share the post-session survey link.\n\nSegment timing: 88 – 90 min Learning Outcome linked: LO #8 (Workflow Design) Format: Individual reflection → optional short share Deliverable: Personal workflow plan (mini table)"
   }
 ]

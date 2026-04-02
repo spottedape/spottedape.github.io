@@ -1,0 +1,718 @@
+---
+title: "<br>AI in Praxis"
+subtitle: "<br><br>Postgraduate Workshop: Harnessing AI Tools Ethically in Academic Writing"
+# title: "Ethical <br> Effective <br> Efficient"
+#subtitle: "Practical & Responsible Use of AI Tools in Academic Writing <br> Workshop for Postgraduates"
+author: "Facilitator: Marcel Maré"
+format:
+  revealjs:
+    theme: white
+    title-slide-attributes:
+      data-background-image: "images/cover-wk2.png"
+      data-background-size: "cover"
+      data-background-position: "center"
+      data-background-opacity: "0.68"
+    css: styles.css
+    transition: fade
+    slide-number: true
+    center: true
+    incremental: false
+    embed-resources: true
+    width: 1920
+    height: 1080
+    margin: 0.4
+editor: visual
+title-slide-attributes:
+  class: "my-title-slide"
+---
+
+##  {#slide-1}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### Welcome & Introduction
+
+**Seminar:** *AI Workflows for Academic Writing*\
+**Duration:** 90 minutes\
+**Focus:** How AI supports — not replaces — scholarship.
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Opening context:
+
+- Thesis writing challenges: information overload, argument structure, fatigue.
+- AI can assist with search, synthesis, and writing clarity.
+- You remain the scholar — AI is your assistant, not your author.
+
+#### In this session you will:
+
+- Learn how to search, synthesise and draft with AI.
+- Explore ethics and attribution.
+- Leave with a personal workflow plan.
+:::
+:::::
+
+::: notes
+- Greet participants warmly and thank them for joining.
+
+- Introduce the title: *AI Workflows for Academic Writing*.
+
+- Explain that the session is compact and hands-on.
+
+- Ask everyone to open the live poll or Mentimeter link.
+
+- Say: “Tell me your top writing pain point; we’ll use your answers for examples later.”
+
+- Mention that poll results will guide the live demos.
+
+- Transition: “Let’s look at where AI actually fits into academic work.”
+
+- **Slide Purpose:** Orientation and motivation.
+
+- **Learning Outcomes addressed:** introduction to LO 1–3 orientation.
+
+- **Facilitator activity:** read script.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-2}
+
+:::::: columns
+::: {.column .centered style="width: 35%;"}
+### What frustrates you most?
+:::
+
+:::: {.column .centered style="width: 60%;"}
+::: {.callout-question icon="help-circle" collapse="false"}
+<br> <iframe src="https://forms.gle/oSL8rGdxmhjioe4x8" 
+        width="75%" height="475px"
+        style="border:none;"> </iframe>
+:::
+
+![](https://api.qrserver.com/v1/create-qr-code/?data=https://forms.gle/oSL8rGdxmhjioe4x8&size=150x150){.qr-left}
+
+<https://forms.gle/oSL8rGdxmhjioe4x8>
+
+```{=html}
+<!-- -   [ ] Finding sources
+-   [ ] Structuring arguments
+-   [ ] Maintaining style, tone and flow
+-   [ ] Time pressure
+-   [ ] Other -->
+```
+::::
+::::::
+
+::: notes
+- Ask everyone to open the live poll or Mentimeter link.
+
+- Say: “Tell me your top writing pain point; we’ll use your answers for examples later.”
+
+- Mention that poll results will guide the live demos.
+
+- Transition: “Let’s look at where AI actually fits into academic work.”
+
+- **Facilitator activity:** launch live poll, note top three issues for later demos.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-3}
+
+:::::: columns
+::: {.column .centered style="width: 35%;"}
+### Where AI Helps... <br> and Where It Doesn’t (Yet)
+:::
+
+:::: {.column .centered style="width: 60%;"}
+#### University standards require:
+
+- **Integrity** — no plagiarism or data fabrication.
+- **Originality** — ideas must be your own.
+- **Transparency** — disclose AI use if required by policy.
+
+#### AI can assist with:
+
+- Rapid literature discovery\
+- Structuring outlines, abstracts, and drafts\
+- Grammar, tone, and citation checks.\
+- Generating sample code or figures from your notes.
+
+#### AI cannot replace:
+
+- Reading and understanding papers.\
+- Critical judgment or design reasoning.\
+- Ethical authorship or data verification.
+
+::: {.callout-tip .centered style="width: 75%;"}
+*Use AI to speed tasks — not to skip thinking.*
+:::
+::::
+::::::
+
+::: notes
+- Where AI Helps — and Where It Doesn’t.
+
+- Explain that AI tools act like accelerators, not replacements for academic skills.
+
+- Give one concrete example: “If you ask for key papers, always verify titles and DOIs before citing.”
+
+- Mention that AI may misread visuals or produce generic text if prompts are vague.
+
+- Emphasise that the human remains the researcher; AI does the mechanical side.
+
+- Conclude: “We’ll explore how to balance speed and scholarship in today’s session.”
+
+- **Segment timing:** 5–15 min
+
+- **Learning Outcomes linked:** LO #1 (Search & curate), LO #2 (Synthesize literature), LO #3 (Draft with AI) — Knowledge phase
+
+- **Facilitator task:** deliver a 10-minute talk with examples, show a one-page cheat-sheet or diagram of the research lifecycle.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-4}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### What's your research about?
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Activity:
+
+In pairs, take turns to **describe your current research question**.
+
+#### Prompting Q's:
+
+1.  What are you studying?\
+2.  Where are you stuck: finding sources, structuring ideas, or writing?\
+3.  What would you like AI to help with today?
+
+#### Timing:
+
+- Each pair talk to each other → switch sides after 3 minutes.\
+- Post a 3-sentence summary of your project in the chat.
+:::
+:::::
+
+::: notes
+- Announce that it’s time to meet one partner for a quick exchange.\
+
+- Say: “In your breakout pair, tell each other what you’re researching and what frustrates you most right now.”\
+
+- Encourage short, focused sharing — one minute setup, one minute response.\
+
+- After the chat posts appear, read two or three aloud as examples.\
+
+- Note recurring themes — these will guide which examples you demo later.\
+
+- Transition line: “Let’s see how we can use AI to find relevant papers for these topics.”
+
+- **Segment timing:** 15–25 min
+
+- **Learning Outcomes linked:** LO #2 (Synthesize literature) — motivation and peer context.
+
+- **Format:** Breakout pairs → plenary chat.
+
+- **Deliverable:** 2-sentence problem statement per participant.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-5}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### **LO #1:** *Search & Curate Literature*
+
+Find **10 peer-reviewed papers** relevant to your topic within 20 minutes.
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Activity:
+
+- Create the prompt - context is king!
+  - Frame your topic (Boolean+)
+  - Filter for recent peer-reviewed items (2018+)
+  - Check quality on publisher sites (DOI addresses).
+  - Generate a 1-sentence annotation for each paper.
+  - Format result as an ordered list.
+- Paste your list (10 items + summaries) in chat/shared doc.
+- Verify one paper: check DOI link to confirm accuracy.
+:::
+:::::
+
+::: notes
+- Introduce this as the first hands-on demo of AI in research.\
+- Remind them to treat AI suggestions as leads, not truth.\
+- Explain that we’ll build an annotated bibliography later from these results.\
+- Model a live search using a neutral example topic (e.g., sustainable packaging design).\
+- Walk through each result: check title, author, journal, year.\
+- Ask participants to verify one entry before posting their list.\
+- Summarise: “We’ve just completed the first outcome — a curated, checked mini-bibliography.”
+
+**Segment timing:** 25 – 40 min **Learning Outcome linked:** LO #1 (Search & curate). **Format:** Demo + guided individual practice. **Deliverable:** Five-paper annotated mini-bibliography (shared text or chat).
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-6}
+
+::::::: columns
+::: {.column .centered style="width: 35%;"}
+### Frame your topic
+:::
+
+::::: {.column .centered style="width: 60%;"}
+````{=html}
+<!-- ::: prompt-box
+#### Short sample prompt
+``` prompt
+Find 10 recent peer-reviewed papers about [YOUR_TOPIC].
+Give title, year, and a one-sentence summary of each.
+```
+::: -->
+````
+
+#### Formulate Old School Boolean Search
+
+Combine key terms to capture relevant papers and exclude noise using Boolean building blocks
+
+| Op.     | Function            | Example                                  |
+|---------|---------------------|------------------------------------------|
+| **OR**  | related terms       | "sustainable product" **OR** "ecodesign" |
+| **AND** | combine diff. ideas | "ecodesign" **AND** "manufacturing"      |
+| **" "** | exact phrase        | **"green design"**                       |
+| **\***  | find word variants  | design\* → design, designer, designing   |
+
+<br> resulting in... <br>
+
+::: prompt-box
+``` prompt
+(“sustainable product” OR “green design”) AND (design* OR develop* OR engineer*)
+```
+:::
+
+<br> Paste into Google Scholar, Scopus, or LLM:\
+Apply filters: **Peer-reviewed, 2018 onwards, English language etc**
+
+#### Frame Your Topic with AI (Boolean+)
+
+::: prompt-box
+``` prompt
+Generate a Boolean search string for my topic:
+[insert your topic here].
+
+Include:
+    •   Synonyms and related terms (use OR)
+    •   Two distinct concept groups combined with AND
+    •   Quotation marks for multi-word phrases
+    •   Wildcards where useful (e.g., design*)
+
+Return the Boolean query on one line ready for Scopus, Google Scholar, or Elicit.
+```
+:::
+:::::
+:::::::
+
+::: notes
+- Start by asking: “What are the key ideas in your topic?” (e.g., sustainability + design).\
+- Explain that **OR** collects synonyms and broadens results; **AND** combines concept groups.\
+- Show that quotation marks keep multi-word phrases intact.\
+- Demonstrate the asterisk for word variations – “design\*” captures design, designer, designing.\
+- Run the example live in a database or AI tool.\
+- Emphasise that Boolean logic helps you control results – it’s not random guessing.\
+- Transition: “Now that we’ve built a good search string, we can feed it into AI tools to generate candidate papers.”\
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-7}
+
+::::::: columns
+::: {.column .centered style="width: 35%;"}
+### Creating Prompts
+
+Build and refine LLM prompts for literature discovery.
+:::
+
+::::: {.column .centered style="width: 60%;"}
+#### What is a prompt?
+
+A short instruction or question you give to an AI model.\
+It guides the model’s **task**, **scope**, and **format** of response.
+
+::: prompt-box
+``` prompt
+Find 10 peer-reviewed papers from 2018–2025  
+on sustainable or green product design, development, or engineering.  
+Include title, author, year, DOI, and one-line summary.  
+Mark any uncertain citation with [VERIFY].
+```
+:::
+
+#### Prompt structure
+
+1.  **Role** – tell the AI who it should act as.\
+2.  **Task** – describe exactly what to do.\
+3.  **Context / criteria** – add limits or filters.\
+4.  **Output format** – specify how results should appear.
+
+#### Optimise Your Prompt with the LLM
+
+You can also ask the LLM to co-create or optimise the prompt with you.
+
+::: prompt-box
+``` prompt
+You are an academic search assistant helping me locate recent, peer-reviewed papers.
+Improve my prompt for clarity and reproducibility.
+
+Keep all key terms and add filters for:
+    •   peer-reviewed journals
+    •   date range (2018–present)
+    •   output format (table)
+Return your optimised version.
+```
+:::
+:::::
+:::::::
+
+------------------------------------------------------------------------
+
+##  {#slide-8}
+
+:::::: columns
+::: {.column .centered style="width: 35%;"}
+Build and refine LLM prompts for literature discovery.
+:::
+
+:::: {.column .centered style="width: 60%;"}
+#### Detailed Prompt Sample
+
+::: prompt-box
+``` prompt
+You are a research assistant helping me locate recent, peer-reviewed papers.
+Topic focus: [YOUR TOPIC]
+
+Please do the following:
+1. Return a list of **10 peer-reviewed journal articles from 2018 onwards**.  
+2. For each article, include:
+   - Title  
+   - Author(s)  
+   - Year  
+   - DOI or publisher link  
+   - A **one-sentence summary** of the study’s aim or contribution.  
+3. Exclude:
+   - Preprints, blogs, or non-peer-reviewed sources  
+   - Duplicates or incomplete references  
+4. If uncertain about any citation, mark it with `[VERIFY]` instead of guessing a DOI.  
+5. Present the output as a simple table.
+
+Example output format:
+| # | Title | Author(s) | Year | DOI | Summary |  
+|---|--------|------------|------|------|----------|  
+| 1 | ... | ... | ... | ... | ... |
+
+Respond only with verifiable results.
+```
+:::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+##  {#slide-9}
+
+:::::: columns
+::: {.column .centered style="width: 35%;"}
+### **LO #2:** Synthesize the Literature & find the Gap
+:::
+
+:::: {.column .centered style="width: 60%;"}
+#### Short Prompt:
+
+Write a 150–200 word paragraph summarising what’s known + the gap.
+
+#### Sample Prompt:
+
+::: prompt-box
+``` prompt
+Using these 10 papers, write a 150-word paragraph that\
+(a) summarises the main approaches,
+(b) identifies what remains unresolved,
+(c) ends with the gap my project will address.
+```
+:::
+
+#### Your task (10 min):
+
+- Create your own prompt.\
+- Draft your paragraph.\
+- Paste it in the shared document/chat.\
+- Label your post: “LIT-GAP PARA – \[Your Name\].”
+
+#### Checklist:
+
+- Clarity
+- Evidence from sources
+- Explicit gap statement
+::::
+::::::
+
+::: notes
+- Announce that it’s time to turn search results into synthesis.\
+- Encourage writing first in plain language, then refining with AI if they wish.\
+- Remind them to cite or note authors within the paragraph.\
+- Say: “Keep your paragraph factual and show where the gap is—don’t just list papers.”\
+- After 10 minutes, invite two volunteers to read theirs aloud.\
+- Transition: “We’ll now swap for quick peer feedback to see how these paragraphs read to others.”
+
+**Segment timing:** 40 – 50 min **Learning Outcome linked:** LO #2 (Synthesize literature) **Format:** Individual writing → shared submission **Deliverable:** 150–200 word literature-gap paragraph per participant
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-10}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### Rapid Peer Feedback
+
+(Small-Group Critique)
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Task:
+
+Strengthen clarity and logic in your literature-gap paragraph.
+
+#### Group setup:
+
+3 participants per group.
+
+#### Task (10 min total):
+
+- Exchange your paragraphs.
+- Give **4 comments** each:
+  - Is the prompt well-structured?\
+  - Is the paragraph clear and concise?\
+  - Is the evidence properly linked to sources?\
+  - Is the gap explicit and meaningful?
+
+#### Quick rubric (1–5 scale):
+
+1 = unclear 3 = understandable 5 = compelling
+
+#### Deliverable:
+
+3 short comments + rating per peer.
+:::
+:::::
+
+::: notes
+- Direct students to breakout groups of three.\
+- Say: “Each person reads another’s paragraph and gives three quick, specific comments.”\
+- Emphasise constructive tone—focus on clarity and connection to literature.\
+- Display the 1–5 scale so everyone uses a common measure.\
+- Keep time: 3 minutes each round, one minute to wrap up.\
+- After 10 minutes, call everyone back and ask for one insight from the activity.\
+- Transition: “Now that we’ve practised synthesis, let’s try generating and refining an abstract using AI.”
+
+**Segment timing:** 50 – 60 min **Learning Outcome linked:** LO #2 (Synthesize literature) — peer feedback and revision. **Format:** Small groups of three. **Deliverable:** Peer comments and numeric rating for each paragraph.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-11}
+
+:::::: columns
+::: {.column .centered style="width: 35%;"}
+### **LO #3:** From Draft to Abstract
+:::
+
+:::: {.column .centered style="width: 60%;"}
+#### Create an Abstract with AI:
+
+Produce a ≤ 250-word abstract using an AI-assisted prompt, then edit for clarity and accuracy.
+
+#### Demo steps (facilitator):
+
+1.  Paste a 1-page methods + results section into the LLM.\
+2.  Run the “Structured Abstract” prompt.\
+
+::: prompt-box
+``` prompt
+Create a structured abstract (≤ 250 words) from this text.
+Keep numbers and claims as given, and
+mark any you’re unsure of with [CHECK].
+```
+:::
+
+3.  Review the output for structure (IMRaD form – Intro, Methods, Results, Discussion).\
+4.  Run a second prompt to *humanise* tone and insert \[CHECK\] tags where facts need verification.
+5.  Paste your before/after pair in the shared document.
+
+#### Edit Checklist:
+
+- Accuracy
+- Clarity
+- Logical flow
+- Word limit ≤ 250
+::::
+::::::
+
+::: notes
+- Introduce this as our “AI draft and refine” moment.\
+- Demonstrate live with a neutral sample text (e.g., study on design thinking methods).\
+- Show how to run the first prompt and what a structured abstract looks like.\
+- Emphasise human editing afterwards — highlight where AI misses nuance or adds generic phrasing.\
+- Ask participants to try the prompt with their own data if they have it, or use the sample provided.\
+- Discuss how the \[CHECK\] tags help track verification needs.\
+- Transition: “Next, we’ll look at how to handle ethics and AI use in real publication scenarios.”
+
+Segment timing: 60 – 70 min Learning Outcome linked: LO #3 (Draft with AI). Format: Live demo + short individual practice. Deliverable: Before/after abstract pair + reflection checklist.
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-12}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### Ethics in Practice — Hallucination & Attribution Challenge
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Goal (LO #7 – Ethics & Attribution):
+
+Identify ethical responses when AI invents or misattributes sources.
+
+#### Scenario:
+
+An AI tool suggests a “seminal” paper that doesn’t exist.\
+Your co-author wants to include it to strengthen your argument.
+
+#### Group Task (10 min):
+
+1.  Discuss → What 3 steps would you take to verify and respond?\
+2.  Draft → One sentence your lab could add to its SOP to prevent this.\
+3.  Post → Your SOP sentence + 3 steps in the shared doc.
+
+#### Reference Checklist:
+
+- Search the DOI or publisher site
+- Cross-check citations
+- Disclose AI use honestly
+:::
+:::::
+
+::: notes
+- Read the scenario aloud to set the tone.\
+- Emphasise that “hallucination” means a fabricated reference or data point.\
+- Instruct small groups (3–4 people) to identify a verification sequence—what would they do first?\
+- Suggest steps like: confirm DOI, find real sources, note corrections transparently.\
+- After 8 minutes, call them back for 2-minute sharebacks.\
+- Summarise common themes: verification, documentation, disclosure.\
+- Transition: “Let’s hear a few of your lab policy statements before we wrap up.”
+
+Segment timing: 70 – 82 min Learning Outcome linked: LO #7 (Ethics & Attribution) Format: Small-group scenario discussion + plenary shareback Deliverable: 1-sentence lab SOP statement + 3 verification steps posted to shared doc
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-13}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### Sharebacks
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Consolidate insights.
+
+- Read your **1-sentence SOP statement.** (voluntary)\
+- What are good practices? For instance:
+  - Always verify sources manually.\
+  - Keep an audit trail of AI prompts and outputs.\
+  - Use transparent disclosure language.
+:::
+:::::
+
+::: notes
+- Invite 2–3 groups to share their SOP statements aloud.\
+- Affirm consistent points (verification, disclosure, authorship).\
+- Encourage quick clarifying questions from the group.\
+- Keep responses concise; flag deeper issues for follow-up resources.\
+- Transition line: “We’ll finish by capturing the key take-aways and linking them back to the outcomes we began with.”
+- “The purpose of this exercise is not to avoid AI, but to use it with integrity and precision.”
+
+Segment timing: 40 min Learning Outcomes linked: Reinforces LO #7 (Ethics & Attribution) and transitions to LO #8 (Workflow Design). Format: Plenary shareback + facilitated discussion Deliverable: Shared SOP statements and verbal Q&A
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-14}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### Q + A
+:::
+
+::: {.column .centered style="width: 60%;"}
+> *“What’s one question or concern you still have about using AI in your writing?”*
+:::
+:::::
+
+::: notes
+- Encourage quick clarifying questions from the group.\
+- Keep responses concise; flag deeper issues for follow-up resources.\
+- Transition line: “We’ll finish by capturing the key take-aways and linking them back to the outcomes we began with.”
+
+Segment timing: 40 min Learning Outcomes linked: Reinforces LO #7 (Ethics & Attribution) and transitions to LO #8 (Workflow Design). Format: Plenary shareback + facilitated discussion Deliverable: Shared SOP statements and verbal Q&A
+:::
+
+------------------------------------------------------------------------
+
+##  {#slide-15}
+
+::::: columns
+::: {.column .centered style="width: 35%;"}
+### LO #8: Wrap-Up & Reflection
+:::
+
+::: {.column .centered style="width: 60%;"}
+#### Goal ( – Workflow Design):
+
+Sketch your own AI-augmented academic workflow for your next project (submit for next meeting).
+
+#### Task (5 min):
+
+Create a quick workflow table with these elements:
+
+1.  **Phase:** Which part will you augment first? (e.g. literature review)
+
+2.  **Tool choice:** Which AI tool(s) will you test? (e.g. Elicit + Scite)
+
+3.  **Checkpoint:** How will you verify outputs? (e.g. Verify DOIs weekly)
+
+4.  **Timeline:** When will you run this and who will review it? (e.g. 2 weeks)
+
+#### Closing reflection:
+
+> *“Name one change you’ll make in how you use AI for your research this month.”*
+:::
+:::::
+
+::: notes
+- Explain that this final activity ties all outcomes together through a personal action plan.\
+- Encourage students to be realistic—choose one manageable workflow phase to pilot.\
+- Remind them to include verification and disclosure steps in their plan.\
+- Ask for one volunteer to share their workflow idea aloud.\
+- End with: “AI is here to support disciplined creativity and efficient scholarship—use it well, use it ethically.”\
+- Thank everyone for participating and share the post-session survey link.
+
+**Segment timing:** 88 – 90 min **Learning Outcome linked:** LO #8 (Workflow Design) **Format:** Individual reflection → optional short share **Deliverable:** Personal workflow plan (mini table)
+:::
