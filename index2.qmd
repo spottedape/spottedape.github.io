@@ -1,0 +1,219 @@
+---
+sidebar: true
+toc: false
+format:
+  html:
+    page-layout: article
+  
+---
+```{=html}
+<!-- Bug in hero - only displays properly with empty div at the top -->
+<div class="jumbotron bgimg">
+  <div class="container">
+    <h1 class="display-4"></h1>
+    <p class="lead"></p>
+  </div>
+</div>
+<style type="text/css">
+.bgimg {
+  background-image: url('images/hero-agent.png');
+  background-size: cover;
+}
+.lead {
+    font-family: "Zilla Slab";
+    text-align: center;
+}
+.hero-quote {
+  font-family: "Zilla Slab";
+  font-color: white;
+  color: white;
+}
+
+.fw-bold {
+  font-style: bold !important;
+  color: white !important;
+}
+</style>
+<div class="p-5 mb-4 bg-light rounded-3 bgimg">
+  <br><br><br><br>
+  <div class="hero-quote">
+    <h1 class="display-5 fw-bold">The Visible Agent.<br>The Invisible Studio.</h1>
+  </div>
+</div>
+<p class="hero-subtitle">
+   AI-POWERED CREATIVE DELIVERY | HUMAN-IN-THE-LOOP ASSURANCE | ALWAYS-ON STUDIO PRESENCE
+</p>
+```
+
+<br>
+
+::: {.grid}
+::: {.g-col-1}
+:::
+
+::: {.g-col-10}
+#### The illusion is real. The quality is guaranteed.
+
+In the 1980s, Max Headroom appeared to be fully computer-generated — sharp, synthetic, digital. Behind the illusion was human performance, manual compositing, and crafted intelligence. The AI was not real. **The experience was.**
+
+#### We invert that model for today.
+
+The intelligence now *is* real. But it exists on a spectrum — from dufus to genius, often unpredictably in between. AI is powerful, but not yet consistently reliable. What if clients could experience AI at its best, without being exposed to its worst?
+:::
+
+::: {.g-col-1}
+:::
+:::
+
+<br><br><br><br><br><br><br>
+
+# The Concept
+***
+<br><br>
+
+>### "AI delivers the experience. Humans guarantee the outcome."
+
+<br><br><br>
+
+:::: {#light-grey-background}
+::: {.grid}
+::: {.g-col-8}
+
+### A Cloud-Based Creative Studio
+
+Clients interact with intelligent AI agents that feel like autonomous creative partners — seamless, consistent, always on. A single, continuous digital presence that is fully capable, context-aware, and creatively reliable.
+
+Behind every agent: human designers, creative directors, and strategists operating quietly in the loop.
+
+<small class="text-muted">Autonomous AI Agents | Seamless Client Experience | Always-On Creative Presence</small>
+:::
+
+:::{.g-col-4}
+![](images/agent-studio.png)
+:::
+:::
+::::
+
+<br>
+
+:::: {#applied-ai}
+::: {.grid}
+::: {.g-col-4}
+![](images/human-in-loop.png)
+:::
+
+::: {.g-col-8}
+
+### Human-in-the-Loop AI
+
+AI handles speed, iteration, and continuity. Humans ensure accuracy, cultural relevance, creative quality, and strategic alignment. Pure AI is fast but inconsistent. Pure human is high quality but slow and expensive. We combine both — the AI interface with human assurance.
+
+<small class="text-muted-darker">Creative Direction | Quality Assurance | Strategic Alignment | Cultural Relevance</small>
+:::
+:::
+::::
+
+<br>
+
+:::: {#light-grey-background}
+::: {.grid}
+::: {.g-col-8}
+
+### Staged Maturity, Not Deception
+
+This is not a bait-and-switch. It is staged maturity — presenting a stable AI experience today while using human oversight to correct errors, train systems, and refine outputs. Over time: less correction, more autonomous capability, increasing system intelligence. The illusion becomes reality.
+
+<small class="text-muted">System Training | Output Refinement | Incremental Autonomy | Continuous Improvement</small>
+:::
+
+:::{.g-col-4}
+![](images/staged-maturity.png)
+:::
+:::
+::::
+
+<br>
+
+:::: {.container}
+::: {.grid}
+::: {.g-col-4}
+![](images/client-value.png)
+:::
+
+::: {.g-col-8}
+
+### The Value to Clients
+
+An always-on creative partner with faster turnaround, consistent interaction, and high-quality output — without AI volatility. Clients receive the benefits of cutting-edge AI capability without exposure to its inconsistencies. Scalable, intelligent, and human-secured.
+
+<small class="text-muted-darker">Faster Turnaround | Consistent Quality | Scalable Output | Reliable Creative Partnership</small>
+:::
+:::
+::::
+
+<br>
+
+```{=html}
+<style>
+#light-grey-background {
+  padding-top: 35px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: .3rem !important;
+}
+#applied-ai {
+  padding-top: 35px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+}
+</style>
+```
+
+<br><br><br><br><br>
+
+# The Vision {#the-vision}
+***
+<br>
+<br>
+
+::: {.grid}
+::: {.g-col-8}
+A new model for creative work where the visible agent is the face of the studio and the invisible studio is the guarantee behind it. Scalable by design. Intelligent by default. Human-secured by intent.
+
+Over time, the ratio shifts — more AI autonomy, less human correction — but the commitment to quality remains constant. This is how we close the gap between where AI is today and where it needs to be.
+
+### The Model in Brief
+
+The Visible Agent, The Invisible Studio is a cloud-based creative studio concept built on three principles: AI at the front, humans in the loop, and continuous learning at the core.
+:::
+
+::: {.g-col-2}
+:::
+:::
+
+<br>
+
+# Get in Touch {#get-in-touch}
+***
+<br>
+
+<a href="mailto:contact@spottedape.com" class="btn btn-primary btn-lg" type="button">Start a conversation</a>
+
+**Email:** [contact@spottedape.com](mailto:contact@spottedape.com)
+
+<br><br>
+
+# Keep in touch {#keep-in-touch}
+***
+<br>
+
+You will only hear from us when we have something of interest to share.
+
+<a href="https://www.linkedin.com/company/spottedape/" target="_blank">
+  <i class="bi bi-linkedin"></i> LinkedIn
+</a>&nbsp;
+<a href="https://spottedape.substack.com" target="_blank">
+  <i class="bi bi-substack"></i> Substack
+</a>&nbsp;
