@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+jupyter: python3
+
+lang: en
+
 website:
   title: "The Spotted Ape"
   search: false
