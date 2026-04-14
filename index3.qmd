@@ -1,0 +1,209 @@
+---
+#title: "The Spotted Ape — Clarity Under Pressure"
+format:
+  html:
+    page-layout: custom
+    toc: false
+    theme: none
+---
+
+```{=html}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+<style>
+:root {
+  --bg:#070708; --bg2:#0f0f10; --bg3:#141415;
+  --text:#ece9e1; --dim:#888; --accent:#d4ff00;
+  --border:rgba(255,255,255,.08);
+  --r:4px; --nav-h:68px;
+  --ff-d:'Archivo Black',sans-serif;
+  --ff-b:'Archivo',sans-serif;
+  --ff-m:'Space Mono',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--text);font-family:var(--ff-b);line-height:1.6;}
+a{text-decoration:none;color:inherit}
+
+/* NAV */
+.site-nav{position:fixed;top:0;width:100%;height:var(--nav-h);background:rgba(7,7,8,.9);border-bottom:1px solid var(--border);z-index:10}
+.site-nav .container-xl{display:flex;align-items:center;height:100%;padding:0 24px}
+.nav-logo{font-family:var(--ff-d);letter-spacing:.05em}
+.nav-logo .dot{color:var(--accent)}
+.nav-link{color:var(--dim);font-size:.8rem;text-transform:uppercase}
+.nav-link:hover{color:var(--text)}
+.btn-nav{background:var(--accent);color:#000;padding:8px 18px;border-radius:var(--r);font-size:.75rem}
+
+/* HERO */
+.hero{min-height:100vh;display:flex;align-items:center;padding-top:120px}
+.hero-inner{max-width:1100px;margin:auto;padding:0 24px}
+.hero-badge{font-family:var(--ff-m);font-size:.7rem;color:var(--accent);margin-bottom:24px}
+.hero-title{font-family:var(--ff-d);font-size:clamp(3rem,8vw,6rem);line-height:1}
+.hero-title .hi{color:var(--accent)}
+.hero-sub{color:var(--dim);max-width:480px;margin:24px 0 40px}
+.btn-p{background:var(--accent);color:#000;padding:14px 26px;border-radius:var(--r);font-size:.8rem}
+.btn-g{border:1px solid var(--border);padding:14px 26px;font-size:.8rem}
+
+/* SECTIONS */
+.sec{padding:100px 0}
+.wrap{max-width:1100px;margin:auto;padding:0 24px}
+.sec-h{font-family:var(--ff-d);font-size:clamp(2rem,4vw,3.5rem);margin-bottom:20px}
+.sec-p{color:var(--dim);max-width:520px}
+.eyebrow{font-family:var(--ff-m);font-size:.6rem;color:var(--accent);margin-bottom:12px}
+
+/* GRID */
+.split{display:grid;grid-template-columns:1fr 1fr;gap:60px}
+@media(max-width:800px){.split{grid-template-columns:1fr}}
+
+/* HUBS */
+.hubs{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border);margin-top:40px}
+.hub{background:var(--bg2);padding:30px}
+.hub-t{font-family:var(--ff-d);margin-bottom:10px}
+.hub-b{color:var(--dim);font-size:.9rem}
+
+/* STEPS */
+.step{padding:24px 0;border-top:1px solid var(--border)}
+.step-h{font-family:var(--ff-d)}
+.step-p{color:var(--dim)}
+
+/* CTA */
+.cta-inner{text-align:center;padding:100px 24px}
+
+/* FOOTER */
+footer{padding:60px 24px;border-top:1px solid var(--border)}
+</style>
+
+<nav class="site-nav navbar navbar-expand-lg">
+  <div class="container-xl">
+    <a class="nav-logo" href="#">THE<span class="dot">SPOTTED</span>APE</a>
+    <div class="collapse navbar-collapse show">
+      <ul class="navbar-nav ms-auto">
+        <li><a class="nav-link" href="#concept">Idea</a></li>
+        <li><a class="nav-link" href="#work">Work</a></li>
+        <li><a class="nav-link" href="#case">Case</a></li>
+        <li><a class="nav-link" href="#about">About</a></li>
+        <li><a class="btn-nav" href="#contact">Book</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">CLARITY UNDER PRESSURE</div>
+    <h1 class="hero-title">
+      Does your team<br>have a <span class="hi">Spotted Ape</span>?
+    </h1>
+    <p class="hero-sub">
+      When decisions matter, most teams don’t lack intelligence.  
+      They lack clarity.
+    </p>
+    <a href="#contact" class="btn-p">Book a Conversation</a>
+  </div>
+</section>
+
+<section class="sec" id="concept">
+  <div class="wrap split">
+    <div>
+      <div class="eyebrow">The Idea</div>
+      <h2 class="sec-h">Clarity is seeing what matters.</h2>
+      <p class="sec-p">
+        In 1943, a brightly painted aircraft flew ahead of formation.  
+        Not to lead—but to steady the field.
+      </p>
+      <br>
+      <p class="sec-p">
+        Today, leadership teams face pressure of a different kind.  
+        More information. More voices. Less clarity.
+      </p>
+    </div>
+    <div></div>
+  </div>
+</section>
+
+<section class="sec" id="work">
+  <div class="wrap">
+    <div class="eyebrow">How We Work</div>
+    <h2 class="sec-h">Not more strategy. Better thinking.</h2>
+
+<div class="hubs">
+  <div class="hub">
+    <div class="hub-t">Executive Masterclasses</div>
+    <div class="hub-b">Build shared clarity across leadership teams.</div>
+  </div>
+  <div class="hub">
+    <div class="hub-t">Strategic Workshops</div>
+    <div class="hub-b">Turn uncertainty into direction.</div>
+  </div>
+  <div class="hub">
+    <div class="hub-t">Keynote Provocations</div>
+    <div class="hub-b">Shift how people see problems.</div>
+  </div>
+  <div class="hub">
+    <div class="hub-t">Leadership Coaching</div>
+    <div class="hub-b">Think clearly under pressure.</div>
+  </div>
+</div>
+
+  </div>
+</section>
+
+<section class="sec" id="case">
+  <div class="wrap">
+    <div class="eyebrow">Case</div>
+    <h2 class="sec-h">The meeting that wouldn’t land.</h2>
+    <p class="sec-p">
+      The thinking was good. The people were sharp.  
+      But every conversation ended the same way—no decision.
+    </p>
+
+<div class="step">
+  <div class="step-h">The problem</div>
+  <div class="step-p">Too many perspectives. No clear move.</div>
+</div>
+
+<div class="step">
+  <div class="step-h">The shift</div>
+  <div class="step-p">What are you actually deciding?</div>
+</div>
+
+<div class="step">
+  <div class="step-h">The result</div>
+  <div class="step-p">A decision in under an hour.</div>
+</div>
+
+  </div>
+</section>
+
+<section class="sec" id="about">
+  <div class="wrap split">
+    <div>
+      <div class="eyebrow">About</div>
+      <h2 class="sec-h">Clear thinking changes what happens next.</h2>
+      <p class="sec-p">
+        For more than twenty years, the work has been the same—help people see clearly and decide well.
+      </p>
+    </div>
+    <div></div>
+  </div>
+</section>
+
+<section class="sec" id="contact">
+  <div class="cta-inner">
+    <h2 class="sec-h">If the decision matters, we should talk.</h2>
+    <p class="sec-p">Clarity changes what happens next.</p>
+    <a href="mailto:contact@spottedape.com" class="btn-p">Book a Conversation</a>
+  </div>
+</section>
+
+<footer>
+  <div>© Spotted Ape</div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+```

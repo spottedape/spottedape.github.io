@@ -1,0 +1,393 @@
+::: {.hero}
+::: {.hero-inner}
+
+[AX Design Workshops]{.hero-badge}
+
+# If [AI]{.hi} does<br>the work, {.hero-title}
+# what do<br>you do? {.hero-title}
+
+<br>
+
+[Book a Workshop](#contact){.btn-p}
+
+::: {.hero-sub}
+
+<br>
+
+### Work used to be simple. {.sec-h}
+### Learn, make, improve, repeat. {.sec-h}
+
+### Now [AI]{.hi} does the making. {.sec-h}
+
+### So... what do you do now? {.sec-h}
+
+:::
+:::
+:::
+
+::: {.marquee-lbl}
+For leaders and designers navigating the shift from making to deciding
+:::
+
+::: {.marquee-band}
+::: {.marquee-wrap}
+::: {.marquee-track}
+[Clarity]{.marquee-item} [Judgment]{.marquee-item} [Decision-Making]{.marquee-item} [Systems Thinking]{.marquee-item} [Agentic Design]{.marquee-item} [Human Oversight]{.marquee-item} [Strategic Thinking]{.marquee-item} [Autonomy]{.marquee-item}
+[Clarity]{.marquee-item} [Judgment]{.marquee-item} [Decision-Making]{.marquee-item} [Systems Thinking]{.marquee-item} [Agentic Design]{.marquee-item} [Human Oversight]{.marquee-item} [Strategic Thinking]{.marquee-item} [Autonomy]{.marquee-item}
+:::
+:::
+:::
+
+---
+
+::: {.sec #concept}
+::: {.wrap}
+
+[The Shift]{.eyebrow}
+
+## The nature of work is changing. So is your role. {.sec-h}
+
+::: {.sec-p}
+For years, the path was clear.  
+You learned the craft. You made things. You improved over time.
+:::
+
+::: {.sec-p}
+Now systems can generate the work faster, cheaper, and at scale.
+:::
+
+::: {.sec-p}
+But the responsibility hasn’t gone away.
+
+Someone still has to decide what matters and why. 
+What gets made. 
+What gets trusted.
+:::
+
+::: {.sec-p}
+That’s the shift.
+
+From making things—  
+to deciding what happens.
+:::
+
+:::
+:::
+
+---
+
+::: {.sec #work}
+::: {.wrap}
+
+[How We Work]{.eyebrow}
+
+## Not more strategy. Better thinking. {.sec-h}
+
+::: {.hubs}
+
+::: {.hub}
+::: {.hub-t}
+Executive Masterclasses
+:::
+::: {.hub-b}
+Build shared clarity across leadership teams when the stakes are high.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Strategic Workshops
+:::
+::: {.hub-b}
+Turn complexity into direction. Move from discussion to decision.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Keynote Provocations
+:::
+::: {.hub-b}
+Shift how your organisation sees the problem—and what to do next.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Leadership Coaching
+:::
+::: {.hub-b}
+Think clearly when the pressure is real and the answers aren’t obvious.
+:::
+:::
+
+:::
+
+:::
+:::
+
+---
+
+::: {.sec #series}
+::: {.wrap}
+
+[Strategic Workshops]{.eyebrow}
+
+## The Agentic Designer {.sec-h}
+
+::: {.sec-p}
+A five-part workshop progression from execution to orchestration.
+
+Designed for people who are no longer just making things,  
+but are responsible for what happens next.
+:::
+
+::: {.steps}
+
+::: {.step}
+::: {.step-h}
+W1 - Explorer
+:::
+::: {.step-p}
+You see the gap between what you intend and what the system produces.  
+You begin to understand where judgment matters.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+W2 - Practitioner
+:::
+::: {.step-p}
+You move from one-off prompts to repeatable workflows.  
+The work becomes structured, not improvised.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+W3 - Integrator
+:::
+::: {.step-p}
+You decide where humans stay in the loop.  
+You design how decisions are made—and when.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+W4 - Architect
+:::
+::: {.step-p}
+You stop designing outputs.  
+You design systems that act on their own.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+W5 - Steward
+:::
+::: {.step-p}
+You hold the line.  
+Clarity, taste, and judgment become your role.
+:::
+:::
+
+:::
+
+:::
+:::
+
+---
+
+::: {.sec #case}
+::: {.wrap}
+
+[Case]{.eyebrow}
+
+## The meeting that wouldn’t land. {.sec-h}
+
+::: {.sec-p}
+The thinking was good. The people were sharp.  
+But every conversation ended the same way—no decision.
+:::
+
+::: {.step}
+::: {.step-h}
+The problem
+:::
+::: {.step-p}
+Too many perspectives. No clear move. Everything felt important.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+The shift
+:::
+::: {.step-p}
+We asked a different question:  
+What are you actually deciding?
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+The result
+:::
+::: {.step-p}
+A clear decision—in under an hour.  
+Alignment followed.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.sec #about}
+::: {.wrap .split}
+
+::: {}
+[About]{.eyebrow}
+
+## Clear thinking changes what happens next. {.sec-h}
+
+::: {.sec-p}
+For more than twenty years, the work has been the same—  
+help people see clearly and decide well.
+:::
+
+::: {.sec-p}
+Across strategy, design, and complex systems, one pattern holds:
+
+When people think clearly, better outcomes follow.
+:::
+
+:::
+
+::: {}
+:::
+
+:::
+:::
+
+---
+
+::: {.sec #contact}
+::: {.cta-inner}
+
+## If the decision matters, we should talk. {.sec-h}
+
+::: {.sec-p}
+You don’t need more information.  
+You need clarity on what to do next.
+:::
+
+[Book a Conversation](mailto:contact@spottedape.com){.btn-p}
+
+:::
+:::
+
+
+
+::: {.sec #situation}
+::: {.wrap}
+
+[The Problem]{.eyebrow}
+
+### This workshop series helps you<br>move from producing outputs 
+### to shaping outcomes<br>across five stages of increasing autonomy.
+
+::: {.layout-row .img-right}
+::: {.sec-p}
+In 1943, a brightly painted aircraft flew ahead of formation. Not to lead—but to steady the field.
+:::
+
+![](images/Fig_Bakery.jpg){.side-img}
+:::
+
+::: {.layout-row .img-left}
+![](images/Fig_Dunoon.jpg){.side-img}
+
+::: {.sec-p}
+Today, leadership teams face pressure of a different kind. More information. More voices. Less clarity.
+:::
+:::
+
+:::
+:::
+
+::: {.sec #concept}
+::: {.wrap}
+
+[The Concept]{.eyebrow}
+
+## From execution<br>to orchestration. {.sec-h}
+
+::: {.sec-p}
+This workshop series helps designers move from producing outputs  
+to shaping outcomes—across five stages of increasing autonomy.
+:::
+
+::: {.steps}
+
+::: {.step}
+::: {.step-h}
+1. Explorer
+:::
+::: {.step-p}
+Seeing the gap between intent and output.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+2. Practitioner
+:::
+::: {.step-p}
+Making results repeatable.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+3. Integrator
+:::
+::: {.step-p}
+Deciding where human judgment is required.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+4. Architect
+:::
+::: {.step-p}
+Designing systems that act independently.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+5. Steward
+:::
+::: {.step-p}
+Holding clarity when everything else is automated.
+:::
+:::
+
+:::
+
+::: {.sec-p}
+Behind this progression is a rigorous model of automation and capability.
+
+You don’t need to see it.
+
+You will feel it in how you think.
+:::
+
+:::
+:::

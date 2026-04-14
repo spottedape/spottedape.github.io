@@ -1,0 +1,94 @@
+project:
+  type: website
+  output-dir: docs
+
+jupyter: python3
+
+lang: en
+
+website:
+  title: "Marcel Maré"
+  favicon: images/favicon.png
+  site-url: https://marcelmare.com
+  open-graph: true
+  # google-analytics: "G-3N2FL85753"
+  search:
+    location: sidebar
+    type: overlay
+
+  navbar:
+    logo: /images/logo.png
+    title: "ARCEL MARÉ"
+    pinned: false
+    collapse-below: md
+
+  sidebar:
+    style: docked  
+    collapse-level: 1
+    background: light
+
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marem1969/
+        text: "LinkedIn"
+      - icon: instagram
+        href: https://www.instagram.com/in/marem1969/
+        text: "Instagram"
+      - icon: substack
+        href: https://spottedape.substack.com
+        text: "RSS feed"
+      - icon: mortarboard
+        href: https://orcid.org/0000-0002-7860-4037
+        text: "ORCID"
+    contents:
+      - text: "Essays"
+        href: posts/substack/index.qmd
+      - section: "Projects"
+        href: portfolio/index.qmd
+        contents:
+          - text: "Creative x AI Workshops"
+            href: portfolio/creative-x-ai-workshops.qmd
+          - text: "Sibabalwe Bakery"
+            href: portfolio/sibabalwe-bakery.qmd
+          - text: "Momentum Recharge"
+            href: portfolio/momentum-recharge.qmd
+          - text: "Vantage HIV"
+            href: portfolio/vantage-hiv.qmd
+          - text: "Remote Real-Time Digital Video"
+            href: portfolio/csir-remote-video.qmd
+          - text: "Veza Tourism"
+            href: portfolio/csir-veza-tourism.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "About Me"
+        href: index.qmd#about-me
+      - text: "Let's Meet"
+        href: index.qmd#lets-meet
+  page-footer:
+    left: |
+      <br>
+       __&copy; 2026 Marcel Maré__
+      <br>
+    center: |
+      <br>
+      <br>
+      <br>
+    right: |
+      <br>
+      <br>
+      <br>
+
+format:
+  html:
+    # page-layout: full
+    date-format: "MMM YYYY"
+    theme:
+      light:
+        - cosmo
+        - mozilla.scss
+    css: styles.css
+    toc: false
+    include-in-header:
+      - text: <script data-goatcounter="https://marem.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+execute: 
+  freeze: auto

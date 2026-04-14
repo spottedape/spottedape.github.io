@@ -1,0 +1,206 @@
+---
+title: "The Spotted Ape — Clarity Under Pressure"
+---
+
+::: {.hero}
+::: {.hero-inner}
+
+[CLARITY UNDER PRESSURE]{.hero-badge}
+
+# Does your<br>team have a [Spotted Ape]{.hi}? {.hero-title}
+
+::: {.hero-sub}
+When decisions matter, most teams don’t lack intelligence. They lack clarity.
+:::
+
+[Book a Workshop](#contact){.btn-p}
+
+:::
+:::
+
+::: {.marquee-lbl}
+AI at its best — without the volatility
+:::
+
+::: {.marquee-band}
+
+::: {.marquee-wrap}
+::: {.marquee-track}
+[AI Agents]{.marquee-item} [Human Oversight]{.marquee-item} [Creative Direction]{.marquee-item} [Staged Maturity]{.marquee-item} [Always-On Studio]{.marquee-item} [Strategic Alignment]{.marquee-item} [Continuous Learning]{.marquee-item} [Scalable Output]{.marquee-item} [AI Agents]{.marquee-item} [Human Oversight]{.marquee-item} [Creative Direction]{.marquee-item} [Staged Maturity]{.marquee-item} [Always-On Studio]{.marquee-item} [Strategic Alignment]{.marquee-item} [Continuous Learning]{.marquee-item} [Scalable Output]{.marquee-item}
+:::
+:::
+:::
+
+
+::: {.sec #concept}
+::: {.wrap}
+
+[The Idea]{.eyebrow}
+
+## Clarity is seeing what matters. {.sec-h}
+
+::: {.layout-row .img-right}
+::: {.sec-p}
+In 1943, a brightly painted aircraft flew ahead of formation. Not to lead—but to steady the field.
+:::
+
+![](images/Fig_Bakery.jpg){.side-img}
+:::
+
+::: {.layout-row .img-left}
+![](images/Fig_Dunoon.jpg){.side-img}
+
+::: {.sec-p}
+Today, leadership teams face pressure of a different kind. More information. More voices. Less clarity.
+:::
+:::
+
+:::
+:::
+
+<!-- ::: {.sec #concept}
+::: {.wrap .split}
+
+::: {}
+[The Idea]{.eyebrow}
+
+## Clarity is seeing what matters. {.sec-h}
+
+::: {.sec-p}
+In 1943, a brightly painted aircraft flew ahead of formation. Not to lead—but to steady the field.
+:::
+
+::: {.sec-p}
+Today, leadership teams face pressure of a different kind. More information. More voices. Less clarity.
+:::
+:::
+
+::: {}
+:::
+
+:::
+::: -->
+
+::: {.sec #work}
+::: {.wrap}
+
+[How We Work]{.eyebrow}
+
+## Not more strategy. Better thinking. {.sec-h}
+
+::: {.hubs}
+
+::: {.hub}
+::: {.hub-t}
+Executive Masterclasses
+:::
+::: {.hub-b}
+Build shared clarity across leadership teams.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Strategic Workshops
+:::
+::: {.hub-b}
+Turn uncertainty into direction.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Keynote Provocations
+:::
+::: {.hub-b}
+Shift how people see problems.
+:::
+:::
+
+::: {.hub}
+::: {.hub-t}
+Leadership Coaching
+:::
+::: {.hub-b}
+Think clearly under pressure.
+:::
+:::
+
+:::
+
+:::
+:::
+
+::: {.sec #case}
+::: {.wrap}
+
+[Case]{.eyebrow}
+
+## The meeting that wouldn’t land. {.sec-h}
+
+::: {.sec-p}
+The thinking was good. The people were sharp. But every conversation ended the same way—no decision.
+:::
+
+::: {.step}
+::: {.step-h}
+The problem
+:::
+::: {.step-p}
+Too many perspectives. No clear move.
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+The shift
+:::
+::: {.step-p}
+What are you actually deciding?
+:::
+:::
+
+::: {.step}
+::: {.step-h}
+The result
+:::
+::: {.step-p}
+A decision in under an hour.
+:::
+:::
+
+:::
+:::
+
+::: {.sec #about}
+::: {.wrap .split}
+
+::: {}
+[About]{.eyebrow}
+
+## Clear thinking changes what happens next. {.sec-h}
+
+::: {.sec-p}
+For more than twenty years, the work has been the same—help people see clearly and decide well.
+:::
+:::
+
+::: {}
+:::
+
+:::
+:::
+
+::: {.sec #contact}
+::: {.cta-inner}
+
+## If the decision matters, we should talk. {.sec-h}
+
+::: {.sec-p}
+Clarity changes what happens next.
+:::
+
+[Book a Conversation](mailto:contact@spottedape.com){.btn-p}
+
+:::
+:::

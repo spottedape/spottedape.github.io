@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/portfolio/index.html",
+    "items": [
+      "/portfolio/creative-x-ai-workshops.html",
+      "/portfolio/momentum-recharge.html",
+      "/portfolio/vantage-hiv.html",
+      "/portfolio/sibabalwe-bakery.html",
+      "/portfolio/csir-remote-video.html",
+      "/portfolio/csir-veza-tourism.html"
+    ]
+  },
+  {
     "listing": "/posts/substack/index.html",
     "items": [
       "/posts/substack/2026-02-14-the-laboratory-fallacy.html",
@@ -21,17 +32,6 @@
       "/posts/substack/2025-05-08-baudrillard-dor-channeling-lies-wide-shut.html",
       "/posts/substack/2025-05-08-frog-goes-hip-hop-jumping-into-creative-ai.html",
       "/posts/substack/2025-05-07-warren-mcculloch-pioneer-of-neural-networks-and-ai.html"
-    ]
-  },
-  {
-    "listing": "/portfolio/index.html",
-    "items": [
-      "/portfolio/creative-x-ai-workshops.html",
-      "/portfolio/momentum-recharge.html",
-      "/portfolio/vantage-hiv.html",
-      "/portfolio/sibabalwe-bakery.html",
-      "/portfolio/csir-remote-video.html",
-      "/portfolio/csir-veza-tourism.html"
     ]
   }
 ]
