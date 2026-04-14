@@ -17,7 +17,7 @@ format:
     toc: false
     minimal: true
     #theme: [none, theme.scss]
-    css: theme.scss
+    css: theme.css
     include-in-header: head.html
     include-before-body: navbar.html
     include-after-body: footer.html

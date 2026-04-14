@@ -2,14 +2,6 @@
 title: "The Spotted Ape — The Visible Agent"
 ---
 
----
-#title: "The Spotted Ape — Clarity Under Pressure"
-format:
-  html:
-    page-layout: custom
-    toc: false
-    theme: none
----
 
 ::: {.hero}
 ::: {.hero-inner}
