@@ -1,16 +1,5 @@
 ---
-title: "The Spotted Ape — The Agentic Designer"
-format:
-  html:
-    page-layout: custom
-    toc: false
-    theme: none
-    css: theme.scss
-    include-in-header: head.html
-    include-before-body: navbar.html
-    include-after-body: footer.html
-    template-partials:
-      - title-block.html
+title: "The Spotted Ape — The Visible Agent"
 ---
 
 ::: {.hero}

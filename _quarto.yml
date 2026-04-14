@@ -16,6 +16,7 @@ format:
     page-layout: custom
     toc: false
     minimal: true
+    #theme: [none, theme.scss]
     css: theme.scss
     include-in-header: head.html
     include-before-body: navbar.html
