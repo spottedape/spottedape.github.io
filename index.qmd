@@ -41,7 +41,7 @@ From execution → orchestration
 ::: {.sec #concept}
 ::: {.wrap}
 
-[The Shift]{.eyebrow}
+[The Postgrad Shift]{.eyebrow}
 
 ## The old path no longer holds. {.sec-h}
 
