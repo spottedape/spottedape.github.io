@@ -2,13 +2,12 @@
 title: "The Spotted Ape — The Visible Agent"
 ---
 
-
 ::: {.hero}
 ::: {.hero-inner}
 
 [THE AGENTIC DESIGNER]{.hero-badge}
 
-# When AI does the work,<br>what are your postgraduates responsible for? {.hero-title}
+# When AI does the work,<br>what are you responsible for? {.hero-title}
 
 ::: {.hero-sub}
 Work used to be simple.  
@@ -25,6 +24,8 @@ from producing work to deciding what matters.
 :::
 :::
 
+<br>
+
 ::: {.marquee-lbl}
 From execution → orchestration
 :::
@@ -36,8 +37,6 @@ From execution → orchestration
 :::
 :::
 :::
-
----
 
 ::: {.sec #concept}
 ::: {.wrap}
