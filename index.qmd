@@ -7,7 +7,7 @@ title: "The Spotted Ape — The Visible Agent"
 
 [THE AGENTIC DESIGNER]{.hero-badge}
 
-# If AI does the work,<br>what do [you]{.hi} do? {.hero-title}
+# If AI does the work, what are [you]{.hi} busy with? {.hero-title}
 
 ::: {.hero-sub}
 Work used to be simple.  
@@ -15,7 +15,7 @@ Learn, make, improve, repeat.
 
 Now AI does the making.
 
-So the role changes  
+So the roles change  
 from producing work to deciding what matters.
 :::
 
