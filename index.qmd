@@ -76,9 +76,9 @@ It is judgment.
 ## From executor to orchestrator. {.sec-h}
 
 ::: {.sec-p}
-[This workshop series develops what we call the **!Kharos Approach**:]{.sidenote-anchor}
+[This workshop series develops what we call the **!Kharos**:]{.sidenote-anchor}
 
-<span class="sidenote-float">The !Kharos Strategy is derived from the _Welwitschia mirabilis_, the ultimate biological metaphor for surviving through "wet and dry." In the Namib Desert, where the Atlantic fog (the wet) meets the scorching dunes (the dry), the !Kharos has mastered a form of Rhizomatic Resilience that doesn't rely on the weather changing, but on its own structural integrity.</span>
+<span class="sidenote-float">The !Kharos Strategy is derived from the _Welwitschia mirabilis_, a biological metaphor for surviving through "wet and dry." In the Namib Desert, where the Atlantic fog (the wet) meets the scorching dunes (the dry), the !Kharos has mastered a form of Rhizomatic Resilience that doesn't rely on the weather changing, but on its own structural integrity.</span>
 
 A postgraduate who is not overwhelmed by AI, but grounded within it.
 :::
