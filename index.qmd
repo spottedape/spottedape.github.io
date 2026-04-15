@@ -7,7 +7,7 @@ title: "The Spotted Ape — The Visible Agent"
 
 [THE AGENTIC DESIGNER]{.hero-badge}
 
-# When AI does the work,<br>what are you responsible for? {.hero-title}
+# When AI does the work,<br>what do [you]{.hi} do? {.hero-title}
 
 ::: {.hero-sub}
 Work used to be simple.  
