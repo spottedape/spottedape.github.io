@@ -8,6 +8,8 @@ lang: en
 
 website:
   title: "The Spotted Ape"
+  favicon: images/favicon.png
+  site-url: https://spottedape.github.io
   search: false
   navbar: false 
 
