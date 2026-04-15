@@ -7,7 +7,7 @@ title: "The Spotted Ape — The Visible Agent"
 
 [THE AGENTIC DESIGNER]{.hero-badge}
 
-# If AI does the work, what are [you]{.hi} busy with? {.hero-title}
+# If AI does the work, what are [you]{.hi} doing? {.hero-title}
 
 ::: {.hero-sub}
 Work used to be simple.  
@@ -136,9 +136,7 @@ It is **intellectual control under conditions of abundance**.
 ## A staged progression to Agentic Mastery. {.sec-h}
 
 ::: {.sec-p}
-The workshop series follows a structured trajectory aligned to real-world automation maturity.
-
-Each stage shifts the student’s role—from interacting with tools to governing systems.
+The workshop series follows a structured trajectory aligned to real-world automation maturity. Each stage shifts the student’s role from interacting with tools to governing systems.
 :::
 
 ::: {.step}
