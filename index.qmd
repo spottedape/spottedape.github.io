@@ -71,7 +71,7 @@ It is judgment.
 ::: {.sec #framework}
 ::: {.wrap}
 
-[The !Khairos Approach]{.eyebrow}
+[The !Khairos Series]{.eyebrow}
 
 ## From executor to orchestrator. {.sec-h}
 
