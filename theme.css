@@ -53,12 +53,46 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
   padding: 0 28px;
 }
-.nav-logo {
+/* .nav-logo {
   font-family: var(--ff-d);
   font-size: 1.15rem; letter-spacing: .06em;
-  flex-shrink: 0;
+  flex-shrink: 0; 
 }
-.nav-logo .dot { color: var(--accent); }
+  */
+
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+  /* This ONLY controls the gap between the Image and "THE" */
+  gap: 10px; 
+  
+  font-family: var(--ff-d);
+  font-size: 1.15rem;
+  letter-spacing: .06em;
+  flex-shrink: 0;
+  color: var(--text);
+  text-decoration: none;
+  /* Remove word-spacing; it's too unreliable here */
+}
+
+.nav-logo-img {
+  height: 32px;
+  width: auto;
+  display: block;
+  /* Your requested upward nudge */
+  margin-top: -5px; 
+}
+
+.nav-logo .dot {
+  color: var(--accent);
+  /* This moves "THE" and "APE" away from "SPOTTED" */
+  margin: 0 -6px; 
+  /* Ensures it stays on the same line if the container gets tight */
+  display: inline-block; 
+}
+
+
 
 /* Nav links */
 .site-nav .navbar-nav .nav-link {
@@ -107,6 +141,7 @@ a { color: inherit; text-decoration: none; }
   .site-nav .navbar-nav .nav-link { padding: 10px 16px !important; }
   .btn-nav { display: block; margin: 8px 14px 2px; text-align: center; }
 }
+
 
 /* ─── HERO ─── */
 .hero {
