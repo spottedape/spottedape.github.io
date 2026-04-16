@@ -60,6 +60,12 @@ a { color: inherit; text-decoration: none; }
   flex-shrink: 0; 
 }
 
+/* Ensure the dot color remains consistent */
+.nav-logo .dot {
+  color: var(--accent);
+}
+
+
 
 
 /* Nav links */
