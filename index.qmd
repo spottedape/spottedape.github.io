@@ -104,7 +104,7 @@ Editorial judgment
 ::: {.step-p}
 Knowing what to keep, what to cut, and what actually matters.
 
-Not more thinking—better selection.
+Not more thinking but better selection.
 :::
 :::
 
@@ -131,7 +131,7 @@ It is **intellectual control under conditions of abundance**.
 ::: {.sec #workshops}
 ::: {.wrap}
 
-[The Series]{.eyebrow}
+[Academic Series]{.eyebrow}
 
 ## A staged progression to Agentic Mastery. {.sec-h}
 
