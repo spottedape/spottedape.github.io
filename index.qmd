@@ -204,7 +204,7 @@ Students learn to govern outcomes, not interfaces.
 
 [Case]{.eyebrow}
 
-## When more thinking makes the work worse. {.sec-h}
+## When more thinking makes everything worse. {.sec-h}
 
 ::: {.sec-p}
 A postgraduate student in public policy was six weeks from submission.
