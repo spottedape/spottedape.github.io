@@ -1,0 +1,36 @@
+/* tufte-styles.css */
+
+body {
+    background-color: #fffff8; /* Classic Tufte off-white */
+    color: #111;
+    font-family: "EtBembo", "Palatino", serif;
+}
+
+/* Style the Quarto Margin Content */
+.column-margin {
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #333;
+    border-top: 1px solid #ccc;
+    padding-top: 0.5rem;
+}
+
+/* Ensure the main content doesn't stretch too wide */
+#quarto-content.page-columns {
+    display: grid;
+    gap: 2rem;
+}
+
+/* Force hide the project-level footer */
+footer, 
+.nav-footer,
+#quarto-footer {
+    display: none !important;
+}
+
+
+*[class*="margin"] {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
