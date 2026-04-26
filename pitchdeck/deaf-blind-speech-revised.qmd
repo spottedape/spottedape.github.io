@@ -1,0 +1,508 @@
+---
+title: "The Deaf Leading the Blind"
+subtitle: "What Silicon Valley's AI Cannot See"
+author: "Marcel Maré"
+format: 
+  revealjs:
+    theme: black
+    slide-number: true
+    transition: fade
+---
+
+## The Claim
+
+Silicon Valley has spent the better part of a decade equipping AI with eyes.
+
+- Visual encoders  
+- Camera inputs  
+- The image-upload button  
+
+Presented with quiet confidence.
+
+**The machine can now see.**
+
+::: {.notes}
+So I want to talk about something that's been sitting with me for a while now.
+
+There's a big claim floating around in the tech world. That AI can see. Not just process images — but actually see.
+
+Silicon Valley has spent the better part of a decade equipping AI with eyes. Visual encoders. Camera inputs. The image-upload button, presented with the quiet confidence that the machine can now see.
+
+And I think it's worth slowing down on that one. Because I recently re-watched an old film. And honestly, it explained the whole thing better than any research paper I've read.
+:::
+
+---
+
+## The Film
+
+*See No Evil, Hear No Evil* — 1989
+
+- Richard Pryor plays **Wally** — completely blind  
+- Gene Wilder plays **Dave** — completely deaf  
+
+Together, they solve a murder.
+
+From the outside: one capable person.
+
+**From the inside: two incomplete systems.**
+
+::: {.notes}
+The film is called See No Evil, Hear No Evil. 1989. Richard Pryor and Gene Wilder. It's a comedy — a murder mystery — and the premise is simple.
+
+Richard Pryor plays Wally — completely blind. Gene Wilder plays Dave — completely deaf. And somehow, together, they have to solve a crime.
+
+From the outside, they look like one capable person. But from the inside — two incomplete systems pretending to be whole.
+:::
+
+---
+
+## The Performance
+
+Wally strides into the bar brawl.
+
+Dave shouts directions.
+
+- "Left!"  
+- "Duck!"  
+- "Watch out!"  
+
+Neither has the faculty the other is lending them.
+
+**They are performing competence.**
+
+::: {.notes}
+Here's what makes it funny — and also, weirdly, quite insightful.
+
+Wally strides confidently into a bar brawl. Dave is shouting directions — "Left! Duck! Watch out!" Wally borrows Dave's eyes. Dave borrows Wally's ears.
+
+And somehow they muddle through. But neither of them actually has the faculty the other is lending them. They're performing competence.
+:::
+
+---
+
+## The Gap
+
+The comedy turns on exactly one thing:
+
+The distance between what they *appear* able to do…
+
+and what they can actually *perceive*.
+
+**That gap is where modern AI lives.**
+
+::: {.notes}
+The comedy turns entirely on that gap — between what they appear able to do, and what they can actually perceive.
+
+That gap? That's where modern AI lives.
+:::
+
+---
+
+## The Architecture
+
+When you upload a photo to an AI chatbot:
+
+```
+Image → Visual Encoder → Tokens → Language Model → Response
+```
+
+The language model — the "brain" —
+
+**cannot understand images.**
+
+It is fundamentally, stubbornly textual.
+
+::: {.notes}
+When you upload a photo to an AI chatbot, there are essentially two parts working together. A visual system that processes the image — and a language model that does the talking.
+
+And here's the thing. The language model — the brain part — cannot actually understand images. It's fundamentally and stubbornly a text system.
+:::
+
+---
+
+## The Translation
+
+So what actually happens?
+
+The image is converted into words first.
+
+Then the language model reads those words.
+
+Then it responds.
+
+::: {.notes}
+So what actually happens? The image gets converted into words first. Into tokens. Then the language model reads those tokens and responds.
+
+So it's not seeing your photo. It's reading a description of your photo. And then talking confidently about that description.
+:::
+
+---
+
+## The Reality
+
+It is not seeing your photo.
+
+It is reading a description of your photo.
+
+Then talking confidently from that description.
+
+**Vision, for most AI systems, is not perception.**
+
+**It is narration.**
+
+::: {.notes}
+That's the Wally problem. Vision, for most of these AI systems, is not perception. It's narration.
+
+When things are simple — good lighting, familiar objects — it works well enough. Because the translation from image to words is easy. The system has seen millions of similar examples.
+
+But the moment things get complicated — unusual angles, cluttered scenes, anything that actually requires reasoning about space — the wheels come off.
+:::
+
+---
+
+## When It Works
+
+Simple scenes. Clear lighting. Familiar objects.
+
+The system does well.
+
+Because the translation into words is straightforward.
+
+It has seen millions of similar examples.
+
+::: {.notes}
+When the image is simple — clear lighting, common objects — the system does well. Because it's seen millions of similar examples. So the translation into words is easy, and the response sounds right.
+:::
+
+---
+
+## When It Doesn't
+
+Novel configurations. Spatial ambiguity. Cluttered scenes.
+
+The visual attention collapses.
+
+The model does what researchers politely call:
+
+**"relying on linguistic priors."**
+
+::: {.notes}
+But the moment things get messy — low light, strange angles, unusual situations — that's when things fall apart.
+
+The visual attention collapses, and the model does what researchers have politely termed "relying on linguistic priors." Which is a careful way of saying: it stops looking and starts guessing.
+:::
+
+---
+
+## The Confabulation
+
+When it isn't sure, it doesn't say "I don't know."
+
+It guesses.
+
+Confidently.
+
+It knows what *usually* appears in a kitchen —
+
+so it tells you there's a microwave on the counter.
+
+Even if there isn't one.
+
+::: {.notes}
+And here's the part that should give you pause. When the AI isn't sure, it doesn't say "I don't know." It guesses. Confidently.
+
+Because it's trained on patterns of language. It knows what usually appears in a kitchen. So if it sees something vaguely kitchen-like, it might tell you there's a microwave on the counter. Even if there isn't one.
+
+It's not seeing reality. It's predicting what should be there.
+:::
+
+---
+
+## The Wally Problem
+
+It is not seeing reality.
+
+It is predicting what *should* be there.
+
+*Wally does not merely struggle to see.*
+
+**He replaces sight with confidence.**
+
+::: {.notes}
+Researchers have a polite name for this. They call it relying on linguistic priors. I'd call it: Wally walking confidently into a bar fight he cannot see.
+
+Wally doesn't merely struggle to see. He actively replaces sight with confidence. And that is exactly what these systems do.
+:::
+
+---
+
+## "But What About Tesla?"
+
+If AI can't see — how is a two-tonne car  
+navigating a busy intersection on its own?
+
+Fair question.
+
+::: {.notes}
+Now — someone's always going to raise this. If AI can't see, how is a two-tonne car navigating a busy intersection on its own?
+
+That's a fair question. And the answer is actually really interesting.
+:::
+
+---
+
+## The Workaround
+
+Tesla's system skips the language step entirely.
+
+```
+Camera → Direct Action (steering, braking, speed)
+```
+
+No words. No narration. Just maths and movement.
+
+In other words:
+
+**Dave quietly removed Wally from the vehicle.**
+
+::: {.notes}
+Tesla's system doesn't work like a chatbot. It doesn't convert what the camera sees into words first. It goes straight from pixels to action — steering, braking, speed. No narration. No language step. Just maths and movement.
+
+Which means, in our film analogy — Dave didn't fix the problem. He just quietly removed Wally from the vehicle. The blind man isn't there anymore. So there's nobody to mislead.
+:::
+
+---
+
+## The Lesson
+
+That is a workaround — not a solution.
+
+General-purpose AI — the chatbots, the assistants —
+
+still have the language bottleneck firmly in place.
+
+The partnership is all they have.
+
+::: {.notes}
+That's a workaround. Not a solution.
+
+And Silicon Valley's general-purpose models — the chatbots, the assistants — still have that language bottleneck firmly in place. The partnership between the visual system and the language model is all they have.
+:::
+
+---
+
+## The Beautiful Images
+
+What about tools like Midjourney?
+
+The light behaves. The shadows fall correctly.  
+The geometry holds.
+
+Surely *that* is understanding vision?
+
+::: {.notes}
+Right, but what about tools like Midjourney? You've seen the images. Perfect light. Convincing shadows. Physics that looks right.
+
+Surely that means AI understands vision?
+:::
+
+---
+
+## The Aesthetics of Plausibility
+
+Not quite.
+
+What it has mastered is the *statistical grammar*  
+of what humans find convincing.
+
+It does not know that glass shatters.  
+It does not know that wine is liquid.
+
+It has learned where shadows *tend to fall*  
+in images that humans approved of.
+
+::: {.notes}
+Not quite. What it's mastered is what you could call the aesthetics of plausibility. Through enormous amounts of human feedback, it's learned the statistical grammar of what humans find beautiful. The precise combination of pixels that we label "convincing."
+
+But it doesn't know that glass shatters. It doesn't know that wine is liquid. It doesn't understand refraction — it's just learned where shadows tend to fall in images that humans approved of.
+:::
+
+---
+
+## The Actor
+
+It is a bit like Wally, later in the film,
+
+discovering he has become a rather convincing *actor*.
+
+Which is not the same thing  
+as having recovered his sight.
+
+::: {.notes}
+It's a bit like Wally, later in the film, discovering he's become a rather convincing actor. Which is not the same thing as having recovered his sight.
+
+The results are often genuinely beautiful. But beautiful is not the same as accurate. And in any situation where spatial truth actually matters, those two things are very different.
+:::
+
+---
+
+## The Benchmark
+
+Researchers recently tested leading AI systems  
+on scientific tasks requiring spatial reasoning.
+
+State-of-the-art systems scored:
+
+# ~30%
+
+The vocabulary was intact.  
+**The perception was absent.**
+
+::: {.notes}
+Here's where it stops being abstract. Researchers recently tested leading AI systems on scientific tasks — the kind that require you to look at a diagram, understand its spatial structure, and reason about what it's showing you.
+
+Across the board, these state-of-the-art systems scored around thirty percent. The vocabulary was fine. The perception was essentially absent.
+:::
+
+---
+
+## Wally Knows the Words
+
+*Wally knows all the right words for a bar fight.*
+
+**He just can't see where the punches are coming from.**
+
+::: {.notes}
+Wally, it turns out, knows all the right words for a bar fight. He just can't see where the punches are coming from.
+:::
+
+---
+
+## The Accessibility Problem
+
+Engineers building tools for blind and low-vision users  
+have found that AI visual description  
+collapses on exactly what those users need most:
+
+**Spatial structure.**
+
+- Where is this annotation relative to that diagram?  
+- Which cluster belongs to which label?  
+
+::: {.notes}
+And then there's the accessibility problem. This is where it becomes more than an academic finding.
+
+Engineers building tools for blind and low-vision users have found that AI-assisted visual description falls apart on exactly the information those users need most. Spatial structure. Where is this annotation relative to that diagram? Which cluster belongs to which label?
+:::
+
+---
+
+## When Narration Isn't Enough
+
+The visual grammar of how things are *arranged* —  
+proximity, grouping, position —  
+that is semantic information.
+
+**It evaporates in translation.**
+
+Asking Wally to give directions  
+has consequences beyond a punchline.
+
+::: {.notes}
+The visual grammar of how things are arranged — proximity, grouping, position — that's semantic information. And it evaporates in translation.
+
+A system that cannot genuinely parse space cannot reconstruct it for the people whose relationship to space is already mediated and precarious.
+
+Asking Wally to give directions has consequences that go well beyond a punchline.
+:::
+
+---
+
+## What's Coming
+
+A growing push to build AI that reasons *visually* —  
+natively, in image space —  
+rather than routing everything through language first.
+
+Thinking **with** images, not *about* them.
+
+Whether that is a genuine fix,  
+or a more sophisticated performance of sight —
+
+**still an open question.**
+
+::: {.notes}
+To be fair, the field isn't completely ignoring this. There's a growing push to build AI that reasons visually — natively, in image space — rather than routing everything through language first. Thinking with images, rather than about them.
+
+Whether that turns out to be a genuine fix, or just a more sophisticated performance of sight, is genuinely still an open question.
+:::
+
+---
+
+## The Reality Check
+
+Next time you see an AI demo that looks like magic:
+
+It is not seeing the world.
+
+It is receiving a description of the world —
+
+and talking confidently from that.
+
+::: {.notes}
+So next time you see an AI demo that looks like magic — just remember what's actually happening underneath.
+
+In most cases, it's not seeing the world. It's receiving a description of the world, and talking confidently from that.
+:::
+
+---
+
+## The Situation
+
+*Dave is still shouting directions.*  
+*Wally is still striding forward like he owns the place.*
+
+The demos are polished.  
+The press releases are stirring.  
+The benchmarks, carefully selected, are excellent.
+
+**The bar fight is still going on.**
+
+::: {.notes}
+It's Dave shouting directions. And Wally striding forward like he owns the place.
+
+Which — honestly — sometimes works out fine. Until it doesn't.
+
+The demos are polished. The press releases are stirring. The benchmarks, carefully selected, are excellent. But the bar fight is still going on.
+:::
+
+---
+
+## The Question
+
+From the outside, it is becoming increasingly difficult  
+to tell which punches are actually landing —
+
+and which are connecting, with great conviction,
+
+**with the empty air.**
+
+::: {.notes}
+And it is becoming increasingly difficult, from the outside, to tell which punches are actually landing — and which are connecting, with great conviction, with the empty air.
+
+Let me know in the comments — do you trust AI to actually see, or not? Because the more you understand what's happening under the hood, the better placed you are to use these tools well.
+
+And if this kind of breakdown is useful to you, hit subscribe — because the tech is moving fast, and it's worth knowing what's real.
+:::
+
+---
+
+## The Deaf Leading the Blind
+
+*What Silicon Valley's AI Cannot See*
+
+**Marcel Maré**
+
+::: {.notes}
+Thanks for watching.
+:::
