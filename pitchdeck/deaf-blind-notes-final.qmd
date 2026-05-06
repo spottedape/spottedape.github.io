@@ -1,0 +1,281 @@
+# THE DEAF LEADING THE BLIND — Slide Notes
+*Complete revised deck · Paste into speaker notes field below each slide*
+*[Brackets] = stage directions, not spoken*
+
+---
+
+**SLIDE 01 — Photo: Pryor and Wilder, face to face**
+
+[Walk to position. Say nothing. Let the image hold for five full seconds. The audience will fill the silence with questions. Good. Then speak — quietly, almost to yourself.]
+
+Two men.
+
+One can't see.
+
+One can't hear.
+
+[pause]
+
+Together — they are unstoppable.
+
+[click]
+
+---
+
+**SLIDE 02 — Meet Wally.**
+
+Meet Wally. Richard Pryor. Blind — completely, categorically blind. He knows it perfectly well.
+
+What he refuses — flatly, resolutely refuses — is to admit it.
+
+So he performs. Memorised cues. Contextual guesses. Practised confidence. He reads newspapers he cannot see. Navigates rooms on habit and sheer front. The performance is convincing.
+
+Which is not the same thing as being able to see.
+
+[pause]
+
+Meet Dave. Gene Wilder. Deaf. And like Wally, remarkably good at pretending he isn't.
+
+He lip-reads. He guesses. He fills the gaps with whatever his training gives him — and delivers the result with complete conviction.
+
+[pause]
+
+Together, Wally strides forward and Dave shouts what he thinks he lip-read. Each borrows the faculty the other is missing. Neither actually has it.
+
+The performance is fluent. The comedy — and the tragedy — is that everyone around them can see exactly what's happening.
+
+Everyone except them.
+
+[click]
+
+---
+
+**SLIDE 03 — He can't see himself. But pretends he can.**
+
+There's a scene on a subway. A woman tells Wally he's white. He doesn't miss a beat.
+
+"I'm not white."
+
+He cannot verify that. No visual access to himself, to her, to anything around him. But he asserts it with complete confidence — because it's the answer his training gives him.
+
+I'm going to show you thirty seconds of it.
+
+[click — play clip — say nothing — let the room respond — wait for it to end]
+
+---
+
+**SLIDE 04 — Film still: See No Evil, Hear No Evil (1989)**
+
+[Let the room settle. When the laughter dies — and it will — speak into the quiet.]
+
+That is not a man who doesn't know he's blind.
+
+That is a man performing sight with such practised confidence that the performance has become the product.
+
+[pause]
+
+Remember that look on her face.
+
+You're going to recognise it.
+
+[click]
+
+---
+
+**SLIDE 05 — Your AI is doing a Wally.**
+
+[Let the slide sit for a moment before speaking.]
+
+Your AI is doing a Wally.
+
+But here's what most people miss —
+
+[pause]
+
+It's also doing a Dave.
+
+The visual encoder is Wally — performing sight, converting what it sees into the expected answer. The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.
+
+Wally and Dave. Running simultaneously. In every multimodal AI system you are currently using.
+
+The camera input is real. The confidence is real. The sight — and the hearing — are not.
+
+[click]
+
+---
+
+**SLIDE 06 — AI narrates the world it expects — not the one in front of it.**
+
+[Slower. This is the thesis. Give the room time to hold it.]
+
+Silicon Valley has spent a decade equipping AI with eyes. Visual encoders. Image inputs. The image-upload button arrives with the confidence of a product announcement.
+
+What the press releases don't discuss is the architecture behind the lens.
+
+Pixels come in. They are converted to words. The words are reasoned about. And then the system tells you — with complete confidence — what it expects to be there.
+
+That is Wally on the subway. Asserting "I'm not white" — not because he's seen himself, but because it's the answer his training gives him.
+
+Dave, meanwhile, is shouting directions.
+
+[click]
+
+---
+
+**SLIDE 07 — What It Claims / What It Does**
+
+On the left: what the marketing says. The machine can see. Context. Space. Physical reality.
+
+On the right: what the architecture does. Converts pixels to tokens. Reasons about the tokens as language. Outputs what it was trained to expect.
+
+One is perception. The other is a very sophisticated performance of it.
+
+[pause — let the slide work]
+
+[click]
+
+---
+
+**SLIDE 08 — Pixels → Tokens → Expected World**
+
+[gesture across the diagram — one pass, no elaboration]
+
+At no point in that pipeline is there genuine visual reasoning.
+
+At every point, there is a very convincing Wally.
+
+[click]
+
+---
+
+**SLIDE 09 — Mastering Beauty, Missing Meaning**
+
+I can hear you. What about Midjourney? The light behaves. The geometry holds. The shadows fall exactly where they ought to fall.
+
+Wally, late in the film, discovers he has become a rather convincing actor.
+
+Which is not the same thing as having recovered his sight.
+
+[click]
+
+---
+
+**SLIDE 10 — 30% / The Perception Gap**
+
+Thirty percent.
+
+[pause — full count of three]
+
+That is the accuracy rate when leading multimodal models face scientific tasks requiring actual visual reasoning. Not aesthetic plausibility.
+
+Genuine sight.
+
+Thirty percent.
+
+The vocabulary is intact. The perception is absent. Wally knows all the right words for a bar fight.
+
+[click]
+
+---
+
+**SLIDE 11 — Spatial Truth Collapses**
+
+[Quieter now. This is where it stops being a technical argument.]
+
+Engineers building tools for blind and low-vision users have found that AI-mediated visual description collapses precisely on the information those users need most.
+
+Not the general subject. The spatial structure. Where is this element relative to that one? What is the relationship between these two things?
+
+The visual grammar of arrangement — proximity as meaning — evaporates in translation.
+
+[pause]
+
+Asking Wally for directions has consequences that extend well beyond the comedy.
+
+His performance of sight, when trusted, causes real harm.
+
+[click]
+
+---
+
+**SLIDE 12 — Parsing Space / Human Cost / Vanishing Signal**
+
+[let the three cards land — pause before speaking]
+
+Space. Cost. Signal.
+
+Three things that disappear when a system performs sight instead of having it.
+
+Three things that the people who need AI most — are getting least.
+
+[click]
+
+---
+
+**SLIDE 13 — This is not an AI problem. It is a design problem.**
+
+[Step back. This is the pivot. It is aimed directly at the people in this room.]
+
+Here is the thing about Wally and Dave.
+
+They didn't write their own script. Someone handed it to them.
+
+[pause]
+
+Designers are supposed to be the people in this process who can actually see. Who bring proximity, lived experience, and genuine contextual judgment. That is the job. That is what separates design from decoration.
+
+What is happening instead — in teams and organisations running this at scale every day — is this: designers are loading AI systems with assumptions they already hold. Briefs built from abstraction. Research that confirms what was expected. Insights that have been translated through language before they were ever tested against reality.
+
+Then treating the output as direction.
+
+[pause]
+
+The AI cannot see what it hasn't been given. It performs confidence with whatever it receives. That is its nature.
+
+But the designer is not the architecture. The designer is the shepherd.
+
+And a shepherd who hands the flock to Wally and Dave — and then follows their lead — has not solved anything.
+
+They have simply moved the blindness upstream. And made it invisible.
+
+[pause]
+
+The AI is the clearest mirror the design industry currently has.
+
+What it reflects is not a technology problem.
+
+It reflects an industry that handed the eyes to something blind — and called it a methodology.
+
+[click]
+
+---
+
+**SLIDE 14 — Stop Narrating. Start Perceiving.**
+
+Three things. Not ten.
+
+[pause]
+
+Reason natively in context. Don't translate lived experience into abstraction before acting on it. Proximity changes what you are capable of seeing — not just how you feel about the process.
+
+[pause]
+
+Proximity is a design method. Not a values statement. A structural commitment — to building teams and processes genuinely close to the problem before solutions begin.
+
+[pause]
+
+Design with, not for. The gap between those two words is exactly where products fail the people who need them most. Knowing the gap exists, and performing across it anyway — that is the Wally move.
+
+[pause — settle — make eye contact]
+
+Wally strides forward. Dave shouts what he thinks he lip-reads.
+
+The demos are polished. The benchmarks, carefully selected, are excellent.
+
+But the bar fight is still going on.
+
+And it is becoming increasingly difficult, as outsiders, to tell which punches are landing — and which ones are striking empty air.
+
+[stop. say nothing more.]
+
+Thank you.

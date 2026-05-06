@@ -1,0 +1,186 @@
+/*-- scss:defaults --*/
+/* This is where variables like $theme-color would go if you had them */
+
+/*-- scss:rules --*/
+
+/* 1. TYPOGRAPHY & COLORS */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap');
+
+:root {
+    --dark: #0C0C1A;
+    --ghost: #191929;
+    --gold: #D4A843;
+    --white: #FFFFFF;
+    --light: #F2F1EB;
+    --mid: #8A8A9E;
+    --gray-d: #484860;
+    --gray-l: #6B6B82;
+    --card: #EEEEE6;
+}
+
+.reveal section {
+    padding: 60px !important;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+}
+
+/* Headings */
+.white-serif { font-family: 'Merriweather', serif; color: var(--white); font-weight: 700; font-size: 2.2em !important; }
+.gold-serif { font-family: 'Merriweather', serif; color: var(--gold); font-weight: 400; font-style: italic; font-size: 2.2em !important; }
+.dark-serif { font-family: 'Merriweather', serif; color: var(--dark); font-weight: 700; font-size: 1.8em !important; }
+
+.mid-text { color: var(--mid); }
+.gray-italic { color: var(--gray-l); font-style: italic; font-size: 0.8em; margin-top: 2em; }
+
+/* 2. UI ELEMENTS */
+.rule {
+    width: 60px;
+    height: 4px;
+    background-color: var(--gold);
+    margin: 30px 0;
+}
+
+.page-num {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    font-size: 0.4em;
+    color: var(--gray-d);
+    letter-spacing: 4px;
+}
+
+.footer-text {
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+    font-size: 0.4em;
+    color: var(--gray-d);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+/* 3. LAYOUT COMPONENTS */
+
+/* Slide 1 Video Frame */
+.video-frame {
+    border: 1px solid var(--gold);
+    background: #141422;
+    padding: 0;
+    position: relative;
+    height: 450px;
+}
+
+.video-placeholder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.play-button {
+    background: var(--gold);
+    color: var(--dark);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+/* Contrast Boxes */
+.contrast-boxes .column {
+    border-radius: 4px;
+    padding: 30px !important;
+    margin: 10px;
+    height: 200px;
+}
+.box-dark { background: #1A1A2E; border: 1px solid #2E2E48; color: var(--gray-d); }
+.box-gold { background: var(--gold); color: var(--dark); }
+
+/* Step Flow (Slide 3) */
+.step-card {
+    background: var(--card);
+    border: 1px solid #CCCCBB;
+    padding: 20px !important;
+    margin: 5px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+.step-card-active { background: var(--dark); color: var(--gold); border-color: var(--dark); }
+
+/* Metric Box */
+.metric-box {
+    background: var(--gold);
+    color: var(--dark);
+    padding: 40px;
+    text-align: center;
+}
+
+/* Ghost Text Backgrounds */
+.ghost-text {
+    position: absolute;
+    right: 50px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12em;
+    font-family: 'Merriweather';
+    font-weight: 700;
+    color: var(--ghost);
+    z-index: -1;
+}
+
+.ghost-text-wally {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 8em;
+    font-family: 'Merriweather';
+    font-weight: 700;
+    color: var(--ghost);
+    z-index: -1;
+}
+
+/* Content Cards (Slide 5) */
+.light-slide .rule { background-color: var(--gold); }
+.content-card {
+    background: var(--card);
+    border: 1px solid #CCCCBB;
+    padding: 30px !important;
+    margin: 10px;
+    height: 350px;
+}
+.card-num { color: var(--gold); font-weight: 700; font-size: 0.8em; letter-spacing: 2px; }
+
+/* Bullet Lists */
+.insight-list {
+    list-style: none;
+    padding: 0;
+}
+.insight-list li {
+    position: relative;
+    padding-left: 40px;
+    margin-bottom: 25px;
+    color: var(--mid);
+}
+.insight-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 15px;
+    width: 20px;
+    height: 3px;
+    background: var(--gold);
+}
+
+.gold-link {
+    color: var(--gold);
+    font-size: 0.6em;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-top: 40px;
+}

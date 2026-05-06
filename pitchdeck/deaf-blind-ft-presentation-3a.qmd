@@ -1,0 +1,263 @@
+---
+title: ""
+format:
+  revealjs:
+    theme: default
+    css: deaf-blind-presentation-3.css
+    width: 1080
+    height: 1080
+    slide-number: false
+    controls: false
+    progress: false
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    center: false
+    hash: false
+    embed-resources: false
+    pdf-separate-fragments: false
+---
+
+<!-----------------------------------------------------------
+  SLIDE 01 — Wally and Dave
+------------------------------------------------------------>
+
+## The Deaf Leading the Blind:<br>What LLM's Cannot See {.center-slide-left background-image="images/deaf-blind-1a.png" background-size="cover" background-position="center" background-opacity="0.2"}
+
+<br>
+
+>*"...They have mouths, but cannot speak,<br>eyes, but cannot see.<br>They have ears, but cannot hear..."*<br><br>(Psalm 115:4–8, NIV)
+
+
+::: notes
+[Wait five full seconds]
+About three weeks ago I was supposed to be finishing something I'd been avoiding all week and...
+I fell down a YouTube rabbit hole.
+[pause]
+
+You know the kind. You open one tab, and suddenly it's forty minutes later...
+I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80's.
+[pause]
+
+And I haven't been able to stop thinking about it since.
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 02 — Meet Wally.
+------------------------------------------------------------>
+
+## Meet *Wally* & *Dave* {.center-slide background-image="images/deaf-blind-1a.png" background-size="cover" background-position="center" background-opacity="0.2"}
+
+::: notes
+
+Meet Wally and Dave.
+
+The hilarious Richard Pryor plays Wally.
+Wally is competely blind. Yet he pretends that he can see.
+So he has built up a system around him of memorised cues and contextual guesses.
+He reads newspapers he cannot see. Navigates the world on muscle memory and sheer guile.
+Which is not the same thing as being able to see.
+[pause]
+
+Gene Wilder plays Wally's partner Dave.
+Dave is deaf. Like Wally, he has become very good at pretending that he can hear.
+He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction.
+[pause]
+
+Together, they are unstoppable.
+Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it.
+What makes it funny is that everyone around them can see exactly what's happening.
+Everyone except them.
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 02a — Video Clip
+------------------------------------------------------------>
+
+## <video controls data-autoplay width="1920"><source src="media/seenoevil-1.mp4" type="video/mp4"></video>
+
+::: notes
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05 — Your AI is doing a Wally.
+------------------------------------------------------------>
+
+## Your AI is doing<br>a *Wally.* {.center-slide}
+
+::: notes
+[Let the slide sit for a moment before speaking.]
+
+Your AI is doing a Wally.
+
+But it's also doing a Dave.
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05a — AI narrates the world
+------------------------------------------------------------>
+
+## AI narrates the<br>world it *expects*<br>— not the one<br>in front of it. {.center-slide-left}
+
+::: notes
+Silicon Valley has spent a decade equipping AI with eyes.
+
+The visual encoder is Wally — performing sight, converting what it sees into the expected answer.
+The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.
+
+Wally and Dave. Running simultaneously. In every multimodal AI system we are currently using.
+
+Our input is real. The confidence of the model is real.
+The sight and hearing are not.
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05b — 
+------------------------------------------------------------>
+
+## {.center-slide-left}
+
+::: {.comparison .center-box}
+
+::: {.comparison-col}
+::: {.col-label}
+What it claims
+:::
+
+### The Machine<br>Can *See*
+
+::: {.col-label}
+Context. Space. Reality.
+:::
+:::
+
+::: {.comparison-divider style="border-left: 2px solid #ccc; padding-left: 1rem;"}
+:::
+
+::: {.comparison-col}
+::: {.col-label}
+What it does
+:::
+
+### Word-Based<br>*Reasoning*
+
+::: {.col-label}
+Pixels &rarr; Tokens &rarr; Expected output.
+:::
+:::
+
+:::
+
+::: notes
+On the left: what the marketing says. On the right: what the architecture does.
+
+Visual input enters the system as raw pixels.
+
+The pixels are converted to language before any high-level reasoning occurs.
+
+The system then determines a statistical probability of what reality could be, not reality itself.
+
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05c — The Language Bottleneck
+------------------------------------------------------------>
+
+## It's a *Language*<br>Bottleneck {.center-slide-left}
+
+::: notes
+It's a Language Bottleneck.
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05d — The Language Bottleneck
+------------------------------------------------------------>
+
+## Mastering *Beauty*,<br>Missing Meaning {.center-slide}
+
+::: notes
+I can hear you. But what about Midjourney? It generates beautiful images. It must be seeing something, right?
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05d — The Language Bottleneck
+------------------------------------------------------------>
+
+## {.center-slide-left}
+
+::: {.comparison-col}
+
+### The *Perception* Gap
+<br><br>
+
+### 30% {.huge-stat}
+<br>
+
+#### Accuracy rate for leading LLMs<br>on scientific visual reasoning tasks.
+
+:::
+
+::: notes
+Thirty percent. [pause] That is the accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility, but genuine sight.
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05d — Tools for blind users
+------------------------------------------------------------>
+
+## Spatial *Truth*<br>Collapses {.center-slide}
+
+::: notes
+The perception gap is also encountered when designing for blind and low-vision users.
+They have found that AI-mediated visual descriptions collapse on the information those users need most. The spatial structure around them.
+
+The models frequently fail to genuinely parse space. They cannot reconstruct it for people whose relationship to space is already precarious.
+
+Asking Wally for directions has consequences in real life. His performance of sight can cause real harm.
+
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05d — 
+------------------------------------------------------------>
+
+## This is not an<br>AI problem.<br>*It is a human<br>problem.* {.center-slide}
+
+::: notes
+This gap in perception seems to be a human failure, not a technical one.
+We blindly feed the AI models expecting miraculous responses.
+We first need to bring the spatial reality and lived experience into the room.
+The AI cannot know what it hasn't been given.
+It confidently performs based on learned patterns like Wally.
+We've confused well-structured prompts with insight, creating solutions that are technically coherent but humanly wrong.
+We have handed our eyes to something blind.
+:::
+
+## Narrating ≠ Perceiving. {.center-slide}
+::: {.url-bar}
+Read the full essay at &nbsp;[spottedape.substack.com]{.accent}
+:::
+
+::: notes
+So next time you see an AI demo that looks like magic, just remember what's actually happening underneath.
+In most cases, it's not seeing the world.
+It's receiving a description of the world.
+and talking confidently from that.
+
+It's Dave shouting directions.
+And Wally striding forward like he owns the place.
+[smiling]
+
+Which — honestly — sometimes works out fine.
+Until it doesn't.
+[pause]
+
+Let me know in the comments.
+Do you think AI can actually *see*, or not?
+And if this kind of breakdown is useful to you, hit subscribe — because the tech is moving fast, and it's worth knowing what's real.
+:::

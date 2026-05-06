@@ -1,0 +1,235 @@
+---
+title: "The Deaf Leading the Blind"
+subtitle: "What Silicon Valley’s LLMs Cannot See"
+author: "thespottedape.com"
+format:
+  revealjs:
+    theme: [default, deaf-blind-ft-presentation-2.css]
+    slide-number: true
+    progress: true
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    width: 1280
+    height: 720
+    margin: 0.08
+    embed-resources: true
+    auto-animate: true
+    controls: true
+    controls-layout: bottom-right
+    footer: "spottedape.substack.com"
+---
+
+## {.slide-hero background-color="#FAFAF8"}
+
+::: {.hero-eyebrow}
+Design Strategy · Original Essay
+:::
+
+::: {.hero-title}
+## The Deaf Leading  
+### the *Blind*
+:::
+
+::: {.hero-rule}
+:::
+
+::: {.pill-row}
+[AI Perception Gap]{.pill .pill-amber}
+[Visual Reasoning]{.pill .pill-teal}
+[Human-in-the-Loop]{.pill .pill-amber}
+:::
+
+## The Problem {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Analogy
+:::
+
+### Your AI is doing a Wally {.section-title}
+
+Wally (from *See No Evil, Hear No Evil*) performs sight using memorised cues. He narrates the world he was trained to expect — not the one in front of him[cite: 3].
+
+::: {.vs-grid}
+
+::: {.vs-col .vs-bad}
+**What It Claims**
+
+✕ The machine can now "see"  
+✕ Native visual understanding  
+✕ Reasoning from raw pixels  
+✕ Objective perception of reality
+:::
+
+::: {.vs-col .vs-good}
+**What It Does**
+
+✓ Converts pixels to words first  
+✓ Reasons about linguistic tokens  
+✓ Describes what it *expects* to see  
+✓ Statistical grammar as "sight"
+:::
+
+:::
+
+## The Language Bottleneck {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Architecture
+:::
+
+### Models *Narrate* Vision. They don't experience it. {.section-title}
+
+Traditional AI systems translate lived experience into abstraction before acting on it[cite: 3].
+
+::: {.mesh-grid}
+
+::: {.mesh-node}
+◈
+**PIXELS**  
+Visual input enters  
+the system
+:::
+
+::: {.mesh-node .node-teal}
+⟳
+**TOKENS**  
+Converted to language  
+before reasoning
+:::
+
+::: {.mesh-node .node-amber}
+◉
+**EXPECTED WORLD**  
+Hallucinating with  
+trained confidence
+:::
+
+:::
+
+> *"Relying on linguistic priors — hallucinating with pre-trained confidence, not seeing."*
+
+## The Illusion {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Metric
+:::
+
+### Beauty is Not Meaning {.section-title}
+
+::: {.two-col}
+
+::: {.left-col}
+Midjourney knows what beauty looks like, but not what it *means*. The perception is absent; only the vocabulary remains intact[cite: 3].
+
+::: {.card-amber}
+**Beautiful ≠ True**  
+These models have mastered the statistical grammar of aesthetics. They do not know that glass shatters, nor that wine is liquid.
+:::
+
+:::
+
+::: {.stat-col}
+
+::: {.stat-card}
+::: {.stat-big}
+30%
+:::
+Accuracy on scientific visual reasoning tasks
+:::
+
+::: {.stat-card}
+::: {.stat-big}
+1989
+:::
+The year Wally taught us about narrating the void
+:::
+
+:::
+
+:::
+
+## Where it Breaks {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Impact
+:::
+
+### Spatial Truth Collapses {.section-title}
+
+::: {.tier-grid}
+
+::: {.tier-card}
+[01 · Space]{.tier-badge}
+**AI cannot parse space**
+Spatial relationships — where things are relative to each other — vanish in translation.
+[Spatial logic evaporates]{.tier-outcome}
+:::
+
+::: {.tier-card .tier-featured}
+[02 · Cost]{.tier-badge .badge-teal}
+**The marginalized pay**
+Visual description omits the structural info that blind and low-vision users depend on.
+[The wrong people bear the cost]{.tier-outcome .outcome-teal}
+:::
+
+::: {.tier-card .tier-amber}
+[03 · Meaning]{.tier-badge .badge-amber}
+**Proximity vanishes**
+The visual grammar of arrangement disappears. Wally cannot give directions.
+[Logic vs Observation]{.tier-outcome .outcome-amber}
+:::
+
+:::
+
+## The Differentiator {.slide-section background-color="#FAFAF8"}
+
+::: {.eyebrow}
+The Design Mirror
+:::
+
+### This is a *Design* Problem {.section-title}
+
+This is not an AI failure; it is an organisational failure to value proximity over assumption[cite: 3].
+
+::: {.adv-grid}
+
+::: {.card-amber}
+**Assumption Over Proximity**  
+Organisations route insight through assumption, not proximity — and call it research.
+:::
+
+::: {.card-teal}
+**Experience Gap**  
+Expertise without lived experience builds things that are beautiful and wrong.
+:::
+
+::: {.card-plain}
+**Expectation Trap**  
+You design for the world you expect. Your users inhabit a different one.
+:::
+
+::: {.card-plain}
+**Strategic Steering**  
+Reason natively in context. Don't translate experience into abstraction before acting.
+:::
+
+:::
+
+## Ready to Start *Perceiving?* {.slide-cta background-color="#FAFAF8"}
+
+::: {.hero-rule}
+:::
+
+Stop narrating. Start perceiving. Proximity is a design method, not a values statement[cite: 3].
+
+::: {.cta-row}
+[→ spottedape.substack.com](https://spottedape.substack.com){.cta-primary}
+[→ thespottedape.com](https://thespottedape.com){.cta-secondary}
+:::
+
+::: {.pill-row .mt-lg}
+[Human-in-the-Loop]{.pill .pill-amber}
+[Proximity as Method]{.pill .pill-teal}
+[Design With, Not For]{.pill .pill-amber}
+:::

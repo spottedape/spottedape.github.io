@@ -1,0 +1,463 @@
+---
+title: ""
+format:
+  revealjs:
+    theme: default
+    css: deaf-blind-presentation-3.css
+    width: 1080
+    height: 1080
+    slide-number: false
+    controls: false
+    progress: false
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    center: false
+    hash: false
+    embed-resources: false
+    pdf-separate-fragments: false
+---
+
+<!-----------------------------------------------------------
+  SLIDE 01 — Wally and Dave: full-bleed photo
+  Image file: images/deaf-blind-1.png (replace with actual path)
+------------------------------------------------------------>
+
+## {background-image="images/deaf-blind-1a.png" background-size="cover" background-position="center top" .photo-slide}
+
+::: notes
+[Wait five full seconds]
+About three weeks ago I was supposed to be finishing something I'd been avoiding all week and...
+I fell down a YouTube rabbit hole.
+[pause]
+You know the kind. You open one tab, and suddenly it's forty minutes later...
+ and you're watching a 1989 film you've seen twice before and didn't particularly need to see again.
+[pause — quieter]
+But there was this moment. One clip. Thirty seconds.
+And I haven't been able to stop thinking about it since.
+[click]
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 02 — Meet Wally.
+------------------------------------------------------------>
+
+## {.center-slide .no-heading}
+
+<div style="text-align:center; font-family:'Playfair Display',serif; font-weight:800; line-height:1.08; font-size:4.4rem; color:#FFFFFF;">
+  Meet<br><em style="color:#F2DC1A; font-style:italic;">Wally.</em>
+</div>
+
+::: notes
+Meet Wally. Richard Pryor. Blind — completely, categorically blind. He knows it perfectly well.
+
+What he refuses — flatly, resolutely refuses — is to admit it.
+
+So he performs. Memorised cues. Contextual guesses. Practised confidence. He reads newspapers he cannot see. Navigates rooms on habit and sheer front. The performance is convincing.
+
+Which is not the same thing as being able to see.
+
+[pause]
+
+Meet Dave. Gene Wilder. Deaf. And like Wally, remarkably good at pretending he isn't.
+
+He lip-reads. He guesses. He fills the gaps with whatever his training gives him — and delivers the result with complete conviction.
+
+[pause]
+
+Together, Wally strides forward and Dave shouts what he thinks he lip-read. Each borrows the faculty the other is missing. Neither actually has it.
+
+The performance is fluent. The comedy — and the tragedy — is that everyone around them can see exactly what's happening.
+
+Everyone except them.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 03 — He can't see himself. But pretends he can.
+------------------------------------------------------------>
+
+## {.statement-slide .no-heading}
+
+<div style="font-family:'Playfair Display',serif; font-weight:800; font-size:3.4rem; line-height:1.1; color:#FFFFFF;">
+  He can't see<br>himself.<br>
+  <em style="color:#F2DC1A; font-style:italic;">But pretends<br>he can.</em>
+</div>
+
+<a class="cta">See for yourself →</a>
+
+::: notes
+There's a scene on a subway. A woman tells Wally he's white. He doesn't miss a beat.
+
+"I'm not white."
+
+He cannot verify that. No visual access to himself, to her, to anything around him. But he asserts it with complete confidence — because it's the answer his training gives him.
+
+I'm going to show you thirty seconds of it.
+
+[click — play clip — say nothing — let the room respond — wait for it to end]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 04 — Film still: subway scene
+  Image file: images/deaf-blind-2.png  (replace with actual path)
+------------------------------------------------------------>
+
+## {background-image="images/deaf-blind-1.png" background-size="contain" background-position="center" background-color="#0B0B18" .photo-slide}
+
+<div class="photo-caption">See No Evil, Hear No Evil &nbsp;·&nbsp; 1989</div>
+
+::: notes
+[Let the room settle. When the laughter dies — and it will — speak into the quiet.]
+
+That is not a man who doesn't know he's blind.
+
+That is a man performing sight with such practised confidence that the performance has become the product.
+
+[pause]
+
+Remember that look on her face.
+
+You're going to recognise it.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 05 — Your AI is doing a Wally.
+------------------------------------------------------------>
+
+## {.center-slide .no-heading}
+
+<div style="text-align:center; font-family:'Playfair Display',serif; font-weight:800; font-size:3.8rem; line-height:1.1; color:#FFFFFF;">
+  Your AI is doing<br>
+  <em style="color:#F2DC1A; font-style:italic;">a Wally.</em>
+</div>
+
+::: notes
+[Let the slide sit for a moment before speaking.]
+
+Your AI is doing a Wally.
+
+But here's what most people miss —
+
+[pause]
+
+It's also doing a Dave.
+
+The visual encoder is Wally — performing sight, converting what it sees into the expected answer. The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.
+
+Wally and Dave. Running simultaneously. In every multimodal AI system you are currently using.
+
+The camera input is real. The confidence is real. The sight — and the hearing — are not.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 06 — AI narrates the world it expects
+------------------------------------------------------------>
+
+## {.statement-slide .no-heading}
+
+<div style="font-family:'Playfair Display',serif; font-weight:800; font-size:3.2rem; line-height:1.12; color:#FFFFFF; max-width:86%;">
+  AI narrates the<br>world it <em style="color:#F2DC1A; font-style:italic;">expects</em><br>— not the one<br>in front of it.
+</div>
+
+::: notes
+[Slower. This is the thesis. Give the room time to hold it.]
+
+Silicon Valley has spent a decade equipping AI with eyes. Visual encoders. Image inputs. The image-upload button arrives with the confidence of a product announcement.
+
+What the press releases don't discuss is the architecture behind the lens.
+
+Pixels come in. They are converted to words. The words are reasoned about. And then the system tells you — with complete confidence — what it expects to be there.
+
+That is Wally on the subway. Asserting "I'm not white" — not because he's seen himself, but because it's the answer his training gives him.
+
+Dave, meanwhile, is shouting directions.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 07 — The Multi-Modal Illusion: two-column
+------------------------------------------------------------>
+
+## {.no-heading}
+
+<div class="comparison">
+  <div class="comparison-col">
+    <div class="col-label">What it claims</div>
+    <h3>The Machine<br>Can See</h3>
+    <div class="col-body">Context.&nbsp; Space.&nbsp; Physical reality.</div>
+  </div>
+
+  <div class="comparison-divider"></div>
+
+  <div class="comparison-col">
+    <div class="col-label accent">What it does</div>
+    <h3 class="accent">Word-Based<br>Reasoning</h3>
+    <div class="col-body">Pixels → Tokens → Expected output.</div>
+  </div>
+</div>
+
+::: notes
+On the left: what the marketing says. The machine can see. Context. Space. Physical reality.
+
+On the right: what the architecture does. Converts pixels to tokens. Reasons about the tokens as language. Outputs what it was trained to expect.
+
+One is perception. The other is a very sophisticated performance of it.
+
+[pause — let the slide work]
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 08 — The Language Bottleneck: timeline
+------------------------------------------------------------>
+
+## {.no-heading}
+
+<div style="font-family:'Playfair Display',serif; font-weight:800; font-size:2.6rem; line-height:1.1; color:#FFFFFF; margin-bottom:0;">
+  The <em style="color:#F2DC1A; font-style:italic;">Language</em><br>Bottleneck
+</div>
+
+<div class="timeline">
+  <div class="tl-node">
+    <div class="tl-dot burst"></div>
+    <div class="tl-label">Pixels</div>
+    <div class="tl-desc">Visual input enters the system as raw data points.</div>
+  </div>
+  <div class="tl-node">
+    <div class="tl-dot"></div>
+    <div class="tl-label">Tokens</div>
+    <div class="tl-desc">Converted to language before any high-level reasoning occurs.</div>
+  </div>
+  <div class="tl-node">
+    <div class="tl-dot burst"></div>
+    <div class="tl-label accent">Expected World</div>
+    <div class="tl-desc">The system describes a statistical probability, not reality.</div>
+  </div>
+</div>
+
+::: notes
+[Gesture across the diagram — one pass, no elaboration.]
+
+At no point in that pipeline is there genuine visual reasoning.
+
+At every point, there is a very convincing Wally.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 09 — Mastering Beauty, Missing Meaning (headline)
+------------------------------------------------------------>
+
+## {.center-slide .no-heading}
+
+<div style="text-align:center; font-family:'Playfair Display',serif; font-weight:800; font-size:3.8rem; line-height:1.1; color:#FFFFFF;">
+  Mastering <em style="color:#F2DC1A; font-style:italic;">Beauty,</em><br>Missing Meaning
+</div>
+
+::: notes
+I can hear you. What about Midjourney? The light behaves. The geometry holds. The shadows fall exactly where they ought to fall.
+
+Wally, late in the film, discovers he has become a rather convincing actor.
+
+Which is not the same thing as having recovered his sight.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 10 — 30% / The Perception Gap
+------------------------------------------------------------>
+
+## {.no-heading}
+
+<div class="stat-block">
+  <div class="stat-number">30%</div>
+  <div class="stat-right">
+    <div class="stat-eyebrow">The Perception Gap</div>
+    <div class="stat-desc">Accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility — genuine sight.</div>
+    <div class="stat-kicker">The vocabulary is intact. The perception is absent.</div>
+  </div>
+</div>
+
+<div class="sa-footer">The Spotted Ape &nbsp;·&nbsp; Design Strategy</div>
+
+::: notes
+Thirty percent.
+
+[pause — full count of three]
+
+That is the accuracy rate when leading multimodal models face scientific tasks requiring actual visual reasoning. Not aesthetic plausibility.
+
+Genuine sight.
+
+Thirty percent.
+
+The vocabulary is intact. The perception is absent. Wally knows all the right words for a bar fight.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 11 — Spatial Truth Collapses (headline)
+------------------------------------------------------------>
+
+## {.center-slide .no-heading}
+
+<div style="text-align:center; font-family:'Playfair Display',serif; font-weight:800; font-size:3.8rem; line-height:1.1; color:#FFFFFF;">
+  Spatial <em style="color:#F2DC1A; font-style:italic;">Truth</em><br>Collapses
+</div>
+
+::: notes
+[Quieter now. This is where it stops being a technical argument.]
+
+Engineers building tools for blind and low-vision users have found that AI-mediated visual description collapses precisely on the information those users need most.
+
+Not the general subject. The spatial structure. Where is this element relative to that one? What is the relationship between these two things?
+
+The visual grammar of arrangement — proximity as meaning — evaporates in translation.
+
+[pause]
+
+Asking Wally for directions has consequences that extend well beyond the comedy.
+
+His performance of sight, when trusted, causes real harm.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 12 — Three cards: Parsing Space / Human Cost / Vanishing Signal
+------------------------------------------------------------>
+
+## {.no-heading}
+
+<div class="card-grid">
+  <div class="card">
+    <div class="card-icon">◻</div>
+    <div class="card-title">Parsing Space</div>
+  </div>
+  <div class="card">
+    <div class="card-icon">⤫</div>
+    <div class="card-title">Human Cost</div>
+  </div>
+  <div class="card">
+    <div class="card-icon">◁</div>
+    <div class="card-title">Vanishing Signal</div>
+  </div>
+</div>
+
+<div class="sa-footer">The Spotted Ape &nbsp;·&nbsp; Design Strategy</div>
+
+::: notes
+[Let the three cards land — pause before speaking.]
+
+Space. Cost. Signal.
+
+Three things that disappear when a system performs sight instead of having it.
+
+Three things that the people who need AI most — are getting least.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 13 — This is not an AI problem. It is a design problem.
+------------------------------------------------------------>
+
+## {.statement-slide .no-heading}
+
+<div style="font-family:'Playfair Display',serif; font-weight:800; font-size:3.4rem; line-height:1.12; color:#FFFFFF;">
+  This is not an<br>AI problem.<br>
+  <em style="color:#F2DC1A; font-style:italic;">It is a design<br>problem.</em>
+</div>
+
+::: notes
+[Step back. This is the pivot. It is aimed directly at the people in this room.]
+
+Here is the thing about Wally and Dave.
+
+They didn't write their own script. Someone handed it to them.
+
+[pause]
+
+Designers are supposed to be the people in this process who can actually see. Who bring proximity, lived experience, and genuine contextual judgment. That is the job. That is what separates design from decoration.
+
+What is happening instead — in teams and organisations running this at scale every day — is this: designers are loading AI systems with assumptions they already hold. Briefs built from abstraction. Research that confirms what was expected. Insights that have been translated through language before they were ever tested against reality.
+
+Then treating the output as direction.
+
+[pause]
+
+The AI cannot see what it hasn't been given. It performs confidence with whatever it receives. That is its nature.
+
+But the designer is not the architecture. The designer is the shepherd.
+
+And a shepherd who hands the flock to Wally and Dave — and then follows their lead — has not solved anything.
+
+They have simply moved the blindness upstream. And made it invisible.
+
+[pause]
+
+The AI is the clearest mirror the design industry currently has.
+
+What it reflects is not a technology problem.
+
+It reflects an industry that handed the eyes to something blind — and called it a methodology.
+
+[click]
+:::
+
+<!-----------------------------------------------------------
+  SLIDE 14 — Stop Narrating. Start Perceiving.
+------------------------------------------------------------>
+
+## {.center-slide .no-heading}
+
+<div style="text-align:center; font-family:'Playfair Display',serif; font-weight:800; font-size:4rem; line-height:1.08; color:#FFFFFF;">
+  Stop <em style="color:#F2DC1A; font-style:italic;">Narrating.</em><br>Start Perceiving.
+</div>
+
+<div class="url-bar">
+  Read the full essay at &nbsp;<span>spottedape.substack.com</span>
+</div>
+
+::: notes
+Three things. Not ten.
+
+[pause]
+
+Reason natively in context. Don't translate lived experience into abstraction before acting on it. Proximity changes what you are capable of seeing — not just how you feel about the process.
+
+[pause]
+
+Proximity is a design method. Not a values statement. A structural commitment — to building teams and processes genuinely close to the problem before solutions begin.
+
+[pause]
+
+Design with, not for. The gap between those two words is exactly where products fail the people who need them most. Knowing the gap exists, and performing across it anyway — that is the Wally move.
+
+[pause — settle — make eye contact]
+
+Wally strides forward. Dave shouts what he thinks he lip-reads.
+
+The demos are polished. The benchmarks, carefully selected, are excellent.
+
+But the bar fight is still going on.
+
+And it is becoming increasingly difficult, as outsiders, to tell which punches are landing — and which ones are striking empty air.
+
+[Stop. Say nothing more.]
+
+Thank you.
+:::

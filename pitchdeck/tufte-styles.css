@@ -1,5 +1,37 @@
 /* tufte-styles.css */
 
+/* Tufte Heading Hierarchy */
+
+h1, .title {
+    font-family: "EtBembo", "Palatino", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2.2rem;
+    margin-top: 3.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: "EtBembo", "Palatino", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.7rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+h3 {
+    font-family: "EtBembo", "Palatino", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.2rem; /* Close to body size but distinct through style */
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.2;
+}
+
 body {
     background-color: #fffff8; /* Classic Tufte off-white */
     color: #111;

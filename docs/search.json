@@ -256,7 +256,7 @@
     "href": "pitchdeck/deaf-blind-ft-column.html",
     "title": "",
     "section": "",
-    "text": "THESPOTTEDAPE\n    \n    \n      \n    \n\n    \n      \n        Idea\n        Work\n        Case\n        About\n        Book\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nThe Deaf Leading the Blind: What Silicon Valley’s LLM’s Cannot See\n\n“…They have mouths, but cannot speak, eyes, but cannot see. They have ears, but cannot hear, noses, but cannot smell… Those who make them will be like them, and so will all who trust in them.” (Psalm 115:4–8, NIV)\n\n\nI recently found myself rewatching See No Evil, Hear No Evil. It is a minor 1989 comedy that normally would not get a second viewing. The hilarious Richard Pryor plays Wally, a blind man who refuses to acknowledge his blindness (Figure 1), and Gene Wilder plays Dave, a deaf man who has become remarkably good at pretending to hear. Together they blunder through a murder mystery, each borrowing the faculty the other lacks, each performing a competence neither possesses. Wally strides into bar brawls while Dave shouts directions; Dave borrows Wally’s ears to detect approaching sirens. The comedy turns, precisely, on the gap between performed and actual perception (Figure 2). On reflection, it turns out to be a surprisingly accurate description of artificial intelligence, specifically visual-focussed Large Language Models (LLM).\n\n\n\n\n\n\n\nFigure 1: In this subway sequence, Wally (Pryor) performs “simulated sight”, using memorized cues to mask his blindness.\n\n\n\n\n\n\n\n\nFigure 2: During the job interview, Wally and Dave attempt to communicate across a complete sensory disconnect.\n\n\n\n\nThe joke, as these things go, has aged rather well. Silicon Valley has spent the better part of a decade equipping AI with eyes. Visual encoders. Camera inputs. The image-upload button presented to us with confidence that the machine can now see. What the product announcements rarely mention is the architecture sitting behind the lens. The model processes visual information by first converting it into words; then reasoning about those words; and, finally describing what it believes to be there. All with the practiced confidence of a man who cannot see the bar fight he has just walked into.\n\n\nThe Wally Problem\nSilicon Valley’s flagship general-purpose models still have the language bottleneck firmly in place. The chatbot works, ostensibly, because the partnership is all it has. This is the Wally problem. Vision for most multimodal AI systems relies on a process of narration, not perception. Pixels enter; the language model converts them into tokens; the tokens are then reasoned about (Su et al., 2025). Under light cognitive load, this works well enough. Under heavier demands requiring genuine inference, the visual attention collapses, and the model does what researchers have delicately termed “relying on linguistic priors” (Qian et al., 2026). It does a Wally. It narrates the world it expects rather than the one in front of it. In other words, it does not merely struggle to see. It actively replaces sight with pre-trained confidence.\n\nQian, Z., Ma, Y., Ouyang, Z., Wang, Z., Xu, Z., Luo, F., Liu, X., Ge, Z., Guo, Y., & Han, J. (2026). Cognitive pivot points and visual anchoring: Unveiling and rectifying hallucinations in multimodal reasoning models. arXiv Preprint arXiv:2604.10219. https://arxiv.org/abs/2604.10219\nAn instinctive counter-argument could point to Tesla. If AI cannot see, how precisely is a two-tonne vehicle able to negotiate an American intersection without incident? It is a fair question. The answer, however, is not that Tesla has solved the vision problem. Tesla’s v12 architecture maps pixels directly to steering and braking outputs, bypassing language altogether. There is no Dave whispering directions to Wally here. The blind man has simply been removed from the vehicle. The car does not name a stop sign before responding to it; it encodes the sign as a spatial object with associated coordinates and probabilities, and acts accordingly.\nAnother apparent aesthetic counter-argument are the visual generation tools of which Midjourney is the prime example. The remarkable images these generative models produce seem to have mastered the disconnect. The light behaves. The geometry holds. The shadows fall where shadows ought to fall. One is almost persuaded. One is reminded of Wally discovering, late in the film, that he has become a rather convincing actor. Which is not the same thing as having recovered his sight.\nWhat Midjourney has mastered is the aesthetics of plausibility (Su et al., 2025). Through heroic quantities of human feedback, it has learned the statistical grammar of what beautiful images look like—the precise pixel distribution that human evaluators label as “a convincing glass of wine,” “a plausible city at night,” “dramatic without being ridiculous.” It does not know that glass shatters, that wine is liquid, or that the laws of refraction are not merely decorative suggestions. It is navigating a latent manifold of human visual taste with extraordinary precision.\nThe results are often beautiful. They are also, in any domain where spatial truth is the point, almost completely beside it.\nThat domain is science. When researchers recently evaluated leading multimodal models on scientific tasks requiring perception, interpretation, and reasoning over real data, performance was strikingly limited. In the Scientists’ First Exam benchmark, state-of-the-art systems achieved only around 30% accuracy, revealing substantial gaps in their ability to integrate visual information with scientific reasoning (Zhou et al., 2025).\n\nZhou, Y., Wang, Y., He, X., Xiao, R., Li, Z., Feng, Q., Guo, Z., Yang, Y., Wu, H., Huang, W., Wei, J., Si, D., Yao, X., Bu, J., Huang, H., Fu, T., Tang, S., Fei, B., Zhou, D., … Bai, L. (2025). Scientists’ first exam: Probing cognitive abilities of MLLM via perception, understanding, and reasoning. arXiv Preprint arXiv:2506.10521. https://arxiv.org/abs/2506.10521\nThe vocabulary was intact. The perception was absent. Wally, as it turns out, knows all the right words for a bar fight.\nThis failure is, in one register, an academic finding. In another, it is alarming. Engineers developing collaborative tools for blind and low-vision users have discovered that AI-mediated visual description collapses on the very information those users most need: spatial structure (Li et al., 2026). Where is the annotation relative to the diagram? Which cluster corresponds to which label? The visual grammar of collaborative work—arrangement, proximity, grouping as semantic signal—evaporates in translation. A system that cannot genuinely parse space cannot reconstruct it for the people whose relationship to space is already mediated and precarious. Asking Wally to give directions, in other words, has consequences that extend well beyond comedy.\n\nLi, M., Yang, H., Sanda, N., & Das, M. (2026). Idea11y: Enhancing accessibility in collaborative ideation for blind or low vision screen reader users. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26). https://doi.org/10.1145/3772318.3790878\n\nSu, Z., Xia, P., Guo, H., Liu, Z., Ma, Y., Qu, X., Liu, J., Li, Y., Zeng, K., Yang, Z., Li, L., Cheng, Y., Ji, H., He, J., & Fung, Y. R. (2025). Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers. arXiv Preprint arXiv:2506.23918. https://arxiv.org/abs/2506.23918\nThe field is not entirely unaware of the predicament. A growing body of research advocates for what its proponents call “thinking with images” rather than thinking about them. In other words, reasoning natively in visual latent space, rather than routing every observation through the linguistic bottleneck first (Su et al., 2025). Whether this amounts to a genuine architectural reckoning or a more sophisticated performance of sight is, for now, an open question.\nThe partnership, for the moment, endures. Wally strides forward; Dave shouts what he thinks he lip-read. The demos are polished. The press releases are stirring. The benchmarks, carefully selected, are excellent.\nThe bar fight, however, is still going on. And it is becoming increasingly difficult, from the outside, to tell which punches are actually landing—and which are connecting, with great conviction, with the empty air.\nThe bar fight is still going on. Dave is still shouting directions. Wally is still swinging and occasionally, by some combination of statistical fortune and well-trained instinct, connecting. Whether that constitutes fighting, or merely a well-coordinated performance of multiple agents, is the question that remains open."
+    "text": "THESPOTTEDAPE\n    \n    \n      \n    \n\n    \n      \n        Idea\n        Work\n        Case\n        About\n        Book\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nThe Deaf Leading the Blind: What Silicon Valley’s LLM’s Cannot See\n\n“…They have mouths, but cannot speak, eyes, but cannot see. They have ears, but cannot hear, noses, but cannot smell… Those who make them will be like them, and so will all who trust in them.” (Psalm 115:4–8, NIV)\n\nI recently found myself watching See No Evil, Hear No Evil on Youtube, drawn in by the “I am white” clip with Richard Pryor (Figure 1). It is a minor 1989 comedy. The hilarious Pryor plays Wally, a blind man who refuses to acknowledge that he is blind. Gene Wilder plays Dave, a deaf man who has become remarkably good at pretending to hear. Together they blunder through a murder mystery, each borrowing the faculty of the other. Wally strides into bar brawls while Dave shouts directions. Dave borrows Wally’s ears to detect approaching sirens. The comedy turns on the gap between performed and actual perception (Figure 2). On reflection, it could be a surprisingly accurate description of artificial intelligence (AI), specifically visual-focussed Large Language Models (LLM).\n\n\n\n\n\n\n\nFigure 1: In this subway sequence, Wally (Pryor) performs “simulated sight”, using memorized cues to mask his blindness.\n\n\n\n\n\n\n\n\nFigure 2: During the job interview, Wally and Dave attempt to communicate across a complete sensory disconnect.\n\n\n\n\nThe joke, as these things go, has aged rather well. Silicon Valley has spent the better part of a decade equipping AI with eyes. Visual encoders. Camera inputs. The image-upload button is presented to us with confidence that the machine can now see. What the product announcements rarely discuss is the architecture sitting behind the lens. The LLMs process visual information by first converting it into words; then reasoning about those words; and, finally describing what they believe to be there. All with the practiced confidence of a man who cannot see the bar fight he has just walked into.\n\n\nThe Wally Problem\nSilicon Valley’s flagship general-purpose LLMs still have the language bottleneck firmly in place. The chatbot works, ostensibly, because the partnership is all it has. This appears to be a Wally problem. Vision for most multimodal AI systems relies on a process of narration, not perception. Pixels enter; the language model converts them into tokens; the tokens are then reasoned about (Su et al., 2025). Under light cognitive load, this works well enough. Under heavier demands requiring genuine inference, the visual attention collapses, and the model does what researchers have delicately termed “relying on linguistic priors” (Qian et al., 2026). It does a Wally. It narrates the world it expects rather than the one in front of it. In other words, it does not merely struggle to see. It hallucinates with pre-trained confidence.\n\nQian, Z., Ma, Y., Ouyang, Z., Wang, Z., Xu, Z., Luo, F., Liu, X., Ge, Z., Guo, Y., & Han, J. (2026). Cognitive pivot points and visual anchoring: Unveiling and rectifying hallucinations in multimodal reasoning models. arXiv Preprint arXiv:2604.10219. https://arxiv.org/abs/2604.10219\n\n\nBut what about Tesla?\nAn instinctive counter-argument could be to point to Tesla. If the LLM cannot see, how then is a two-tonne vehicle able to negotiate Californian roads without incident? The answer is not that Tesla has solved the vision problem. The Tesla v12 architecture maps pixels directly to steering and braking outputs, bypassing language altogether. There is no Dave whispering directions to Wally here. The blind man has simply been removed. The car does not name a stop sign before responding to it; it encodes the sign as a spatial object with associated coordinates and probabilities, and acts accordingly.\n\n\nAnd Midjourney?\nAnother apparent aesthetic counter-argument are the many visual generation tools of which Midjourney is the prime example. The remarkable images these generative models produce seem to have mastered the disconnect. The light behaves. The geometry holds. The shadows fall where shadows ought to fall. One is almost persuaded. One is reminded of Wally discovering, late in the film, that he has become a rather convincing actor. Which is not the same thing as having recovered his sight. What Midjourney has mastered is the aesthetics of plausibility (Su et al., 2025). Through heroic quantities of human feedback, it has learned the statistical grammar of what beautiful images look like. It has learnt the precise pixel distribution that human evaluators label as “a convincing glass of wine” or “a plausible city at night”. It does not know that glass shatters, nor that wine is liquid. It is navigating a latent mapping of human visual taste.\n\nZhou, Y., Wang, Y., He, X., Xiao, R., Li, Z., Feng, Q., Guo, Z., Yang, Y., Wu, H., Huang, W., Wei, J., Si, D., Yao, X., Bu, J., Huang, H., Fu, T., Tang, S., Fei, B., Zhou, D., … Bai, L. (2025). Scientists’ first exam: Probing cognitive abilities of MLLM via perception, understanding, and reasoning. arXiv Preprint arXiv:2506.10521. https://arxiv.org/abs/2506.10521\nThe results are often beautiful, yet in the scientific domain where spatial truth crucial, completely unpredictable. When researchers recently evaluated leading multimodal models on scientific tasks requiring perception, interpretation, and reasoning over real data, performance was strikingly limited. The models achieved only around 30% accuracy, revealing substantial gaps in their ability to integrate visual information with scientific reasoning (Zhou et al., 2025).\nThe perception may be absent, but the vocabulary remains intact. Wally, as it turns out, knows all the right words for a bar fight.\nThese failures are not just academic. They are alarming. Engineers developing collaborative tools for blind and low-vision users have discovered that AI-mediated visual description collapses on the very information those users most need: spatial structure (Li et al., 2026). Where is the annotation relative to the diagram? Which cluster corresponds to which label? The visual grammar of arrangement and proximity as semantic signal evaporates in translation. A system that cannot genuinely parse space cannot reconstruct it for the people whose relationship to space is already precarious. Asking Wally to give directions, in other words, has consequences that extend well beyond comedy.\n\nLi, M., Yang, H., Sanda, N., & Das, M. (2026). Idea11y: Enhancing accessibility in collaborative ideation for blind or low vision screen reader users. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26). https://doi.org/10.1145/3772318.3790878\n\nSu, Z., Xia, P., Guo, H., Liu, Z., Ma, Y., Qu, X., Liu, J., Li, Y., Zeng, K., Yang, Z., Li, L., Cheng, Y., Ji, H., He, J., & Fung, Y. R. (2025). Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers. arXiv Preprint arXiv:2506.23918. https://arxiv.org/abs/2506.23918\nThe field is not entirely unaware of the predicament. A growing body of research advocates for what its proponents call “thinking with images” rather than thinking about them. In other words, reasoning natively in visual latent space, rather than routing every observation through the linguistic bottleneck first (Su et al., 2025). Whether this amounts to a genuine architectural reckoning or a more sophisticated performance of sight is, for now, an open question.\nThe partnership of Wally and Dave, for the moment, endures. Wally strides forward; Dave shouts what he thinks he lip-read. The demos are polished. The press releases are stirring. The benchmarks, carefully selected, are excellent.\nThe bar fight, however, is still going on. And it is becoming increasingly difficult for us as outsiders to tell which punches are actually landing with great conviction and which ones are striking empty air."
   },
   {
     "objectID": "pitchdeck/deaf-blind-speech-revised.html#the-claim",
@@ -439,5 +439,572 @@
     "title": "The Deaf Leading the Blind",
     "section": "The Deaf Leading the Blind",
     "text": "The Deaf Leading the Blind\nWhat Silicon Valley’s AI Cannot See\nMarcel Maré\n\nThanks for watching."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-column-edited.html",
+    "href": "pitchdeck/deaf-blind-ft-column-edited.html",
+    "title": "",
+    "section": "",
+    "text": "THESPOTTEDAPE\n    \n    \n      \n    \n\n    \n      \n        Idea\n        Work\n        Case\n        About\n        Book\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nThe Deaf Leading the Blind: What Silicon Valley’s LLMs Cannot See\n\n“…They have mouths, but cannot speak, eyes, but cannot see. They have ears, but cannot hear, noses, but cannot smell… Those who make them will be like them, and so will all who trust in them.” (Psalm 115:4–8, NIV)\n\nI recently found myself watching See No Evil, Hear No Evil — a minor 1989 comedy — on YouTube, drawn in by the “I am white” clip with Richard Pryor (Figure 1). The hilarious Pryor plays Wally, a blind man who flatly refuses to admit it. Gene Wilder plays Dave, a deaf man who has become remarkably good at pretending to hear (Figure 2). Together they blunder through a murder mystery, each borrowing the faculty of the other. Wally strides into bar brawls while Dave shouts directions (Figure 3). Dave borrows Wally’s ears to detect approaching sirens. The comedy turns on the gap between performed and actual perception. On reflection, it could be a surprisingly accurate description of artificial intelligence (AI), specifically visual-focussed Large Language Models (LLMs).\n\n\n\n\n\n\n\nFigure 1: In this subway sequence, Wally (Pryor) performs “simulated sight”, using memorised cues to mask his blindness.\n\n\n\n\n\n\n\n\nFigure 2: During the job interview, Wally and Dave attempt to communicate across a complete sensory disconnect.\n\n\n\n\n\n\n\n\nFigure 3: Wally and Dave in a bar brawl.\n\n\n\n\nSilicon Valley has spent the better part of a decade equipping AI with eyes. Visual encoders. Camera inputs. The image-upload button is presented to us with confidence that the machine can now see. What the product announcements rarely discuss is the architecture sitting behind the lens. The LLMs process visual information by first converting it into words, then reasoning about those words, and finally describing what they believe to be there. All with the practised confidence of a man who cannot see the bar fight he has just walked into.\n\n\nThe Wally Problem\nSilicon Valley’s flagship general-purpose LLMs still have the language bottleneck firmly in place. The system works, ostensibly, because this partnership is all it has. This is, in essence, a Wally problem. Vision for most multimodal AI systems relies on a process of narration, not perception. Pixels enter; the language model converts them into tokens; the tokens are then reasoned about (Su et al., 2025). Under light cognitive load, this works well enough. Under heavier demands requiring genuine inference, the visual attention collapses, and the model does what researchers have delicately termed “relying on linguistic priors” (Qian et al., 2026). It does a Wally. It narrates the world it expects rather than the one in front of it. In other words, it does not merely struggle to see. It hallucinates with pre-trained confidence.\n\nQian, Z., Ma, Y., Ouyang, Z., Wang, Z., Xu, Z., Luo, F., Liu, X., Ge, Z., Guo, Y., & Han, J. (2026). Cognitive pivot points and visual anchoring: Unveiling and rectifying hallucinations in multimodal reasoning models. arXiv Preprint arXiv:2604.10219. https://arxiv.org/abs/2604.10219\n\n\nBut What About Tesla?\nAn instinctive counter-argument is Tesla. If the LLM cannot see, how then is a two-tonne vehicle able to negotiate Californian roads without incident? The answer is not that Tesla has solved the vision problem. The Tesla v12 architecture maps pixels directly to steering and braking outputs, bypassing language altogether. There is no Dave whispering directions to Wally here. The blind man has simply been removed. The car does not name a stop sign before responding to it; it encodes the sign as a spatial object with associated coordinates and probabilities, and acts accordingly.\n\n\nAnd Midjourney?\nAnother apparent counter-argument is the proliferation of visual generation tools, of which Midjourney is the prime example. The remarkable images these models produce seem to have mastered the disconnect. The light behaves. The geometry holds. The shadows fall where shadows ought to fall. One is almost persuaded. One is reminded of Wally discovering, late in the film, that he has become a rather convincing actor. Which is not the same thing as having recovered his sight. What Midjourney has mastered is the aesthetics of plausibility (Su et al., 2025). Through heroic quantities of human feedback, it has learned the statistical grammar of what beautiful images look like. It has learnt the precise pixel distribution that human evaluators label as “a convincing glass of wine” or “a plausible city at night”. It does not know that glass shatters, nor that wine is liquid. It is navigating a latent mapping of human visual taste.\n\nZhou, Y., Wang, Y., He, X., Xiao, R., Li, Z., Feng, Q., Guo, Z., Yang, Y., Wu, H., Huang, W., Wei, J., Si, D., Yao, X., Bu, J., Huang, H., Fu, T., Tang, S., Fei, B., Zhou, D., … Bai, L. (2025). Scientists’ first exam: Probing cognitive abilities of MLLM via perception, understanding, and reasoning. arXiv Preprint arXiv:2506.10521. https://arxiv.org/abs/2506.10521\nThe results are often beautiful, yet in the scientific domain — where spatial truth is crucial — they are completely unpredictable. When researchers recently evaluated leading multimodal models on scientific tasks requiring perception, interpretation, and reasoning over real data, performance was strikingly limited. The models achieved only around 30% accuracy, revealing substantial gaps in their ability to integrate visual information with scientific reasoning (Zhou et al., 2025).\nThe perception may be absent, but the vocabulary remains intact. Wally, as it turns out, knows all the right words for a bar fight.\nThese failures are not just academic. They are alarming. Engineers developing collaborative tools for blind and low-vision users have discovered that AI-mediated visual description collapses on the very information those users most need: spatial structure (Li et al., 2026). Where is the annotation relative to the diagram? Which cluster corresponds to which label? The visual grammar of arrangement — proximity as semantic signal — evaporates in translation. A system that cannot genuinely parse space cannot reconstruct it for the people whose relationship to space is already precarious. Asking Wally to give directions, in other words, has consequences that extend well beyond comedy.\n\nLi, M., Yang, H., Sanda, N., & Das, M. (2026). Idea11y: Enhancing accessibility in collaborative ideation for blind or low vision screen reader users. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26). https://doi.org/10.1145/3772318.3790878\n\nSu, Z., Xia, P., Guo, H., Liu, Z., Ma, Y., Qu, X., Liu, J., Li, Y., Zeng, K., Yang, Z., Li, L., Cheng, Y., Ji, H., He, J., & Fung, Y. R. (2025). Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers. arXiv Preprint arXiv:2506.23918. https://arxiv.org/abs/2506.23918\nThe field is not entirely unaware of the predicament. A growing body of research advocates for what its proponents call “thinking with images” rather than thinking about them — reasoning natively in visual latent space rather than routing every observation through the linguistic bottleneck first (Su et al., 2025). Whether this amounts to a genuine architectural reckoning or a more sophisticated performance of sight is, for now, an open question.\nThe partnership of Wally and Dave, for the moment, endures. Wally strides forward; Dave shouts what he thinks he lip-reads. The demos are polished. The press releases are stirring. The benchmarks, carefully selected, are excellent.\nThe bar fight, however, is still going on. And it is becoming increasingly difficult for us, as outsiders, to tell which punches are actually landing and which ones are merely striking empty air."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "He can’t see himself.\n\n\n\nHe doesn’t know it.\nWatch.\n\nSee No Evil, Hear No Evil · 1989 · Richard Pryor as Wally\n\n\n\n\n\n\n\n\n▶\n\n\nINSERT VIDEO CLIP\n\n\nyoutube.com/watch?v=R1p_523SEO8"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-1",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "02\n\nYour AI is doing a Wally.\n\n\n\nWally performs sight using memorised cues.\nHe narrates the world he was trained to expect — not the one in front of him.\nSilicon Valley’s multimodal AI does the same thing:\n\n\nWHAT IT CLAIMS\nThe machine can now see\n\nWHAT IT DOES\nConverts pixels to words, reasons about words, describes what it expects\n\n\nSpotted Ape — Design Strategy"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-2",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-2",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "03 / 07\n\nLanguage models narrate vision.\nThey don’t experience it.\n\n\n\n\n\nPIXELS\nVisual input enters the system\n\nTOKENS\nConverted to language before any reasoning occurs\n\nEXPECTED WORLD\nThe world it was trained to describe — not the one in front of it\n\n“Relying on linguistic priors” — hallucinating with pre-trained confidence, not seeing. {.gray-italic}\n\nSpotted Ape — Design Strategy"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-3",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-3",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "04 / 07\n\n\n30%\n\nMidjourney knows what beauty looks like.\nNot what it means.\n\n\n\n\n\nBeautiful ≠ true.\nThese models have mastered the statistical grammar of what beautiful images look like. They do not know that glass shatters, nor that wine is liquid.\nThe perception is absent. The vocabulary remains intact.\nWally knows all the right words for a bar fight. {.gray-italic}\n\n\n30%\naccuracy on scientific\nvisual reasoning tasks\n\n\n\nSpotted Ape — Design Strategy"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-5",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-5",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "05 / 07\n\nSpatial truth collapses.\nThe people who need it most pay the price.\n\n\n\n\n\n01 #### AI cannot parse space Spatial relationships — where things are relative to each other — vanish in translation.\n\n02 #### The wrong people bear the cost AI-mediated visual description omits precisely the structural info users depend on.\n\n03 #### Proximity as meaning disappears The visual grammar of arrangement evaporates in translation. Wally cannot give directions.\n\n\nSpotted Ape — Design Strategy"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-6",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-6",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "06 / 07\n\n\nWALLY\n\nThis is not an AI problem.\nIt is a design problem.\n\n\n\n\n\nOrganisations route insight through assumption, not proximity — and call it research.\nExpertise without lived experience builds things that are beautiful and wrong.\nYou design for the world you expect. Your users inhabit a different one.\n\n\n\nSpotted Ape — Design Strategy"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-1.html#section-7",
+    "href": "pitchdeck/deaf-blind-ft-presentation-1.html#section-7",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "07 / 07\n\nStop narrating.\nStart perceiving.\n\n\n\n\n\nReason natively in context\nDon’t translate lived experience into abstraction before acting on it.\n\n\n\n\nProximity is a design method\nBuild teams structurally close to the problem before generating solutions.\n\n\n\n\nDesign with, not for\nThe gap between participation and observation is where products fail.\n\n\nRead the full essay → spottedape.substack.com/p/the-deaf-leading-the-blind"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#section",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#section",
+    "title": "The Deaf Leading the Blind",
+    "section": "",
+    "text": "Design Strategy · Original Essay"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-analogy",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-analogy",
+    "title": "Spotted Ape",
+    "section": "The Analogy",
+    "text": "The Analogy\n\nThe Analogy\n\nYour AI is doing a Wally\nIn See No Evil, Hear No Evil, Wally performs sight using memorised cues. He narrates the world he was trained to expect — not the one in front of him.\n\n\nWhat It Claims\n✕ The machine can now “see”\n✕ Native visual understanding\n✕ Reasoning from pixels\n✕ Objective perception\n\n\nWhat It Does\n✓ Converts pixels to language tokens\n✓ Narrates linguistic expectations\n✓ Reasons about words, not space\n✓ Statistical grammar masquerading as sight"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-bottleneck",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-bottleneck",
+    "title": "Spotted Ape",
+    "section": "The Bottleneck",
+    "text": "The Bottleneck\n\nThe Architecture\n\nLanguage Models Narrate Vision\nThey don’t experience the world; they translate it into a language bottleneck before reasoning occurs.\n\n\n◈\nPIXELS\nVisual input enters the system\n\n\n⟳\nTOKENS\nConverted to language abstraction\n\n\n◉\nEXPECTED WORLD\nHallucinating with confidence\n\n\n\n“Relying on linguistic priors — hallucinating with pre-trained confidence, not seeing.”"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-illusion",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-illusion",
+    "title": "The Deaf Leading the Blind",
+    "section": "The Illusion",
+    "text": "The Illusion\n\nThe Metric\n\nBeauty is Not Meaning\n\n\nMidjourney knows what beauty looks like, but not what it means. The perception is absent; only the vocabulary remains intact[cite: 3].\n\nBeautiful ≠ True\nThese models have mastered the statistical grammar of aesthetics. They do not know that glass shatters, nor that wine is liquid.\n\n\n\n\n\n30%\n\nAccuracy on scientific visual reasoning tasks\n\n\n\n1989\n\nThe year Wally taught us about narrating the void"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#spatial-collapse",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#spatial-collapse",
+    "title": "Spotted Ape",
+    "section": "Spatial Collapse",
+    "text": "Spatial Collapse\n\nWhere It Breaks\n\nThe Price of Abstraction\n\n\n01 · Space\nParsing space\nSpatial relationships — where things are relative to each other — vanish in the translation to language.\nAI cannot map space\n\n\n02 · Cost\nHuman Cost\nVisual descriptions omit the structural information that blind and low-vision users depend on most.\nThe marginalized pay the price\n\n\n03 · Meaning\nProximity\nThe visual grammar of arrangement — proximity as a semantic signal — evaporates in translation.\nWally cannot give directions"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-design-mirror",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-design-mirror",
+    "title": "Spotted Ape",
+    "section": "The Design Mirror",
+    "text": "The Design Mirror\n\nDesign Philosophy\n\nThis is a Design Problem\nThis is not an AI problem; it is a symptom of how we build.\n\n\nAssumption Over Proximity\nOrganisations route insight through assumption rather than proximity to the problem, and call it “research.”\n\n\nExpertise Gap\nExpertise without lived experience builds things that are beautiful and wrong.\n\n\nExpectation vs Reality\nYou design for the world you expect. Your users inhabit a different one.\n\n\nStrategic Steering\nWe must navigate combinatorial complexity by centering design on behavioural truth, not statistical noise."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#ready-to-start-perceiving",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#ready-to-start-perceiving",
+    "title": "The Deaf Leading the Blind",
+    "section": "Ready to Start Perceiving?",
+    "text": "Ready to Start Perceiving?\n\n\n\nStop narrating. Start perceiving. Proximity is a design method, not a values statement[cite: 3].\n\n→ spottedape.substack.com → thespottedape.com\n\n\nHuman-in-the-Loop Proximity as Method Design With, Not For"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-problem",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-problem",
+    "title": "The Deaf Leading the Blind",
+    "section": "The Problem",
+    "text": "The Problem\n\nThe Analogy\n\nYour AI is doing a Wally\nWally (from See No Evil, Hear No Evil) performs sight using memorised cues. He narrates the world he was trained to expect — not the one in front of him[cite: 3].\n\n\nWhat It Claims\n✕ The machine can now “see”\n✕ Native visual understanding\n✕ Reasoning from raw pixels\n✕ Objective perception of reality\n\n\nWhat It Does\n✓ Converts pixels to words first\n✓ Reasons about linguistic tokens\n✓ Describes what it expects to see\n✓ Statistical grammar as “sight”"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-language-bottleneck",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-language-bottleneck",
+    "title": "The Deaf Leading the Blind",
+    "section": "The Language Bottleneck",
+    "text": "The Language Bottleneck\n\nThe Architecture\n\nModels Narrate Vision. They don’t experience it.\nTraditional AI systems translate lived experience into abstraction before acting on it[cite: 3].\n\n\n◈ PIXELS\nVisual input enters\nthe system\n\n\n⟳ TOKENS\nConverted to language\nbefore reasoning\n\n\n◉ EXPECTED WORLD\nHallucinating with\ntrained confidence\n\n\n\n“Relying on linguistic priors — hallucinating with pre-trained confidence, not seeing.”"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#where-it-breaks",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#where-it-breaks",
+    "title": "The Deaf Leading the Blind",
+    "section": "Where it Breaks",
+    "text": "Where it Breaks\n\nThe Impact\n\nSpatial Truth Collapses\n\n\n01 · Space AI cannot parse space Spatial relationships — where things are relative to each other — vanish in translation. Spatial logic evaporates\n\n\n02 · Cost The marginalized pay Visual description omits the structural info that blind and low-vision users depend on. The wrong people bear the cost\n\n\n03 · Meaning Proximity vanishes The visual grammar of arrangement disappears. Wally cannot give directions. Logic vs Observation"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-differentiator",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-differentiator",
+    "title": "The Deaf Leading the Blind",
+    "section": "The Differentiator",
+    "text": "The Differentiator\n\nThe Design Mirror\n\nThis is a Design Problem\nThis is not an AI failure; it is an organisational failure to value proximity over assumption[cite: 3].\n\n\nAssumption Over Proximity\nOrganisations route insight through assumption, not proximity — and call it research.\n\n\nExperience Gap\nExpertise without lived experience builds things that are beautiful and wrong.\n\n\nExpectation Trap\nYou design for the world you expect. Your users inhabit a different one.\n\n\nStrategic Steering\nReason natively in context. Don’t translate experience into abstraction before acting."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-deaf-leading",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-deaf-leading",
+    "title": "The Deaf Leading the Blind",
+    "section": "The Deaf Leading",
+    "text": "The Deaf Leading\nthe Blind"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-2.html#the-blind",
+    "href": "pitchdeck/deaf-blind-ft-presentation-2.html#the-blind",
+    "title": "The Deaf Leading the Blind",
+    "section": "the Blind",
+    "text": "the Blind"
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html",
+    "href": "pitchdeck/parmalat.html",
+    "title": "",
+    "section": "",
+    "text": "THESPOTTEDAPE\n    \n    \n      \n    \n\n    \n      \n        Idea\n        Work\n        Case\n        About\n        Book"
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html#abstract",
+    "href": "pitchdeck/parmalat.html#abstract",
+    "title": "",
+    "section": "Abstract",
+    "text": "Abstract\nThe expansion of multinational dairy processors such as Parmalat, later integrated into the Lactalis Group, has generated allegations of aggressive pricing strategies designed to capture market share from smaller dairies and milk producers, followed by potential recoupment through elevated prices. This synthesis critically evaluates the available evidence across key jurisdictions, particularly South Africa and Australia, within the broader context of agri-food industry consolidation. Drawing on competition authority reports, stakeholder submissions, policy analyses, and peer-reviewed literature in industrial organization and agricultural economics, the review finds that claims of classic predatory pricing—sustained below-cost sales with demonstrable recoupment potential—remain weakly supported and largely unproven under established antitrust standards [1].\nIn South Africa, Parmalat’s 1998 market entry was associated with a reported price war and downward pressure on raw milk producer prices, with one policy report citing an approximate 28% reduction [2]. However, this evidence is primarily anecdotal and does not include the cost-based or recoupment analyses required to establish predation. In Australia, intense retail discounting (“milk wars”) transmitted price pressure to processors including Parmalat, prompting farmer characterizations of the conduct as predatory; yet the Australian Competition and Consumer Commission (ACCC) determined that such discounting did not constitute predatory pricing and reflected normal competitive dynamics [3], [4].\nAvailable documentation more robustly indicates exercises of buyer (monopsonistic) power over fragmented farmers, occasional horizontal coordination among processors, and structural consolidation driven by retail concentration and scale economies [5], [6]. Methodological limitations—reliance on qualitative testimony, absence of firm-specific variable cost data, and challenges in isolating Parmalat’s conduct from supermarket-led strategies—preclude strong causal attribution to deliberate monopolization via predation. The synthesis concludes that while Parmalat’s operations coincided with accelerated small-producer exits, the evidence better supports broader patterns of buyer power and industry consolidation than legally cognizable predatory pricing. Theoretical implications for antitrust enforcement in agricultural chains and directions for future empirical research are discussed. (242 words)"
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html#introduction",
+    "href": "pitchdeck/parmalat.html#introduction",
+    "title": "",
+    "section": "Introduction",
+    "text": "Introduction\nGlobal dairy processing exhibits pronounced economies of scale, perishability constraints, and dual-sided market power: concentrated retailers upstream and fragmented agricultural producers downstream. Against this backdrop, Parmalat’s international expansion raised concerns regarding potential abuse of dominance through below-cost pricing aimed at eliminating smaller competitors. This synthesis examines whether empirical and documentary sources substantiate allegations of predatory pricing by Parmalat across multiple markets, defined under strategic theory as pricing below an appropriate cost measure (typically average variable cost) with a dangerous probability of recouping losses after rival exit [1].\nThe analysis adopts an industrial organization lens, distinguishing predatory pricing from related but distinct phenomena: monopsonistic buyer power, horizontal collusion on input prices, and retailer-driven loss-leading. Scope encompasses publicly available materials on South Africa, Australia, and select European contexts, with emphasis on post-liberalization periods. By synthesizing regulatory determinations, stakeholder accounts, and peer-reviewed scholarship, this review highlights evidentiary gaps and situates Parmalat’s conduct within structural transformations of modern agricultural markets [5]."
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html#critical-analysis-synthesis",
+    "href": "pitchdeck/parmalat.html#critical-analysis-synthesis",
+    "title": "",
+    "section": "Critical Analysis & Synthesis",
+    "text": "Critical Analysis & Synthesis\n\nTheoretical Framework: Predatory Pricing versus Buyer Power\nPredatory pricing doctrine requires demonstration of below-cost pricing, anticompetitive intent or effect (rival exclusion), and recoupment feasibility [1]. In agri-food chains, however, observed price pressures more frequently reflect buyer power, whereby processors or retailers leverage bargaining asymmetry against numerous small suppliers to depress input (farmgate) prices without necessarily engaging in below-cost output sales [5], [6]. Sexton (2013) emphasizes that modern agricultural markets often feature thin trading, asymmetric information, and high search costs, facilitating coordination or unilateral exercises of market power that differ markedly from classic predation models.\n\n[1] P. Bolton, J. F. Brodley, and M. H. Riordan, “Predatory pricing: Strategic theory and legal policy,” Georgetown Law Journal, vol. 88, pp. 2239–2330, 2000.\n\n\nSouth African Market Entry and Price Dynamics\nParmalat’s entry into South Africa in 1998 reportedly triggered a price war, with products offered to retailers at reduced rates followed by pressure on producers, resulting in an approximate 28% decline in milk producer prices according to one labor and economic research institute report [2]. This account frames the episode as contributing to sector instability and disproportionate impacts on smaller distributors. Nevertheless, the source constitutes policy advocacy rather than a rigorous empirical study; it lacks detailed cost reconstructions or recoupment analysis. Subsequent investigations by South African authorities more commonly addressed alleged horizontal coordination on raw milk surpluses and pricing among processors, including Parmalat, rather than vertical predation in consumer markets. Such findings align with monopsony concerns over input suppression rather than monopoly power in final goods [5].\n\n[2] Institute for Labour and Economic Research, “Restructuring of the dairy industry: What impact?” ILRIG South Africa, 2020. Available: https://www.ilrigsa.org.za/wp-content/uploads/2020/06/restructuring-the-dairy-screen.pdf\n\n\nAustralian Retail-Driven Price Wars and Processor Transmission\nIn Australia, the 2011 “milk wars” initiated by supermarket private-label discounting generated substantial farmgate price volatility. Farmer submissions to Senate inquiries characterized processor responses—including those involving Parmalat—as patterns likely to eliminate branded products and smaller players, invoking the term “predatory pricing” [4]. The ACCC, however, explicitly found that Coles’ house-brand discounting did not breach competition law or constitute predatory pricing, citing legitimate competitive purposes and insufficient evidence of long-term anticompetitive harm [3]. Processor margins were squeezed as retail bargaining power transmitted lower wholesale prices downstream, illustrating vertical pass-through of buyer power rather than unilateral processor predation. This dynamic underscores the analytical importance of distinguishing supermarket loss-leading from processor strategies [6].\n\n[4] A. P. H. S. E. R. Committee, “Impacts of supermarket price decisions on the dairy industry.” 2011.\n\n[3] Australian Competition and Consumer Commission, “Dairy inquiry,” ACCC, 2017.\n\n[6] Z. Chen, “Buyer power in the theory of industrial organization,” Review of Industrial Organization, 2003, doi: 10.1023/A:1027385122198.\n\n\nHorizontal Coordination and European Contexts\nEvidence of Parmalat/Lactalis involvement appears stronger in horizontal matters, such as alleged coordination on raw milk acquisition in South Africa and information exchange or collusion cases in Spain concerning raw milk supply. These episodes concern buyer-side practices aimed at input price stabilization or suppression, not below-cost consumer sales followed by output price elevation. Such patterns reinforce the monopsony framework articulated in the literature, where processor concentration enables collective influence over fragmented suppliers without satisfying predatory pricing criteria [5].\n\n\nStructural Drivers of Consolidation\nAcross jurisdictions, small dairy exits reflect multifaceted pressures: retail concentration, technological advantages (e.g., UHT processing), global commodity volatility, and scale economies favoring large multinationals. Peer-reviewed analyses caution against attributing consolidation predominantly to single-firm predation when systemic factors predominate [5]. The absence of granular, firm-level cost data and longitudinal pricing-recoupment studies across sources limits causal inference regarding Parmalat’s specific role.\n\n[5] R. J. Sexton, “Market power, misconceptions, and modern agricultural markets,” American Journal of Agricultural Economics, vol. 95, no. 2, pp. 209–219, 2013, doi: 10.1093/ajae/aat035."
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html#discussion",
+    "href": "pitchdeck/parmalat.html#discussion",
+    "title": "",
+    "section": "Discussion",
+    "text": "Discussion\nSignificant limitations constrain the current evidentiary base. Most materials rely on stakeholder testimony or aggregate trends rather than econometric tests of predation (e.g., difference-in-differences around entry events or margin reconstructions). Distinguishing Parmalat’s conduct from retailer dominance and industry-wide liberalization effects remains challenging. Post-2003 accounting scandal restructuring and Lactalis integration further complicate longitudinal assessment. Future research should prioritize DOI-indexed econometric studies employing administrative cost-price datasets to test recoupment hypotheses more rigorously and compare dairy sub-sectors (fresh pasteurized vs. UHT).\nThese findings carry policy significance for antitrust in agri-food sectors, where conventional predation standards may undervalue cumulative buyer-power effects. Enhanced supplier protections, such as enforceable dairy codes, warrant consideration alongside preservation of consumer benefits from competitive pricing."
+  },
+  {
+    "objectID": "pitchdeck/parmalat.html#conclusion",
+    "href": "pitchdeck/parmalat.html#conclusion",
+    "title": "",
+    "section": "Conclusion",
+    "text": "Conclusion\nAvailable sources provide limited corroboration for systematic predatory pricing by Parmalat involving sustained below-cost sales, targeted elimination of small dairies, and subsequent monopoly recoupment. Instead, the record more strongly supports patterns of aggressive competition, monopsonistic pressures on producers, retailer-driven discounting, and structural consolidation in dairy markets. Reframing analysis around buyer power and industry dynamics, rather than classic predation, yields a more defensible and nuanced understanding of Parmalat’s role. Rigorous empirical scholarship remains essential to inform competition policy in global agri-food chains."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause] You know the kind. You open one tab, and suddenly it’s forty minutes later… and you’re watching a 1989 film you’ve seen twice before and didn’t particularly need to see again. [pause — quieter] But there was this moment. One clip. Thirty seconds. And I haven’t been able to stop thinking about it since. [click]\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-1",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-1",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "MeetWally.\n\n\nMeet Wally. Richard Pryor. Blind — completely, categorically blind. He knows it perfectly well.\nWhat he refuses — flatly, resolutely refuses — is to admit it.\nSo he performs. Memorised cues. Contextual guesses. Practised confidence. He reads newspapers he cannot see. Navigates rooms on habit and sheer front. The performance is convincing.\nWhich is not the same thing as being able to see.\n[pause]\nMeet Dave. Gene Wilder. Deaf. And like Wally, remarkably good at pretending he isn’t.\nHe lip-reads. He guesses. He fills the gaps with whatever his training gives him — and delivers the result with complete conviction.\n[pause]\nTogether, Wally strides forward and Dave shouts what he thinks he lip-read. Each borrows the faculty the other is missing. Neither actually has it.\nThe performance is fluent. The comedy — and the tragedy — is that everyone around them can see exactly what’s happening.\nEveryone except them.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-2",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-2",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "He can’t seehimself. But pretendshe can.\n\nSee for yourself →\n\nThere’s a scene on a subway. A woman tells Wally he’s white. He doesn’t miss a beat.\n“I’m not white.”\nHe cannot verify that. No visual access to himself, to her, to anything around him. But he asserts it with complete confidence — because it’s the answer his training gives him.\nI’m going to show you thirty seconds of it.\n[click — play clip — say nothing — let the room respond — wait for it to end]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-3",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-3",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "See No Evil, Hear No Evil  ·  1989\n\n\n[Let the room settle. When the laughter dies — and it will — speak into the quiet.]\nThat is not a man who doesn’t know he’s blind.\nThat is a man performing sight with such practised confidence that the performance has become the product.\n[pause]\nRemember that look on her face.\nYou’re going to recognise it.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-4",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-4",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "Your AI is doing a Wally.\n\n\n[Let the slide sit for a moment before speaking.]\nYour AI is doing a Wally.\nBut here’s what most people miss —\n[pause]\nIt’s also doing a Dave.\nThe visual encoder is Wally — performing sight, converting what it sees into the expected answer. The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.\nWally and Dave. Running simultaneously. In every multimodal AI system you are currently using.\nThe camera input is real. The confidence is real. The sight — and the hearing — are not.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-5",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-5",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "AI narrates theworld it expects— not the onein front of it.\n\n\n[Slower. This is the thesis. Give the room time to hold it.]\nSilicon Valley has spent a decade equipping AI with eyes. Visual encoders. Image inputs. The image-upload button arrives with the confidence of a product announcement.\nWhat the press releases don’t discuss is the architecture behind the lens.\nPixels come in. They are converted to words. The words are reasoned about. And then the system tells you — with complete confidence — what it expects to be there.\nThat is Wally on the subway. Asserting “I’m not white” — not because he’s seen himself, but because it’s the answer his training gives him.\nDave, meanwhile, is shouting directions.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-6",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-6",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "&lt;div class=\"col-label\"&gt;What it claims&lt;/div&gt;\n&lt;h3&gt;The Machine&lt;br&gt;Can See&lt;/h3&gt;\n&lt;div class=\"col-body\"&gt;Context.&nbsp; Space.&nbsp; Physical reality.&lt;/div&gt;\n\n\n\n\n\n&lt;div class=\"col-label accent\"&gt;What it does&lt;/div&gt;\n&lt;h3 class=\"accent\"&gt;Word-Based&lt;br&gt;Reasoning&lt;/h3&gt;\n&lt;div class=\"col-body\"&gt;Pixels → Tokens → Expected output.&lt;/div&gt;\n\n\n\nOn the left: what the marketing says. The machine can see. Context. Space. Physical reality.\nOn the right: what the architecture does. Converts pixels to tokens. Reasons about the tokens as language. Outputs what it was trained to expect.\nOne is perception. The other is a very sophisticated performance of it.\n[pause — let the slide work]\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-7",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-7",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "The LanguageBottleneck\n\n\n\n&lt;div class=\"tl-dot burst\"&gt;&lt;/div&gt;\n&lt;div class=\"tl-label\"&gt;Pixels&lt;/div&gt;\n&lt;div class=\"tl-desc\"&gt;Visual input enters the system as raw data points.&lt;/div&gt;\n\n\n&lt;div class=\"tl-dot\"&gt;&lt;/div&gt;\n&lt;div class=\"tl-label\"&gt;Tokens&lt;/div&gt;\n&lt;div class=\"tl-desc\"&gt;Converted to language before any high-level reasoning occurs.&lt;/div&gt;\n\n\n&lt;div class=\"tl-dot burst\"&gt;&lt;/div&gt;\n&lt;div class=\"tl-label accent\"&gt;Expected World&lt;/div&gt;\n&lt;div class=\"tl-desc\"&gt;The system describes a statistical probability, not reality.&lt;/div&gt;\n\n\n\n[Gesture across the diagram — one pass, no elaboration.]\nAt no point in that pipeline is there genuine visual reasoning.\nAt every point, there is a very convincing Wally.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-8",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-8",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "Mastering Beauty,Missing Meaning\n\n\nI can hear you. What about Midjourney? The light behaves. The geometry holds. The shadows fall exactly where they ought to fall.\nWally, late in the film, discovers he has become a rather convincing actor.\nWhich is not the same thing as having recovered his sight.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-9",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-9",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "30%\n\n\n&lt;div class=\"stat-eyebrow\"&gt;The Perception Gap&lt;/div&gt;\n&lt;div class=\"stat-desc\"&gt;Accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility — genuine sight.&lt;/div&gt;\n&lt;div class=\"stat-kicker\"&gt;The vocabulary is intact. The perception is absent.&lt;/div&gt;\n\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nThirty percent.\n[pause — full count of three]\nThat is the accuracy rate when leading multimodal models face scientific tasks requiring actual visual reasoning. Not aesthetic plausibility.\nGenuine sight.\nThirty percent.\nThe vocabulary is intact. The perception is absent. Wally knows all the right words for a bar fight.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-10",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-10",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "Spatial TruthCollapses\n\n\n[Quieter now. This is where it stops being a technical argument.]\nEngineers building tools for blind and low-vision users have found that AI-mediated visual description collapses precisely on the information those users need most.\nNot the general subject. The spatial structure. Where is this element relative to that one? What is the relationship between these two things?\nThe visual grammar of arrangement — proximity as meaning — evaporates in translation.\n[pause]\nAsking Wally for directions has consequences that extend well beyond the comedy.\nHis performance of sight, when trusted, causes real harm.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-11",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-11",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "&lt;div class=\"card-icon\"&gt;◻&lt;/div&gt;\n&lt;div class=\"card-title\"&gt;Parsing Space&lt;/div&gt;\n\n\n&lt;div class=\"card-icon\"&gt;⤫&lt;/div&gt;\n&lt;div class=\"card-title\"&gt;Human Cost&lt;/div&gt;\n\n\n&lt;div class=\"card-icon\"&gt;◁&lt;/div&gt;\n&lt;div class=\"card-title\"&gt;Vanishing Signal&lt;/div&gt;\n\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\n[Let the three cards land — pause before speaking.]\nSpace. Cost. Signal.\nThree things that disappear when a system performs sight instead of having it.\nThree things that the people who need AI most — are getting least.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-12",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-12",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "This is not anAI problem. It is a designproblem.\n\n\n[Step back. This is the pivot. It is aimed directly at the people in this room.]\nHere is the thing about Wally and Dave.\nThey didn’t write their own script. Someone handed it to them.\n[pause]\nDesigners are supposed to be the people in this process who can actually see. Who bring proximity, lived experience, and genuine contextual judgment. That is the job. That is what separates design from decoration.\nWhat is happening instead — in teams and organisations running this at scale every day — is this: designers are loading AI systems with assumptions they already hold. Briefs built from abstraction. Research that confirms what was expected. Insights that have been translated through language before they were ever tested against reality.\nThen treating the output as direction.\n[pause]\nThe AI cannot see what it hasn’t been given. It performs confidence with whatever it receives. That is its nature.\nBut the designer is not the architecture. The designer is the shepherd.\nAnd a shepherd who hands the flock to Wally and Dave — and then follows their lead — has not solved anything.\nThey have simply moved the blindness upstream. And made it invisible.\n[pause]\nThe AI is the clearest mirror the design industry currently has.\nWhat it reflects is not a technology problem.\nIt reflects an industry that handed the eyes to something blind — and called it a methodology.\n[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-presentation-3.html#section-13",
+    "href": "pitchdeck/deaf-blind-presentation-3.html#section-13",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "Stop Narrating.Start Perceiving.\n\n\nRead the full essay at  spottedape.substack.com\n\n\nThree things. Not ten.\n[pause]\nReason natively in context. Don’t translate lived experience into abstraction before acting on it. Proximity changes what you are capable of seeing — not just how you feel about the process.\n[pause]\nProximity is a design method. Not a values statement. A structural commitment — to building teams and processes genuinely close to the problem before solutions begin.\n[pause]\nDesign with, not for. The gap between those two words is exactly where products fail the people who need them most. Knowing the gap exists, and performing across it anyway — that is the Wally move.\n[pause — settle — make eye contact]\nWally strides forward. Dave shouts what he thinks he lip-reads.\nThe demos are polished. The benchmarks, carefully selected, are excellent.\nBut the bar fight is still going on.\nAnd it is becoming increasingly difficult, as outsiders, to tell which punches are landing — and which ones are striking empty air.\n[Stop. Say nothing more.]\nThank you."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "[click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally.",
+    "title": "The Spotted Ape",
+    "section": "MeetWally.",
+    "text": "MeetWally.\n\nMeet Wally. Richard Pryor. Blind — completely, categorically blind. He knows it perfectly well."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#he-cant-see-himself.-but-pretends-he-can.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#he-cant-see-himself.-but-pretends-he-can.",
+    "title": "The Spotted Ape",
+    "section": "He can’t seehimself.But pretendshe can.",
+    "text": "He can’t seehimself.But pretendshe can.\nSee for yourself →\n\nThere’s a scene on a subway. A woman tells Wally he’s white. He doesn’t miss a beat."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-1",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "What it claims\n\nThe MachineCan See\n\nContext. Space. Reality.\n\n\n\n\n\n\n\nWhat it does\n\nWord-BasedReasoning\n\nPixels → Tokens → Expected output.\n\n\n\n\nOn the left: what the marketing says. On the right: what the architecture does.\nVisual input enters the system as raw pixels.\nThe pixels are converted to language before any high-level reasoning occurs.\nThe system then determines a statistical probability of what reality could be, not reality itself."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.",
+    "title": "The Spotted Ape",
+    "section": "Your AI is doinga Wally.",
+    "text": "Your AI is doinga Wally.\n\n[Let the slide sit for a moment before speaking.]\nYour AI is doing a Wally.\nBut it’s also doing a Dave. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.",
+    "title": "The Spotted Ape",
+    "section": "AI narrates theworld it expects— not the onein front of it.",
+    "text": "AI narrates theworld it expects— not the onein front of it.\n\nSilicon Valley has spent a decade equipping AI with eyes.\nThe visual encoder is Wally — performing sight, converting what it sees into the expected answer. The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.\nWally and Dave. Running simultaneously. In every multimodal AI system we are currently using.\nOur input is real. The confidence of the model is real. The sight and hearing are not."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-2",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-2",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "The Perception Gap\n\n30%\n\nAccuracy rate for leading LLMson scientific visual reasoning tasks.\n\n\nThirty percent. [pause] That is the accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility, but genuine sight."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-language-bottleneck",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-language-bottleneck",
+    "title": "The Spotted Ape",
+    "section": "The LanguageBottleneck",
+    "text": "The LanguageBottleneck\n\n\n\n\n\n\nPixels\n\n\nVisual input enters the system as raw data points.\n\n\n\n\n\n\n\nTokens\n\n\nConverted to language before any high-level reasoning occurs.\n\n\n\n\n\n\n\nExpected World\n\n\nThe system describes a statistical probability, not reality.\n\n\n\n\n[Gesture across the diagram — one pass, no elaboration.]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning",
+    "title": "The Spotted Ape",
+    "section": "Mastering Beauty,Missing Meaning",
+    "text": "Mastering Beauty,Missing Meaning\n\nI can hear you. But what about Midjourney? It generates beautiful images. It must be seeing something, right?"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-3",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-3",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "The Perception Gap\n\n30%\n\nAccuracy rate for leading LLMson scientific visual reasoning tasks.\n\n\nThirty percent. [pause] That is the accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility, but genuine sight."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses",
+    "title": "The Spotted Ape",
+    "section": "Spatial TruthCollapses",
+    "text": "Spatial TruthCollapses\n\nThe perception gap is also encountered when designing for blind and low-vision users. They have found that AI-mediated visual descriptions collapse on the information those users need most. The spatial structure around them.\nThe models frequently fail to genuinely parse space. They cannot reconstruct it for people whose relationship to space is already precarious.\nAsking Wally for directions has consequences in real life. His performance of sight can cause real harm."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-4",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-4",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "The Perception Gap\n\n30%\n\n\nAccuracy rate for leading multimodal modelson scientific visual reasoning tasks.\n\n\n\nThirty percent. [pause] That is the accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility, but genuine sight."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-design-problem.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-design-problem.",
+    "title": "The Deaf-Blind Problem in Multimodal AI",
+    "section": "This is not anAI problem.It is a designproblem.",
+    "text": "This is not anAI problem.It is a designproblem.\n\nThe “Wally” problem is a design failure, not a technical one. It begins with the designer who blindly feed the AI models expecting miraculous responses. Our job is to bring proximity to spatial reality and lived experience into the room. The AI cannot know what it hasn’t been given. It confidently performs based on learned patterns like Wally. We’ve confused well-structured prompts with insight, creating solutions that are technically coherent but humanly wrong. We have handed our eyes to something blind."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#stop-narrating.-start-perceiving.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#stop-narrating.-start-perceiving.",
+    "title": "The Deaf-Blind Problem in Multimodal AI",
+    "section": "Stop Narrating.Start Perceiving.",
+    "text": "Stop Narrating.Start Perceiving.\n\nRead the full essay at  spottedape.substack.com\n\n\nReason natively in context. [Stop. Say nothing more.] Thank you."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-dave.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-dave.",
+    "title": "The Spotted Ape",
+    "section": "MeetDave.",
+    "text": "MeetDave.\n\nI ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s.\nThe hilarious Richard Pryor plays Wally. Wally is competely blind. Yet he pretends that he can see. So he has built a system of memorised cues and contextual guesses. He reads newspapers he cannot see. Navigates the world on muscle memory and sheer front. He asserts things about the world around him with the conviction of a man that can see. Which is not the same thing as being able to see. [pause]\nGene Wilder plays Wally’s partner Dave. Dave is deaf. Like Wally, he has become remarkably good at pretending that he can hear. He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction. [pause]\nTogether, they are unstoppable. Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it. What makes it funny is that everyone around them can see exactly what’s happening. Everyone except them. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally.-dave.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally.-dave.",
+    "title": "The Spotted Ape",
+    "section": "MeetWally.& Dave.",
+    "text": "MeetWally.& Dave.\n\nI ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s.\nThe hilarious Richard Pryor plays Wally. Wally is competely blind. Yet he pretends that he can see. So he has built a system of memorised cues and contextual guesses. He reads newspapers he cannot see. Navigates the world on muscle memory and sheer front. He asserts things about the world around him with the conviction of a man that can see. Which is not the same thing as being able to see. [pause]\nGene Wilder plays Wally’s partner Dave. Dave is deaf. Like Wally, he has become remarkably good at pretending that he can hear. He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction. [pause]\nTogether, they are unstoppable. Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it. What makes it funny is that everyone around them can see exactly what’s happening. Everyone except them. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave.",
+    "title": "The Spotted Ape",
+    "section": "Meet Wally & Dave.",
+    "text": "Meet Wally & Dave.\n\nI ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s.\nThe hilarious Richard Pryor plays Wally. Wally is competely blind. Yet he pretends that he can see. So he has built a system of memorised cues and contextual guesses. He reads newspapers he cannot see. Navigates the world on muscle memory and sheer front. He asserts things about the world around him with the conviction of a man that can see. Which is not the same thing as being able to see. [pause]\nGene Wilder plays Wally’s partner Dave. Dave is deaf. Like Wally, he has become remarkably good at pretending that he can hear. He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction. [pause]\nTogether, they are unstoppable. Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it. What makes it funny is that everyone around them can see exactly what’s happening. Everyone except them. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave",
+    "title": "The Spotted Ape",
+    "section": "Meet Wally & Dave",
+    "text": "Meet Wally & Dave\n\nMeet Wally and Dave.\nThe hilarious Richard Pryor plays Wally. Wally is competely blind. Yet he pretends that he can see. So he has built up a system around him of memorised cues and contextual guesses. He reads newspapers he cannot see. Navigates the world on muscle memory and sheer guile. Which is not the same thing as being able to see. [pause]\nGene Wilder plays Wally’s partner Dave. Dave is deaf. Like Wally, he has become very good at pretending that he can hear. He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction. [pause]\nTogether, they are unstoppable. Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it. What makes it funny is that everyone around them can see exactly what’s happening. Everyone except them. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-5",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-5",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "◻\n\n\nParsing Space\n\n\n\n\n✕\n\n\nHuman Cost\n\n\n\n\n◁\n\n\nVanishing Signal\n\n\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nSpace. Cost. Signal. Three things that disappear."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-6",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-6",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "◻\n\n\nParsing Space\n\n\n\n\n✕\n\n\nHuman Cost\n\n\n\n\n◁\n\n\nVanishing Signal\n\n\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nSpace. Cost. Signal. Three things that disappear."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-7",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-7",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "::: {.stat-number} 30% ::: ::: {.stat-right} ::: {.stat-eyebrow} The Perception Gap ::: ::: {.stat-desc} Accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility — genuine sight. ::: ::: {.stat-kicker} The vocabulary is intact. The perception is absent. ::: :::\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nThirty percent. [pause] That is the accuracy rate."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.-1",
+    "title": "The Spotted Ape",
+    "section": "Your AI is doinga Wally.",
+    "text": "Your AI is doinga Wally.\n\nYour AI is doing a Wally."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.-1",
+    "title": "The Spotted Ape",
+    "section": "AI narrates theworld it expects— not the onein front of it.",
+    "text": "AI narrates theworld it expects— not the onein front of it.\n\nSilicon Valley has spent a decade equipping AI with eyes."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-8",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-8",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "::: {.card} ::: {.card-icon} ◻ ::: ::: {.card-title} Parsing Space ::: ::: ::: {.card} ::: {.card-icon} ✕ ::: ::: {.card-title} Human Cost ::: ::: ::: {.card} ::: {.card-icon} ◁ ::: ::: {.card-title} Vanishing Signal ::: :::\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nSpace. Cost. Signal. Three things that disappear."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-language-bottleneck-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-language-bottleneck-1",
+    "title": "The Spotted Ape",
+    "section": "The LanguageBottleneck",
+    "text": "The LanguageBottleneck\n\n::: {.tl-node} ::: {.tl-dot .burst} ::: ::: {.tl-label} Pixels ::: ::: {.tl-desc} Visual input enters the system as raw data points. ::: ::: ::: {.tl-node} ::: {.tl-dot} ::: ::: {.tl-label} Tokens ::: ::: {.tl-desc} Converted to language before any high-level reasoning occurs. ::: ::: ::: {.tl-node} ::: {.tl-dot .burst} ::: ::: {.tl-label .accent} Expected World ::: ::: {.tl-desc} The system describes a statistical probability, not reality. ::: :::\n\n\n[Gesture across the diagram — one pass, no elaboration.]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning-1",
+    "title": "The Spotted Ape",
+    "section": "Mastering Beauty,Missing Meaning",
+    "text": "Mastering Beauty,Missing Meaning\n\nI can hear you. What about Midjourney?"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-9",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-9",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "::: {.stat-number} 30% ::: ::: {.stat-right} ::: {.stat-eyebrow} The Perception Gap ::: ::: {.stat-desc} Accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility — genuine sight. ::: ::: {.stat-kicker} The vocabulary is intact. The perception is absent. ::: :::\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nThirty percent. [pause] That is the accuracy rate."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses-1",
+    "title": "The Spotted Ape",
+    "section": "Spatial TruthCollapses",
+    "text": "Spatial TruthCollapses\n\nEngineers building tools for blind users have found that description collapses on spatial structure."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-10",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-10",
+    "title": "The Spotted Ape",
+    "section": "",
+    "text": "::: {.card} ::: {.card-icon} ◻ ::: ::: {.card-title} Parsing Space ::: ::: ::: {.card} ::: {.card-icon} ✕ ::: ::: {.card-title} Human Cost ::: ::: ::: {.card} ::: {.card-icon} ◁ ::: ::: {.card-title} Vanishing Signal ::: :::\n\n\nThe Spotted Ape  ·  Design Strategy\n\n\nSpace. Cost. Signal. Three things that disappear."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-design-problem.-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-design-problem.-1",
+    "title": "The Spotted Ape",
+    "section": "This is not anAI problem.It is a designproblem.",
+    "text": "This is not anAI problem.It is a designproblem.\n\nThey didn’t write their own script. Someone handed it to them."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#stop-narrating.-start-perceiving.-1",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#stop-narrating.-start-perceiving.-1",
+    "title": "The Spotted Ape",
+    "section": "Stop Narrating.Start Perceiving.",
+    "text": "Stop Narrating.Start Perceiving.\n\nRead the full essay at  spottedape.substack.com\n\n\nReason natively in context. [Stop. Say nothing more.] Thank you."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#its-a-language-bottleneck",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#its-a-language-bottleneck",
+    "title": "The Spotted Ape",
+    "section": "It’s a LanguageBottleneck",
+    "text": "It’s a LanguageBottleneck\n\nIt’s a Language Bottleneck."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#narrating-perceiving.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#narrating-perceiving.",
+    "title": "The Spotted Ape",
+    "section": "Narrating ≠ Perceiving.",
+    "text": "Narrating ≠ Perceiving.\n\nRead the full essay at  spottedape.substack.com\n\n\nSo next time you see an AI demo that looks like magic, just remember what’s actually happening underneath. In most cases, it’s not seeing the world. It’s receiving a description of the world. and talking confidently from that.\nIt’s Dave shouting directions. And Wally striding forward like he owns the place. [smiling]\nWhich — honestly — sometimes works out fine. Until it doesn’t. [pause]\nLet me know in the comments. Do you think AI can actually see, or not? And if this kind of breakdown is useful to you, hit subscribe — because the tech is moving fast, and it’s worth knowing what’s real."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-human-problem.",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-human-problem.",
+    "title": "The Spotted Ape",
+    "section": "This is not anAI problem.It is a humanproblem.",
+    "text": "This is not anAI problem.It is a humanproblem.\n\nThis gap in perception seems to be a human failure, not a technical one. We blindly feed the AI models expecting miraculous responses. We first need to bring the spatial reality and lived experience into the room. The AI cannot know what it hasn’t been given. It confidently performs based on learned patterns like Wally. We’ve confused well-structured prompts with insight, creating solutions that are technically coherent but humanly wrong. We have handed our eyes to something blind."
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#they-have-mouths-but-cannot-speak-eyes-but-cannot-see.-they-have-ears-but-cannot-hear-noses-but-cannot-smell-those-who-make-them-will-be-like-them-and-so-will-all-who-trust-in-them.-psalm-11548-niv",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#they-have-mouths-but-cannot-speak-eyes-but-cannot-see.-they-have-ears-but-cannot-hear-noses-but-cannot-smell-those-who-make-them-will-be-like-them-and-so-will-all-who-trust-in-them.-psalm-11548-niv",
+    "title": "The Deaf Leading the Blind:What Silicon Valley’s LLMs Cannot See",
+    "section": "“…They have mouths, but cannot speak, eyes, but cannot see. They have ears, but cannot hear, noses, but cannot smell…Those who make them will be like them, and so will all who trust in them.”(Psalm 115:4–8, NIV)",
+    "text": "“…They have mouths, but cannot speak, eyes, but cannot see. They have ears, but cannot hear, noses, but cannot smell…Those who make them will be like them, and so will all who trust in them.”(Psalm 115:4–8, NIV)"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#they-have-mouths-but-cannot-speak-eyes-but-cannot-see.-they-have-ears-but-cannot-hear-psalm-11548-niv",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#they-have-mouths-but-cannot-speak-eyes-but-cannot-see.-they-have-ears-but-cannot-hear-psalm-11548-niv",
+    "title": "The Spotted Ape",
+    "section": "“…They have mouths, but cannot speak,eyes, but cannot see. They have ears,but cannot hear…”(Psalm 115:4–8, NIV)",
+    "text": "“…They have mouths, but cannot speak,eyes, but cannot see. They have ears,but cannot hear…”(Psalm 115:4–8, NIV)\n\n[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause]\nYou know the kind. You open one tab, and suddenly it’s forty minutes later… I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s. [pause]\nAnd I haven’t been able to stop thinking about it since. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-silicon-valleys-llms-cannot-see",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-silicon-valleys-llms-cannot-see",
+    "title": "The Spotted Ape",
+    "section": "The Deaf Leading the Blind:What Silicon Valley’s LLMs Cannot See",
+    "text": "The Deaf Leading the Blind:What Silicon Valley’s LLMs Cannot See\n“…They have mouths, but cannot speak,eyes, but cannot see. They have ears,but cannot hear…”(Psalm 115:4–8, NIV)"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see",
+    "title": "The Spotted Ape",
+    "section": "The Deaf Leading the Blind:What LLM’s Cannot See",
+    "text": "The Deaf Leading the Blind:What LLM’s Cannot See\n\n\n“…They have mouths, but cannot speak,eyes, but cannot see.They have ears, but cannot hear…”(Psalm 115:4–8, NIV)\n\n\n[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause]\nYou know the kind. You open one tab, and suddenly it’s forty minutes later… I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s. [pause]\nAnd I haven’t been able to stop thinking about it since. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see-background-imageimagesdeaf-blind-1a.png-background-sizecover-background-positioncenter-background-opacity0.4",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see-background-imageimagesdeaf-blind-1a.png-background-sizecover-background-positioncenter-background-opacity0.4",
+    "title": "The Spotted Ape",
+    "section": "The Deaf Leading the Blind:What LLM’s Cannot See {background-image=“images/deaf-blind-1a.png” background-size=“cover” background-position=“center” background-opacity=“0.4”}",
+    "text": "The Deaf Leading the Blind:What LLM’s Cannot See {background-image=“images/deaf-blind-1a.png” background-size=“cover” background-position=“center” background-opacity=“0.4”}\n“…They have mouths, but cannot speak,eyes, but cannot see. They have ears,but cannot hear…”(Psalm 115:4–8, NIV)\n\n[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause]\nYou know the kind. You open one tab, and suddenly it’s forty minutes later… I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s. [pause]\nAnd I haven’t been able to stop thinking about it since. [click]"
+  },
+  {
+    "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see-.center-slide-left",
+    "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see-.center-slide-left",
+    "title": "The Spotted Ape",
+    "section": "The Deaf Leading the Blind:What LLM’s Cannot See {.center-slide-left}",
+    "text": "The Deaf Leading the Blind:What LLM’s Cannot See {.center-slide-left}\n“…They have mouths, but cannot speak,eyes, but cannot see. They have ears,but cannot hear…”(Psalm 115:4–8, NIV)\n\n[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause]\nYou know the kind. You open one tab, and suddenly it’s forty minutes later… I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s. [pause]\nAnd I haven’t been able to stop thinking about it since. [click]"
   }
 ]

@@ -1,0 +1,233 @@
+---
+title: "The Deaf Leading the Blind"
+subtitle: "LinkedIn Carousel v2"
+author: "Spotted Ape — Design Strategy"
+format: 
+  revealjs:
+    theme: [default, deaf-blind-ft-presentation-1.css]
+    slide-number: true
+    width: 1280
+    height: 720
+    margin: 0.05
+    transition: fade
+    background-transition: fade
+    center: false
+    hash: true
+---
+
+## {background-color="#0A0A14" .film-intro}
+
+::: {.columns}
+::: {.column width="50%"}
+
+### He can’t see himself. {.white-serif}
+<div class="rule"></div>
+
+### He doesn’t know it. {.gold-serif}
+
+#### Watch. {.mid-text}
+
+::: {.caption}
+See No Evil, Hear No Evil · 1989 · Richard Pryor as Wally
+:::
+:::
+
+::: {.column width="50%"}
+::: {.video-frame}
+<div class="perforations-top"></div>
+<div class="video-placeholder">
+  <div class="play-button">▶</div>
+  <p>INSERT VIDEO CLIP</p>
+  <p class="url">youtube.com/watch?v=R1p_523SEO8</p>
+</div>
+<div class="perforations-bottom"></div>
+:::
+:::
+:::
+
+---
+
+## {background-color="#0C0C1A"}
+
+::: {.ghost-text}
+02
+:::
+
+### Your AI is doing a Wally. {.white-serif}
+
+<div class="rule"></div>
+
+**Wally performs sight using memorised cues.**  
+[He narrates the world he was trained to expect — not the one in front of him.]{.mid-text}
+
+[Silicon Valley’s multimodal AI does the same thing:]{.mid-text}
+
+::: {.columns .contrast-boxes}
+::: {.column .box-dark}
+#### WHAT IT CLAIMS
+The machine can now see
+:::
+::: {.column .box-gold}
+#### WHAT IT DOES
+Converts pixels to words, reasons about words, describes what it expects
+:::
+:::
+
+::: {.footer-text}
+Spotted Ape — Design Strategy
+:::
+
+## {background-color="#F2F1EB" .light-slide}
+
+::: {.page-num}
+03 / 07
+:::
+
+### Language models narrate vision.  
+### They don’t experience it. {.dark-serif}
+
+<div class="rule"></div>
+
+::: {.columns .step-flow}
+::: {.column .step-card}
+#### PIXELS
+Visual input enters the system
+:::
+::: {.column .step-card}
+#### TOKENS
+Converted to language before any reasoning occurs
+:::
+::: {.column .step-card .step-card-active}
+#### EXPECTED WORLD
+The world it was trained to describe — not the one in front of it
+:::
+:::
+
+*“Relying on linguistic priors” — hallucinating with pre-trained confidence, not seeing.* {.gray-italic}
+
+::: {.footer-text}
+Spotted Ape — Design Strategy
+:::
+
+## {background-color="#0C0C1A"}
+
+::: {.page-num}
+04 / 07
+:::
+
+::: {.ghost-text}
+30%
+:::
+
+### Midjourney knows what beauty looks like. {.white-serif}
+### *Not what it means.* {.gold-serif}
+
+<div class="rule"></div>
+
+::: {.columns}
+::: {.column width="65%"}
+**Beautiful ≠ true.**  
+[These models have mastered the statistical grammar of what beautiful images look like. They do not know that glass shatters, nor that wine is liquid.]{.mid-text}
+
+*The perception is absent. The vocabulary remains intact.  
+Wally knows all the right words for a bar fight.* {.gray-italic}
+:::
+
+::: {.column width="35%"}
+::: {.metric-box}
+### 30%
+accuracy on scientific  
+visual reasoning tasks
+:::
+:::
+:::
+
+::: {.footer-text}
+Spotted Ape — Design Strategy
+:::
+
+## {background-color="#F2F1EB" .light-slide}
+
+::: {.page-num}
+05 / 07
+:::
+
+### Spatial truth collapses.  
+### The people who need it most pay the price. {.dark-serif}
+
+<div class="rule"></div>
+
+::: {.columns .cards-container}
+::: {.column .content-card}
+[01]{.card-num}
+#### AI cannot parse space
+Spatial relationships — where things are relative to each other — vanish in translation.
+:::
+::: {.column .content-card}
+[02]{.card-num}
+#### The wrong people bear the cost
+AI-mediated visual description omits precisely the structural info users depend on.
+:::
+::: {.column .content-card}
+[03]{.card-num}
+#### Proximity as meaning disappears
+The visual grammar of arrangement evaporates in translation. Wally cannot give directions.
+:::
+:::
+
+::: {.footer-text}
+Spotted Ape — Design Strategy
+:::
+
+## {background-color="#0C0C1A"}
+
+::: {.page-num}
+06 / 07
+:::
+
+::: {.ghost-text-wally}
+WALLY
+:::
+
+### This is not an AI problem. {.white-serif}
+### *It is a design problem.* {.gold-serif}
+
+<div class="rule"></div>
+
+::: {.insight-list}
+- Organisations route insight through assumption, not proximity — and call it research.
+- Expertise without lived experience builds things that are beautiful and wrong.
+- You design for the world you expect. Your users inhabit a different one.
+:::
+
+::: {.footer-text}
+Spotted Ape — Design Strategy
+:::
+
+## {background-color="#0C0C1A" .last-slide}
+
+::: {.page-num}
+07 / 07
+:::
+
+### Stop narrating. {.white-serif}
+### *Start perceiving.* {.gold-serif}
+
+<div class="rule"></div>
+
+::: {.imperative-item}
+1. **Reason natively in context**  
+[Don’t translate lived experience into abstraction before acting on it.]{.mid-text}
+:::
+
+::: {.imperative-item}
+2. **Proximity is a design method**  
+[Build teams structurally close to the problem before generating solutions.]{.mid-text}
+:::
+
+::: {.imperative-item}
+3. **Design with, not for**  
+[The gap between participation and observation is where products fail.]{.mid-text}
+:::
+
+[Read the full essay → spottedape.substack.com/p/the-deaf-leading-the-blind]{.gold-link}
