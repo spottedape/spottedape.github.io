@@ -730,7 +730,7 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "",
     "text": "[click]"
   },
@@ -751,28 +751,28 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-1",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-1",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "",
     "text": "What it claims\n\nThe MachineCan See\n\nContext. Space. Reality.\n\n\n\n\n\n\n\nWhat it does\n\nWord-BasedReasoning\n\nPixels → Tokens → Expected output.\n\n\n\n\nOn the left: what the marketing says. On the right: what the architecture does.\nVisual input enters the system as raw pixels.\nThe pixels are converted to language before any high-level reasoning occurs.\nThe system then determines a statistical probability of what reality could be, not reality itself."
   },
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#your-ai-is-doing-a-wally.",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "Your AI is doinga Wally.",
     "text": "Your AI is doinga Wally.\n\n[Let the slide sit for a moment before speaking.]\nYour AI is doing a Wally.\nBut it’s also doing a Dave. [click]"
   },
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#ai-narrates-the-world-it-expects-not-the-one-in-front-of-it.",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "AI narrates theworld it expects— not the onein front of it.",
     "text": "AI narrates theworld it expects— not the onein front of it.\n\nSilicon Valley has spent a decade equipping AI with eyes.\nThe visual encoder is Wally — performing sight, converting what it sees into the expected answer. The language model is Dave — filling the gaps with linguistic priors, delivering direction based on what it thinks it understood.\nWally and Dave. Running simultaneously. In every multimodal AI system we are currently using.\nOur input is real. The confidence of the model is real. The sight and hearing are not."
   },
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-2",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#section-2",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "",
     "text": "The Perception Gap\n\n30%\n\nAccuracy rate for leading LLMson scientific visual reasoning tasks.\n\n\nThirty percent. [pause] That is the accuracy rate for leading multimodal models on scientific visual reasoning tasks. Not aesthetic plausibility, but genuine sight."
   },
@@ -786,7 +786,7 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#mastering-beauty-missing-meaning",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "Mastering Beauty,Missing Meaning",
     "text": "Mastering Beauty,Missing Meaning\n\nI can hear you. But what about Midjourney? It generates beautiful images. It must be seeing something, right?"
   },
@@ -800,7 +800,7 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#spatial-truth-collapses",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "Spatial TruthCollapses",
     "text": "Spatial TruthCollapses\n\nThe perception gap is also encountered when designing for blind and low-vision users. They have found that AI-mediated visual descriptions collapse on the information those users need most. The spatial structure around them.\nThe models frequently fail to genuinely parse space. They cannot reconstruct it for people whose relationship to space is already precarious.\nAsking Wally for directions has consequences in real life. His performance of sight can cause real harm."
   },
@@ -849,7 +849,7 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#meet-wally-dave",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "Meet Wally & Dave",
     "text": "Meet Wally & Dave\n\nMeet Wally and Dave.\nThe hilarious Richard Pryor plays Wally. Wally is competely blind. Yet he pretends that he can see. So he has built up a system around him of memorised cues and contextual guesses. He reads newspapers he cannot see. Navigates the world on muscle memory and sheer guile. Which is not the same thing as being able to see. [pause]\nGene Wilder plays Wally’s partner Dave. Dave is deaf. Like Wally, he has become very good at pretending that he can hear. He lip-reads. He guesses. He fills the silence with whatever his training gives him — and delivers the result with complete conviction. [pause]\nTogether, they are unstoppable. Wally strides forward. Dave shouts what he thinks he lip-read. Each one borrows the faculty the other is performing. Neither of them actually has it. What makes it funny is that everyone around them can see exactly what’s happening. Everyone except them. [click]"
   },
@@ -947,21 +947,21 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#its-a-language-bottleneck",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#its-a-language-bottleneck",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "It’s a LanguageBottleneck",
     "text": "It’s a LanguageBottleneck\n\nIt’s a Language Bottleneck."
   },
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#narrating-perceiving.",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#narrating-perceiving.",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "Narrating ≠ Perceiving.",
     "text": "Narrating ≠ Perceiving.\n\nRead the full essay at  spottedape.substack.com\n\n\nSo next time you see an AI demo that looks like magic, just remember what’s actually happening underneath. In most cases, it’s not seeing the world. It’s receiving a description of the world. and talking confidently from that.\nIt’s Dave shouting directions. And Wally striding forward like he owns the place. [smiling]\nWhich — honestly — sometimes works out fine. Until it doesn’t. [pause]\nLet me know in the comments. Do you think AI can actually see, or not? And if this kind of breakdown is useful to you, hit subscribe — because the tech is moving fast, and it’s worth knowing what’s real."
   },
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-human-problem.",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#this-is-not-an-ai-problem.-it-is-a-human-problem.",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "This is not anAI problem.It is a humanproblem.",
     "text": "This is not anAI problem.It is a humanproblem.\n\nThis gap in perception seems to be a human failure, not a technical one. We blindly feed the AI models expecting miraculous responses. We first need to bring the spatial reality and lived experience into the room. The AI cannot know what it hasn’t been given. It confidently performs based on learned patterns like Wally. We’ve confused well-structured prompts with insight, creating solutions that are technically coherent but humanly wrong. We have handed our eyes to something blind."
   },
@@ -989,7 +989,7 @@
   {
     "objectID": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see",
     "href": "pitchdeck/deaf-blind-ft-presentation-3a.html#the-deaf-leading-the-blind-what-llms-cannot-see",
-    "title": "The Spotted Ape",
+    "title": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "section": "The Deaf Leading the Blind:What LLM’s Cannot See",
     "text": "The Deaf Leading the Blind:What LLM’s Cannot See\n\n\n“…They have mouths, but cannot speak,eyes, but cannot see.They have ears, but cannot hear…”(Psalm 115:4–8, NIV)\n\n\n[Wait five full seconds] About three weeks ago I was supposed to be finishing something I’d been avoiding all week and… I fell down a YouTube rabbit hole. [pause]\nYou know the kind. You open one tab, and suddenly it’s forty minutes later… I ended up watching film called See No Evil, Hear No Evil. It is a typical minor comedy of the late 80’s. [pause]\nAnd I haven’t been able to stop thinking about it since. [click]"
   },

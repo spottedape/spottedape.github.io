@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Deaf Leading the Blind:<br>What LLM's Cannot See"
 format:
   revealjs:
     theme: default
@@ -16,11 +16,13 @@ format:
     hash: false
     embed-resources: false
     pdf-separate-fragments: false
+    title-slide-attributes:
+      data-background-image: images/deaf-blind-1a.png
+      data-background-size: cover
+      data-background-position: center
+      data-background-opacity: "0.2"
+      #data-class: center-slide-left
 ---
-
-<!-----------------------------------------------------------
-  SLIDE 01 — Wally and Dave
------------------------------------------------------------->
 
 ## The Deaf Leading the Blind:<br>What LLM's Cannot See {.center-slide-left background-image="images/deaf-blind-1a.png" background-size="cover" background-position="center" background-opacity="0.2"}
 

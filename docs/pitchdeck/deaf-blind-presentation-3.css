@@ -114,12 +114,6 @@
   margin: 0;
 }
 
-.reveal .slides section.center-slide-left h3 {
-  text-align: left;        /* Keeps text flush-left within the block */
-  display: inline-block;   /* Shrinks the box to the width of the text */
-  margin: 0;
-}
-
 .cta {
   display: inline-block;
   margin-top: 30px;
@@ -314,4 +308,22 @@
 .reveal .slides section .comparison-col h3:not(.huge-stat) {
   font-size: 39px !important;
   margin-bottom: 0 !important;
+}
+
+/* Target title slide directly */
+.reveal .slides section.title-slide {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.reveal .slides section.title-slide h1 {
+  text-align: left;
+  display: inline-block;
+}
+
+.reveal .slides section.title-slide h2 {
+  text-align: left;
+  display: inline-block;
 }
