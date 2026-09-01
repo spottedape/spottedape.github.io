@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>The Spotted Ape</title>
+<link>https://spottedape.github.io/portfolio/</link>
+<atom:link href="https://spottedape.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 21 Aug 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/portfolio/creative-x-ai-workshops.html}</title>
+  <link>https://spottedape.github.io/portfolio/creative-x-ai-workshops.html</link>
+  <description>{B4F502887207:/portfolio/creative-x-ai-workshops.html}</description>
+  <category>Mentoring</category>
+  <category>Behavioural-Design</category>
+  <category>AI</category>
+  <category>Creative-Education</category>
+  <guid>https://spottedape.github.io/portfolio/creative-x-ai-workshops.html</guid>
+  <pubDate>Thu, 21 Aug 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-creative-x-ai-workshops.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/portfolio/momentum-recharge.html}</title>
+  <link>https://spottedape.github.io/portfolio/momentum-recharge.html</link>
+  <description>{B4F502887207:/portfolio/momentum-recharge.html}</description>
+  <category>Behavioural-Design</category>
+  <category>Data-Visualisation</category>
+  <category>UX-Research</category>
+  <category>Wellness</category>
+  <guid>https://spottedape.github.io/portfolio/momentum-recharge.html</guid>
+  <pubDate>Mon, 31 Oct 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-momentum-recharge.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/portfolio/vantage-hiv.html}</title>
+  <link>https://spottedape.github.io/portfolio/vantage-hiv.html</link>
+  <description>{B4F502887207:/portfolio/vantage-hiv.html}</description>
+  <category>Behavioural-Design</category>
+  <category>UX-Research</category>
+  <category>Healthcare</category>
+  <category>Social-Impact</category>
+  <guid>https://spottedape.github.io/portfolio/vantage-hiv.html</guid>
+  <pubDate>Mon, 31 Oct 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-vantage-hiv.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/portfolio/sibabalwe-bakery.html}</title>
+  <link>https://spottedape.github.io/portfolio/sibabalwe-bakery.html</link>
+  <description>{B4F502887207:/portfolio/sibabalwe-bakery.html}</description>
+  <category>Behavioural-Research</category>
+  <category>Strategic-Design</category>
+  <category>Sustainability</category>
+  <category>Community-Intervention</category>
+  <guid>https://spottedape.github.io/portfolio/sibabalwe-bakery.html</guid>
+  <pubDate>Sat, 30 Sep 2017 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-sibabalwe-bakery.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/portfolio/csir-remote-video.html}</title>
+  <link>https://spottedape.github.io/portfolio/csir-remote-video.html</link>
+  <description>{B4F502887207:/portfolio/csir-remote-video.html}</description>
+  <category>Interaction-Design</category>
+  <category>Multimedia</category>
+  <category>Video-Design</category>
+  <category>Innovation</category>
+  <guid>https://spottedape.github.io/portfolio/csir-remote-video.html</guid>
+  <pubDate>Fri, 12 Jul 2002 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-csir-remote-video.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/portfolio/csir-veza-tourism.html}</title>
+  <link>https://spottedape.github.io/portfolio/csir-veza-tourism.html</link>
+  <description>{B4F502887207:/portfolio/csir-veza-tourism.html}</description>
+  <category>Interaction-Design</category>
+  <category>Multimedia</category>
+  <category>UX-Design</category>
+  <category>International-Exhibitions</category>
+  <guid>https://spottedape.github.io/portfolio/csir-veza-tourism.html</guid>
+  <pubDate>Fri, 30 Jun 2000 22:00:00 GMT</pubDate>
+  <media:content url="https://spottedape.github.io/images/proj-csir-veza-tourism.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
