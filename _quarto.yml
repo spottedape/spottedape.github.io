@@ -1,29 +1,37 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "**/*.qmd"
+    - "!includes/**"
+    - "!pitchdeck/!*.qmd"
+    - "!pitchdeck/wk-ai-in-praxis.qmd"
+    - "!Courses/DLA/**"
   resources:
     - CNAME
+    - site.js
+    - site-components/**
 
 jupyter: python3
 
-lang: en
+lang: en-GB
 
 website:
   title: "The Spotted Ape"
   favicon: images/favicon.png
-  site-url: https://spottedape.github.io
+  site-url: https://thespottedape.com
+  description: "Executive workshops for strategic choice and organisational learning, including the changing conditions of AI-mediated work."
+  open-graph: true
   search: false
   navbar: false
 
 format:
   html:
-    page-layout: custom
+    page-layout: full
+    section-divs: false
     toc: false
-    minimal: true
-    #theme: [none, theme.scss]
+    minimal: false
     css: theme.css
     include-in-header: head.html
     include-before-body: navbar.html
     include-after-body: footer.html
-    template-partials:
-      - title-block.html

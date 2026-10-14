@@ -1,0 +1,32 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+  output-dir: ../../docs/Courses/solar-investment/learn
+  resources:
+    - assets/**
+    - downloads/**
+
+website:
+  title: "Should We Invest in Solar?"
+  site-url: "https://thespottedape.com/Courses/solar-investment/learn/"
+  search: false
+  navbar: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    code-copy: false
+    anchor-sections: false
+    link-external-newwindow: false
+    include-after-body:
+      - includes/course-state.html
+
+execute:
+  freeze: auto
+filters:
+  - includes/course-navigation.lua
