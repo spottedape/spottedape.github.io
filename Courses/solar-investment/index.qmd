@@ -16,30 +16,22 @@ An Excel-based exercise in investment analysis and professional judgement.
 ::: {.sec}
 ::: {.wrap}
 
-<div class="shift-grid">
-  <div>
-    <p><strong>Three solar proposals. One investment decision.</strong></p>
-    <p>Use Excel to build the evidence, test the assumptions and advise management.</p>
+**Three solar proposals. One investment decision.**
 
-    <ul>
-      <li>65–80 minutes</li>
-      <li>Beginner level</li>
-      <li>Self-paced</li>
-      <li>Microsoft Excel</li>
-      <li>Practical case study</li>
-    </ul>
-  </div>
+Use Excel to build the evidence, test the assumptions and advise management.
 
-  <div>
-    <h3>Learning outcomes</h3>
-    <ol>
-      <li>Build an auditable Excel model.</li>
-      <li>Compare investment alternatives using financial measures.</li>
-      <li>Test assumptions through sensitivity analysis.</li>
-      <li>Develop an evidence-based management recommendation.</li>
-    </ol>
-  </div>
-</div>
+- 65–80 minutes
+- Beginner level
+- Self-paced
+- Microsoft Excel
+- Practical case study
+
+### Learning outcomes
+
+1. Build an auditable Excel model.
+2. Compare investment alternatives using financial measures.
+3. Test assumptions through sensitivity analysis.
+4. Develop an evidence-based management recommendation.
 
 :::
 :::
@@ -51,9 +43,7 @@ An Excel-based exercise in investment analysis and professional judgement.
 
 ## Introductory video {.sec-h}
 
-<div style="max-width: 900px; margin: 0 auto; border-radius: 16px; overflow: hidden; border: 1px solid rgba(212,255,0,.2); background: #0d0d0d; box-shadow: 0 24px 70px rgba(0,0,0,.32);">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/nHSyLciFe1k?rel=0" title="Introduction to the solar investment learning activity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{{< video https://www.youtube.com/watch?v=nHSyLciFe1k >}}
 
 :::
 :::
@@ -65,35 +55,39 @@ An Excel-based exercise in investment analysis and professional judgement.
 
 ## Register for this course {.sec-h}
 
-<form id="solar-registration-form" method="post" action="#" novalidate style="max-width: 720px; display:grid; gap:1rem;">
-  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem;">
+:::
+:::
+
+```{=html}
+<form id="solar-registration-form" method="post" action="#" novalidate style="max-width:720px; display:grid; gap:1rem; margin:0 auto;">
+  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
     <label style="display:grid; gap:.45rem;">
       <span>First name</span>
-      <input type="text" name="firstName" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background: rgba(9,9,9,.8); color: var(--text); border-radius: 10px;" />
+      <input type="text" name="firstName" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background:rgba(9,9,9,.8); color:#ece9e1; border-radius:10px;" />
     </label>
     <label style="display:grid; gap:.45rem;">
       <span>Last name</span>
-      <input type="text" name="lastName" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background: rgba(9,9,9,.8); color: var(--text); border-radius: 10px;" />
+      <input type="text" name="lastName" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background:rgba(9,9,9,.8); color:#ece9e1; border-radius:10px;" />
     </label>
   </div>
 
   <label style="display:grid; gap:.45rem;">
     <span>Email address</span>
-    <input type="email" name="email" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background: rgba(9,9,9,.8); color: var(--text); border-radius: 10px;" />
+    <input type="email" name="email" required style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background:rgba(9,9,9,.8); color:#ece9e1; border-radius:10px;" />
   </label>
 
   <label style="display:grid; gap:.45rem;">
     <span>Organisation (optional)</span>
-    <input type="text" name="organisation" style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background: rgba(9,9,9,.8); color: var(--text); border-radius: 10px;" />
+    <input type="text" name="organisation" style="padding:.85rem 1rem; border:1px solid rgba(255,255,255,.18); background:rgba(9,9,9,.8); color:#ece9e1; border-radius:10px;" />
   </label>
 
-  <label style="display:flex; gap:.75rem; align-items:flex-start; color: var(--dim);">
+  <label style="display:flex; gap:.75rem; align-items:flex-start; color:#b0aea7;">
     <input type="checkbox" name="privacyAccepted" required />
     <span>I agree that the information above will be used only for course registration and administration. I understand that this activity is not a marketing subscription and I have read the privacy notice below.</span>
   </label>
 
-  <div style="padding: 1rem 1.1rem; border: 1px solid rgba(212,255,0,.25); border-radius: 12px; background: rgba(212,255,0,.04); color: var(--dim);">
-    <strong style="display:block; margin-bottom: .55rem; color: var(--text);">Privacy notice</strong>
+  <div style="padding:1rem 1.1rem; border:1px solid rgba(212,255,0,.25); border-radius:12px; background:rgba(212,255,0,.04); color:#b0aea7;">
+    <strong style="display:block; margin-bottom:.55rem; color:#ece9e1;">Privacy notice</strong>
     <p style="margin:0 0 .5rem;">We collect your first name, last name, email address and organisation only to register you for this learning activity.</p>
     <p style="margin:0 0 .5rem;">The information is used to administer access, confirm your booking and support learning activity follow-up. It is stored by the registration service and not used for marketing unless you opt in separately in the future.</p>
     <p style="margin:0;">Please contact the site owner to request access, correction or deletion of your registration record.</p>
@@ -105,11 +99,7 @@ An Excel-based exercise in investment analysis and professional judgement.
   </div>
 </form>
 
-<p id="registration-status" aria-live="polite" style="margin-top:1rem; color: var(--dim);"></p>
-
-:::
-:::
-
+<p id="registration-status" aria-live="polite" style="margin-top:1rem; color:#b0aea7;"> </p>
 <script>
   const registrationForm = document.getElementById('solar-registration-form');
   const registrationStatus = document.getElementById('registration-status');
@@ -170,3 +160,5 @@ An Excel-based exercise in investment analysis and professional judgement.
     });
   }
 </script>
+``` 
+

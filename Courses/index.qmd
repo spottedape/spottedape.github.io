@@ -28,27 +28,19 @@ The activities below are designed to be concise, usable and grounded in real bus
 ::: {.sec .dark}
 ::: {.wrap}
 
-<article class="sa-course-card" style="border:1px solid rgba(212,255,0,.25); background: rgba(17,17,17,.7); border-radius: 16px; padding: 2rem; display:grid; gap:1.5rem;">
+## Should We Invest in Solar?
 
-<div>
-  <p class="sa-kicker" style="margin:0 0 .75rem; color: var(--accent); text-transform: uppercase; letter-spacing: .14em; font-size: .72rem; font-family: var(--ff-m);">Excel-based learning activity</p>
-  <h2 style="margin:0 0 .75rem; font-size: clamp(2rem,4vw,3rem); line-height:1.08;">Should We Invest in Solar?</h2>
-  <p style="margin:0; color: var(--dim); font-size:1.05rem;">Excel-based investment analysis and professional judgement.</p>
-</div>
+Excel-based investment analysis and professional judgement.
 
-<p style="margin:0; max-width:62ch;">Use Microsoft Excel to compare three solar investment proposals, test financial assumptions and develop an evidence-based management recommendation.</p>
+Use Microsoft Excel to compare three solar investment proposals, test financial assumptions and develop an evidence-based management recommendation.
 
-<ul style="list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap: .85rem 1rem;">
-  <li><strong>Duration:</strong> 65–80 minutes</li>
-  <li><strong>Level:</strong> Beginner</li>
-  <li><strong>Format:</strong> Self-paced online activity</li>
-  <li><strong>Software:</strong> Microsoft Excel</li>
-  <li><strong>Cost:</strong> Free</li>
-</ul>
+- **Duration:** 65–80 minutes
+- **Level:** Beginner
+- **Format:** Self-paced online activity
+- **Software:** Microsoft Excel
+- **Cost:** Free
 
-<a class="btn-p" href="/Courses/solar-investment/index.qmd">View course</a>
-
-</article>
+[View course](/Courses/solar-investment/index.qmd){.btn-p}
 
 :::
 :::
