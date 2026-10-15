@@ -101,7 +101,7 @@ The red eye glows now in recommendation engines and automated advertising system
 
 [2] A. C. Clarke, *2010: The year we make contact*. Del Rey Books, 1990.
 
-[3] Warner Bros. Pictures, “What are you doing, dave?” Accessed: Oct. 30, 2025. [Online]. Available: [https://www.youtube.com/watch?v=ARJ8cAGm6JE](http://d)
+[3] Warner Bros. Pictures, “What are you doing, dave?” Accessed: Oct. 30, 2025. [Online]. Available: [https://www.youtube.com/watch?v=ARJ8cAGm6JE](https://www.youtube.com/watch?v=ARJ8cAGm6JE)
 
 [4] B. El and J. Zou, “Moloch’s bargain: Emergent misalignment when LLMs compete for audiences.” 2025. Available: <https://arxiv.org/abs/2510.06105>
 

@@ -3,14 +3,14 @@ title: "The Deaf Leading the Blind: What Silicon Valley's LLM's Cannot See"
 shorttitle: "Design in the AI Era"
 author: "Marcel Maré"
 date: last-modified
-bibliography: ref-deaf-blind.bib
+bibliography: deaf-blind-ft.bib
 csl: apa.csl
 format:
   html:
     page-layout: article
     minimal: false
     theme: cosmo
-    reference-location: margin
+    reference-location: document
     citation-location: margin
     css: tufte-styles.css
     #include-before-body: none

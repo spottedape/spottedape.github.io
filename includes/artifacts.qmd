@@ -1,0 +1,15 @@
+::: {.tool-list}
+### Human Agency Map
+Records what people and machines currently produce and decide, who owns the consequential judgments and which capabilities need continued practice.
+
+### Judgment Rubric
+Defines criteria for a particular work product or decision, the evidence each criterion requires and the uncertainty the team can accept.
+
+### Agentic Workflow Blueprint
+Connects inputs, tasks, decisions, information, machine actions, human interventions, hand-offs, escalation and feedback. It adapts the logic of a service blueprint to human-machine agency.
+
+### Decision Rights Map
+Names who may recommend, execute, approve, override and escalate — and who remains accountable for the consequences.
+:::
+
+These are **intended workshop outputs**, made and revised with participants. They are not finished downloadable products or claims of a validated toolkit.

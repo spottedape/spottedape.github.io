@@ -1,0 +1,149 @@
+---
+title: "The !Khairos Framework"
+description: "A progression of professional practice: assisted, structured, orchestrated, agentic and governed."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# The !Khairos Framework
+
+Professional capability must remain viable as the conditions of work change.
+
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[The organising question]{.eyebrow}
+
+## What remains yours to do? {.sec-h}
+
+An Agentic Designer shapes a system in which people and machines possess forms of agency. Designing that relationship means more than allocating tasks.
+
+What are we trying to achieve? What may the machine recommend or execute? What should neither a person nor a machine be allowed to do automatically? What evidence is required, who can override the result and what happens when confidence is low?
+
+It also means asking how expertise develops. A task can be efficient to delegate and valuable to practise. The choice depends on its purpose, consequences and the people learning through it.
+
+!Khairos connects behavioural science’s attention to how people decide, strategic design’s concern with purpose and context, and systems thinking’s attention to feedback and consequences.
+
+:::
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Five stages]{.eyebrow}
+
+## A change in role, made visible in practice. {.sec-h}
+
+::: {.stage}
+[01 / Assisted]{.eyebrow}
+
+### Explorer
+
+**Shift** — From accepting plausible production to inspecting how a judgment was reached.
+
+**Practice** — Compare an output with the brief. Mark evidence, inference, unsupported claims and missing information before accepting it.
+
+**Intended artifact** — An initial Human Agency Map and an annotated work sample.
+
+**Reflection** — Where did fluent wording or confidence stand in for a reason to trust the answer?
+:::
+
+::: {.stage}
+[02 / Structured]{.eyebrow}
+
+### Practitioner
+
+**Shift** — From improvising with a tool to setting criteria and constraints.
+
+**Practice** — State purpose, audience, evidence threshold and a stopping rule. Apply the same rubric to alternatives and explain exclusions.
+
+**Intended artifact** — A Judgment Rubric adapted to a recurring task.
+
+**Reflection** — Did I choose the criteria first, or invent them to defend the answer I already preferred?
+:::
+
+::: {.stage}
+[03 / Orchestrated]{.eyebrow}
+
+### Integrator
+
+**Shift** — From judging an isolated output to designing how work passes between people and machines.
+
+**Practice** — Map decisions, verification, hand-offs and feedback. Test whether each human intervention is possible and meaningful.
+
+**Intended artifact** — An Agentic Workflow Blueprint.
+
+**Reflection** — Where did a convenient default become a decision? Whose attention or learning does the workflow depend on?
+:::
+
+::: {.stage}
+[04 / Agentic]{.eyebrow}
+
+### Architect
+
+**Shift** — From using a workflow to specifying conditional machine agency.
+
+**Practice** — Define what may be recommended or executed, the required evidence, override rights and conditions for stopping or escalation. Rehearse a failure.
+
+**Intended artifact** — A Decision Rights Map linked to the blueprint.
+
+**Reflection** — Am I delegating a task, a judgment or responsibility? Would someone else recognise the distinction?
+:::
+
+::: {.stage}
+[05 / Governed]{.eyebrow}
+
+### Steward — Governed autonomy
+
+**Shift** — From specifying the system to remaining responsible for its outcomes and its effects on capability.
+
+**Practice** — Review decisions and consequences over time. Revise boundaries, escalation and learning practices when the evidence warrants it.
+
+**Intended artifact** — Revised maps and rubric, with a record of decisions, exceptions and review.
+
+**Reflection** — What is the team no longer practising? Are our incentives making meaningful scrutiny harder?
+:::
+
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[Formation over time]{.eyebrow}
+
+## Practice → critique → reflection → revision. {.sec-h}
+
+The framework is used to design repeated learning, not to award a rank. Participants bring work and its reasoning, test it with peers and reviewers, then revise their criteria or workflow in the next task.
+
+A team may need close human scrutiny in one workflow and conditional autonomy in another. Moving backwards to re-examine a weak criterion can be more mature than adding another automated action.
+
+Governance follows from agency: once a system can act, decision rights, boundaries and consequences must be explicit. At Steward level, review includes the capabilities the team is retaining or losing.
+
+[How the capability programme uses this progression](/workshops/index.qmd#programme){.text-link}
+
+<!-- Future diagnostic: exploratory questions mapped to these practices. Do not imply a validated score or collect personal information without a defined method and data policy. -->
+
+:::
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Southern African provenance]{.eyebrow}
+
+## Form that holds under constraint. {.sec-h}
+
+*Welwitschia mirabilis* provides the framework’s Namib Desert point of reference. The earlier site described its resilience through the meeting of “wet and dry”: a form that persists without waiting for the environment to become easier.
+
+The professional parallel is a capability organised to remain viable when conditions change. A particular tool, interface or production routine may disappear. The capacity to frame a purpose, judge evidence, recognise uncertainty and take responsibility still needs a structure in which to develop.
+
+This is a restrained design metaphor, not a biological theory of organisations. It directs attention towards what makes a practice durable: constraints, feedback, deliberate intervention and learning. The progression is a working framework, not an independently validated measurement scale.
+
+:::
+:::

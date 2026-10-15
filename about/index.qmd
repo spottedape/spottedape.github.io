@@ -1,0 +1,58 @@
+---
+title: "About The Spotted Ape"
+description: "The research, behavioural design and strategic practice behind The Spotted Ape and its executive workshops."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# About the practice
+
+The Spotted Ape asks how people make decisions, develop expertise and retain agency within the systems they work through.
+
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Marcel Maré]{.eyebrow}
+
+## A practice grounded in people and systems. {.sec-h}
+
+Marcel is a behavioural designer, researcher, strategist and educator. His work across behavioural science, strategic design and systems thinking concerns the relationship between people, technologies and the conditions in which behaviour changes.
+
+His research on improved cookstoves in South Africa examines adoption through social marketing, consumer preferences, service design and Behaviour Centred Design. It asks why a useful technology is taken up, resisted or used differently from what its designers intended.
+
+That concern also appears in practical work. His wellness design work brings user research and behavioural principles into an interface; his creative AI education project combines reflection on identity with structured experimentation and critique. Teaching and guest lectures connect design practice with education, African innovation and design for social impact.
+
+These strands provide the provenance for the current work. An available tool does not determine how people will use it. Attention, motivation, capability, organisational expectations and the design of the surrounding system all matter. The strategic workshops extend that concern to the choices an organisation makes and the learning conditions it needs in order to act.
+
+[Research, publications and guest lectures](/research/index.qmd){.text-link}
+
+[Creative × AI curriculum project](/portfolio/creative-x-ai-workshops.qmd){.text-link}
+
+[Selected design projects](/portfolio/index.qmd){.text-link}
+
+<!-- Add university supervision roles or further credentials only after verified source material is supplied. An approved current portrait remains optional. -->
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[The practice]{.eyebrow}
+
+## Connecting strategic choices to organisational learning. {.sec-h}
+
+The Spotted Ape helps leadership teams make choices under uncertainty and examine the capabilities and knowledge flows those choices require. Behavioural and design questions remain central: how people interpret evidence, where a default substitutes for a decision, how expertise develops and how a workflow shapes responsibility.
+
+AI is one consequential change in work and competition, not a required frame for every engagement. Where it matters, workshops examine what can be delegated, which practices people still need to develop, and who remains accountable for decisions and consequences.
+
+[Read how the methodology connects choice and learning](/methodology/index.qmd){.text-link}
+
+[Explore the workshops](/workshops/index.qmd){.text-link}
+
+:::
+:::

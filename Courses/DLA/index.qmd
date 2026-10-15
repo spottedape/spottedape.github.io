@@ -1,0 +1,160 @@
+---
+title: "Should We Invest in Solar?"
+description: "Develop your Digital Acumen with Excel: Cape Manufacturing solar investment case study"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+{{< include includes/_spotted-ape-branding-home.html >}}
+
+{{< include includes/_embed-utility.qmd >}}
+
+{{< include includes/_course-progress.qmd >}}
+
+:::::: hero
+![](assets/00-western-cape-industrial-solar-hero.png){fig-alt="Industrial rooftop solar installation in a Western Cape setting"}
+
+::::: hero-copy
+::: course-kicker
+Cape Manufacturing · Investment case
+:::
+
+# Should We Invest in Solar?
+
+Three solar proposals. One investment decision. Use Excel to build the evidence, test the assumptions and advise management.
+
+::: meta-strip
+[65–80 minutes]{.meta-item} [Beginner spreadsheet level]{.meta-item} [Microsoft Excel]{.meta-item}
+:::
+:::::
+::::::
+
+:::::: {.case-study aria-label="Cape Manufacturing case study: The investment brief"}
+::: case-study-label
+Case study · Cape Manufacturing · The investment brief
+:::
+
+Cape Manufacturing is a fictional Western Cape industrial producer facing material electricity costs. Three suppliers have proposed rooftop solar systems costing R650,000 to R990,000. Management wants to reduce grid purchases; any resilience benefit still needs verification. You have been employed as a trainee accountant to assist with the commercial analysis. The financial director has texted you with the following request:
+
+::::: case-message
+::: {.case-avatar aria-hidden="true"}
+FD
+:::
+
+:::: case-message-body
+::: case-meta
+Monday 08:30 · Financial Director
+:::
+
+## Help us decide which solar proposal to take forward.
+
+Welcome as our new trainee accountant. Please could you assist. You need to compare the proposals on a common basis, test the assumptions and bring me a recommendation this afternoon. We need evidence before committing capital.
+::::
+:::::
+::::::
+
+<details>
+
+<summary>Watch: Introduction to the learning activity · 1 minute</summary>
+
+::: course-video
+
+{{< video https://www.youtube.com/watch?v=nHSyLciFe1k >}}
+
+:::
+
+A brief introduction to the activity, the Cape Manufacturing case study,
+
+and how Excel supports evidence-based business decisions.
+
+</details>
+
+## What you will learn
+
+On successful completion of this activity, you should be able to:
+
+1. Build an auditable Excel model comparing alternative investments.
+2. Analyse financial results using payback, NPV and sensitivity analysis.
+3. Evaluate assumptions and supplier claims using professional judgement and scepticism.
+4. Communicate a concise, evidence-based recommendation to management.
+
+## What you will produce
+
+Your workbook will contain a Year-1 comparison, one management chart with a short design rationale, a sensitivity table and a recommendation of **100 words or fewer**. You will also request evidence for Supplier C’s environmental claim and briefly reflect on how your judgement developed.
+
+**The spreadsheet provides the evidence. The decisions require your judgement.**
+
+## Get your workbook {#course-toolkit}
+
+Complete the activity in **Microsoft Excel** using the supplied workbook. Save a working copy with your name before entering formulas.
+
+::: resource-grid
+[**Student workbook** .xlsx · download](downloads/SU_DLA_Solar_Student_Workbook_V8.xlsx){.resource-tile download=""} [**Case brief** PDF · open](downloads/Cape_Manufacturing_Case_Brief.pdf){.resource-tile target="_blank" rel="noopener"} [**Quick reference** Excel + Sheets · PDF](downloads/Spreadsheet_Quick_Reference_Excel_Google_Sheets.pdf){.resource-tile target="_blank" rel="noopener"} [**Formula help** PDF · diagnostic](downloads/Formula_Troubleshooting_Card.pdf){.resource-tile target="_blank" rel="noopener"}
+:::
+
+<details>
+<summary>Google Sheets compatibility</summary>
+
+Upload the workbook to Google Drive, open it in Google Sheets and choose **File → Save as Google Sheets**. Keep the sheet names and cell addresses unchanged. Equivalent instructions appear where the interface differs; the financial model is the same.
+
+</details>
+
+## Begin with the business problem
+
+Open **Start Here** and read the brief. The five tabs keep the work traceable: **Start Here** provides orientation, **Case Data** holds inputs, **Your Model** contains your Year-1 calculations, **Test Assumptions** supports sensitivity analysis, and **Recommendation** records your advice.
+
+Follow **Understand → Spreadsheet Essentials → Build → Test → Decide → Reflect**. Start by interpreting the supplier data before entering formulas. Spreadsheet Essentials provides the few prerequisite moves a beginner needs; later checkpoints help you diagnose errors as you work.
+
+**For reviewers:** the [Reviewer Rationale](reviewer-rationale.qmd) provides a five-minute route through the Excel tasks, learning design and evidence of achievement.
+
+:::: sa-context
+::: label
+South African commercial context
+:::
+
+Cape Manufacturing is a fictional Western Cape industrial producer. All monetary values are in South African Rand (R). The electricity tariff, escalation rate and other financial parameters are **assumptions**, not forecasts of South African tariffs or investment conditions. Unless stated otherwise, use the figures exactly as provided and do not introduce VAT, tax, financing or feed-in revenue into the model.
+::::
+
+::: next
+**Next:** understand the business data before building the model.
+:::
+
+<details class="glossary-card">
+<summary>Glossary &amp; further reading <span class="glossary-hint">· optional</span></summary>
+
+Auditable model
+:   A model whose inputs, formulas and results can be traced and checked by another person. It does not mean the workbook has undergone a formal audit.
+
+Professional judgement
+:   Applying relevant knowledge and weighing evidence, uncertainty and business priorities to reach a reasoned conclusion.
+
+Professional scepticism
+:   A questioning approach that critically assesses evidence and notices gaps or inconsistencies. It does not mean automatically distrusting a supplier.
+
+Simple payback period
+:   An estimate of how long savings take to recover the initial cost. This course uses installed cost divided by net Year-1 saving, without discounting future savings.
+
+Net present value (NPV)
+:   The value today of expected future net cash flows, less the initial investment. It helps compare long-term financial value under the chosen assumptions.
+
+Sensitivity analysis
+:   Testing how a model result changes when an assumption changes. Here, you explore whether lower use of System C’s solar output changes the preferred proposal.
+
+::: glossary-reading
+**Further reading**
+
+- **Accountancy SA — Professional scepticism explained**\
+  South African accountancy context for questioning and critically assessing evidence, illustrated through auditing.\
+  [Read the resource ↗](https://www.accountancysa.org.za/professional-scepticism-explained/){target="_blank" rel="noopener" aria-label="Read Accountancy SA — Professional scepticism explained (opens in a new tab)"}
+
+- **ACCA — Investment appraisal**\
+  Further explanation of discounted cash flows and investment appraisal; the worked example goes beyond this course.\
+  [Read the resource ↗](https://www.accaglobal.com/uk/en/student/exam-support-resources/prodipsust-study-resources/technical-articles/investment-appraisal.html){target="_blank" rel="noopener" aria-label="Read ACCA — Investment appraisal (opens in a new tab)"}
+
+:::
+
+</details>
+
+{{< include includes/_course-page-nav.qmd >}}

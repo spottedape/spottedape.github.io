@@ -18,9 +18,9 @@ csl: ieee.csl
 ### Academic Papers, Publications & Reports
 
 ::: {.column-margin}
-![A phase-based behavioural design framework was successfully designed, implemented and assessed to effectively explore and modify cookstove-related behaviours.](../images/Fig_BCD.jpg){#fig-bcd}
+![A phase-based behavioural design framework was successfully designed, implemented and assessed to effectively explore and modify cookstove-related behaviours.](../images/Fig_BCD.jpg){#fig-bcd fig-alt="A diagram of the phase-based Behaviour Centred Design framework."}
 
-![Investigated customer preferences for improved flame-based cookstove features in South Africa.](../images/Fig_Mamelodi.jpg){#fig-mamelodi}
+![Investigated customer preferences for improved flame-based cookstove features in South Africa.](../images/Fig_Mamelodi.jpg){#fig-mamelodi fig-alt="Research into cookstove preferences in Mamelodi, South Africa."}
 :::
 
 Marcel's scholarly work centres on advancing sustainable energy solutions in sub-Saharan Africa, with a specific focus on the strategic design and widespread dissemination of improved cookstoves. His interdisciplinary research approach integrates design thinking with behavioural insights and social marketing principles [@Mare2023-uu; @mare2023thesis].
@@ -40,11 +40,11 @@ Since 2021 his research delves into the influence of Behaviour Centred Design (B
 ### Guest Lectures & Speaking Engagements
 
 ::: {.column-margin}
-![Impact of digital learning platforms on design education.](../images/Fig_Mooc.jpg){#fig-moocs}
+![Impact of digital learning platforms on design education.](../images/Fig_Mooc.jpg){#fig-moocs fig-alt="Material on digital learning platforms in design education."}
 
-![TEDx Stellenbosch 2010.](../images/Fig_Tedx.jpg){#fig-tedx}
+![TEDx Stellenbosch 2010.](../images/Fig_Tedx.jpg){#fig-tedx fig-alt="Marcel Maré speaking at TEDx Stellenbosch in 2010."}
 
-![Designing with Time at NID, India.](../images/Fig_NID_2.jpg){#fig-nid}
+![Designing with Time at NID, India.](../images/Fig_NID_2.jpg){#fig-nid fig-alt="Teaching material from Designing with Time at NID, India."}
 :::
 
 Marcel’s guest lectures span themes of design education, African innovation, and sustainable development. His talks range from digital learning [@mare2014moocs] to the economics of sustainable energy [@mare2012energy]. He has presented on the competitive advantage of African design [@mare2007datavis; @mare2008designthinking; @mare2008afrkandesign]. His application of design for social impact is illustrated in his TEDx talk [@mare2010tedx] (@fig-tedx). International engagements include courses at NID India [@mare2009designing] (@fig-nid) and exploring educational approaches [@mare2006globalisation; @mare2007teachingdesign].

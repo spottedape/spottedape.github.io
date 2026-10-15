@@ -1,0 +1,192 @@
+---
+title: "04 · Decide"
+description: "Cape Manufacturing solar investment case — Decide supported by evidence"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+{{< include includes/_spotted-ape-branding-course.html >}}
+
+{{< include includes/_embed-utility.qmd >}}
+
+{{< include includes/_course-progress.qmd >}}
+
+:::::: {.case-study aria-label="Cape Manufacturing case study: The recommendation"}
+::: case-study-label
+Case study · Cape Manufacturing · The recommendation
+:::
+
+A has the shortest payback; C has the highest base-case NPV. With the other assumptions held fixed, B overtakes C if C’s self-consumption falls below roughly 74%. Supplier C also claims a lower lifecycle environmental impact, without independent verification.
+
+::::: case-message
+::: {.case-avatar aria-hidden="true"}
+FD
+:::
+
+:::: case-message-body
+::: case-meta
+Monday 15:30 · Financial Director
+:::
+
+## Now turn the evidence into a recommendation.
+
+Which system should we take forward, why, and what do we still need to verify before signing? Keep your recommendation to 100 words. Separately, record the evidence you would need to assess Supplier C’s environmental claim.
+::::
+:::::
+::::::
+
+::::: obe
+::: obe-head
+Stage outcome and evidence
+:::
+
+::: obe-body
+**Outcome for this stage:** **Formulate and communicate an evidence-based investment recommendation that integrates quantitative analysis, commercial trade-offs, uncertainty and professional scepticism.**
+
+**Evidence:** recommendation in `Recommendation!A7`{.cell} and professional-scepticism response in `Recommendation!A22`{.cell}.
+:::
+:::::
+
+::::::: platform-note
+::: label
+Microsoft Excel · Decide
+:::
+
+::::: platform-grid
+::: platform
+**Excel** Enter the recommendation in the response area beginning `Recommendation!A7`{.cell}. Use Home → **Wrap Text** if necessary.
+:::
+
+::: platform
+**Google Sheets compatibility** Enter the recommendation in the same response area beginning `Recommendation!A7`{.cell}. Use Format → Wrapping → **Wrap** if necessary.
+:::
+:::::
+
+:::::::
+
+:::: course-context
+::: label
+Course guidance · weigh the evidence
+:::
+
+## The spreadsheet gives evidence. It does not choose the decision rule.
+
+You now have a genuine commercial trade-off. Management needs a recommendation that distinguishes measured results from assumptions still requiring verification.
+::::
+
+| Criterion | A | B | C |
+|----|----|----|----|
+| Simple payback | **2.92 y** | 2.96 y | 3.22 y |
+| 20-year NPV | R2.152m | R2.662m | **R2.871m** |
+| Self-consumption | 90% | 85% | 78% |
+| Primary exposure | Lower long-term value | Middle-ground option | Utilisation assumption |
+
+:::: excel
+::: label
+Excel instruction · use the workbook as evidence
+:::
+
+### Do not retype numbers from memory
+
+-   Payback evidence: `Your Model!B7:D7`{.cell}.
+-   Base NPV evidence: first scenario row `Test Assumptions!B8:D8`{.cell}.
+-   Sensitivity evidence: `Test Assumptions!A8:E14`{.cell}.
+-   Write your final recommendation in the merged response area beginning at `Recommendation!A7`{.cell} (displayed across A7:F13).
+
+Keep the recommendation to 100 words or fewer.
+::::
+
+:::: caseq
+::: label
+Executive briefing task · ≤100 words
+:::
+
+**Recommend one proposal to the Financial Director.**
+::::
+
+1.  Name the selected proposal.
+2.  Use at least **two quantified pieces of Excel evidence**.
+3.  State one explicit commercial trade-off.
+4.  Name one unverified operational assumption that must be confirmed before contract signature.
+
+**There is no single acceptable recommendation if the reasoning is coherent, quantified and appropriately qualified.**
+
+::: {.card .accent}
+### Professional scepticism · Supplier C's environmental claim
+
+The environmental claim in the management brief is unverified. Treat it separately from the financial results.
+
+**What evidence would you request before allowing the claim to influence the recommendation?**
+:::
+
+:::: excel
+::: label
+Excel instruction · record your scepticism response
+:::
+
+Go to `Recommendation!A22`{.cell} (merged across A22:F26) and type your response. Consider lifecycle methodology, manufacturing impacts, expected service life, recyclability, independent certification, system boundaries and the basis of comparison with A and B.
+::::
+
+::: output
+**Completed:** ≤100-word recommendation in `Recommendation!A7`{.cell} + evidence request in `Recommendation!A22`{.cell}.
+:::
+
+:::: interactive
+::: label
+Pre-submission check
+:::
+
+### Before you send the briefing
+
+{{< include includes/_decide-checklist.qmd >}}
+::::
+
+::: next
+**Next:** audit your outputs, explain the trade-off and transfer the modelling pattern.
+:::
+
+<details class="glossary-card">
+<summary>Glossary &amp; further reading <span class="glossary-hint">· optional</span></summary>
+
+Professional judgement
+:   Applying relevant knowledge and weighing evidence, uncertainty and business priorities to reach a reasoned conclusion. The highest modelled NPV is one input into that judgement.
+
+Professional scepticism
+:   A questioning approach that critically assesses evidence and notices gaps or inconsistencies. Request support for Supplier C’s claim without assuming it is either true or dishonest.
+
+Decision criterion
+:   A measure or requirement used to compare alternatives, such as recovery speed, long-term value or environmental impact. Different criteria can favour different proposals.
+
+Commercial trade-off
+:   Accepting less of one business benefit to obtain more of another, such as slower cost recovery in exchange for higher modelled long-term value.
+
+Operational assumption
+:   An input about how the factory or system will operate that is used in the model but still needs evidence. C’s assumed self-consumption is material because changing it can change the ranking.
+
+Lifecycle assessment
+:   A structured assessment of potential environmental impacts across a product’s life, from raw materials and manufacturing through use and end-of-life treatment. A fair comparison needs a consistent method and basis of comparison.
+
+System boundary
+:   The stages and processes included in an environmental assessment. Excluding manufacturing or disposal can change the apparent impact, so the proposals need comparable boundaries.
+
+Independent certification
+:   Confirmation by a separate certifying body that specified requirements have been met. Its scope and criteria must support the particular claim being assessed; a certificate alone does not establish lower lifecycle impact.
+
+::: glossary-reading
+**Further reading**
+
+- **Accountancy SA — Professional scepticism explained**\
+  South African accountancy context for questioning and critically assessing evidence, illustrated through auditing.\
+  [Read the resource ↗](https://www.accountancysa.org.za/professional-scepticism-explained/){target="_blank" rel="noopener" aria-label="Read Accountancy SA — Professional scepticism explained (opens in a new tab)"}
+
+- **ISO — ISO 14040:2006: Environmental management — Life cycle assessment — Principles and framework**\
+  Free overview of the lifecycle-assessment framework, including scope and critical review; the full standard is paid.\
+  [Read the resource ↗](https://www.iso.org/standard/37456.html){target="_blank" rel="noopener" aria-label="Read ISO — ISO 14040:2006: Environmental management — Life cycle assessment — Principles and framework (opens in a new tab)"}
+
+:::
+
+</details>
+
+{{< include includes/_course-page-nav.qmd >}}

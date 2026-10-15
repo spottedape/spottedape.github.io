@@ -1,0 +1,160 @@
+---
+title: "Thinking & Field Notes"
+description: "Essays and working questions on strategy, learning, AI, human judgment, behavioural design and organisational integrity."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# Thinking & Field Notes
+
+What happens to human capability when machines perform the acts through which it was developed and demonstrated?
+
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Work]{.eyebrow}
+
+## When production stops proving competence. {.sec-h}
+
+A researcher researched; a writer wrote; an analyst analysed. Those acts produced work and exposed the reasoning beneath it. They also gave novices something to practise.
+
+When an AI-generated document looks competent, what has the person presenting it demonstrated? Organisations may need to make framing, selection, interpretation and the explanation of a decision more visible.
+
+The difficult educational question follows: **how do novices become experts when machines increasingly perform novice work?** Retaining selected practice, comparing independent judgments and examining revisions are approaches worth testing, not a universal solution.
+
+[Moholy-Nagy and the Art of Remote Creation](/posts/substack/2025-08-21-moholy-nagy-and-the-art-of-remote-creation.qmd){.text-link}
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[Judgment]{.eyebrow}
+
+## A plausible answer is not yet a decision. {.sec-h}
+
+Judgment involves deciding what problem is being addressed, what evidence belongs, which information is missing and what uncertainty can be accepted. It is exercised in context, with consequences for other people.
+
+The question is not whether a machine can contribute to judgment. It is how an organisation designs responsibility for the judgment: whose criteria, whose evidence threshold, whose decision and whose review?
+
+A reviewer who can reject an output but cannot explain why has a different problem from a reviewer who lacks the authority to stop it. Both matter.
+
+[The Laboratory Fallacy](/posts/substack/2026-02-14-the-laboratory-fallacy.qmd){.text-link}
+
+:::
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Constraint]{.eyebrow}
+
+## More alternatives can be a way of avoiding a choice. {.sec-h}
+
+Cheap generation expands the possibility space. Without a governing purpose, every promising variation can invite another rewrite. The work may become more elaborate while its argument becomes less clear.
+
+Constraint is a design instrument: specify the audience, the argument that must hold, the evidence required and the point at which further exploration stops. That boundary makes it possible to judge an alternative rather than merely respond to it.
+
+The constraint is provisional. Evidence can justify changing it. The discipline is to distinguish a reason to change direction from the arrival of another plausible option.
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[Taste]{.eyebrow}
+
+## Discernment has to be developed. {.sec-h}
+
+Taste is more than aesthetic preference. In professional work it distinguishes what belongs from what merely looks competent; it recognises coherence, contextual fit, originality and strategic significance.
+
+It is not an innate gift. Domain knowledge, exposure, comparison, practice, critique and feedback give a person a basis for seeing differences and explaining them.
+
+If AI supplies the first draft, the novice may lose an occasion to struggle with structure. If it supplies the synthesis, they may miss the experience of deciding what to exclude. These are questions about the design of learning, not an argument against using AI.
+
+**Which acts of practice should remain, and what new practice could develop the discernment those acts used to teach?**
+
+:::
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[Agency and behaviour]{.eyebrow}
+
+## Who can interrupt the system? {.sec-h}
+
+Agency is shaped by the workflow around a decision. A person can technically have an override button while deadlines, defaults or social expectations make using it unlikely.
+
+Designing meaningful intervention therefore means examining information, attention, authority and incentives together. Where should friction remain? Who notices a weak recommendation? What happens after they challenge it?
+
+[HAL 9000 and the Market’s Moloch Problem](/posts/substack/2025-10-30-hal-9000-and-the-market-s-moloch-problem.qmd){.text-link}
+
+[Playing in the River Before the Fire](/posts/substack/2025-10-23-playing-in-the-river-before-the-fire.qmd){.text-link}
+
+:::
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[Selected routes through the archive]{.eyebrow}
+
+## Six connected threads. {.sec-h}
+
+The essay archive ranges across the practice's interests. These groupings are ways into existing writing, not claims that every essay is research on strategy or organisational learning.
+
+::: {.editorial-grid .themes}
+::: {.observation}
+### Strategy and choice
+[The Laboratory Fallacy](/posts/substack/2026-02-14-the-laboratory-fallacy.qmd){.text-link}
+:::
+::: {.observation}
+### Learning and knowledge
+[Moholy-Nagy and the Art of Remote Creation](/posts/substack/2025-08-21-moholy-nagy-and-the-art-of-remote-creation.qmd){.text-link}
+[Wisdom is Like a Baobab Tree](/posts/substack/2025-12-08-wisdom-is-like-a-baobab-tree.qmd){.text-link}
+:::
+::: {.observation}
+### AI and human judgment
+[Will AI Take My Job?](/posts/substack/2025-05-08-will-ai-take-my-job-unlikely-but-it-might-eat-my-admin.qmd){.text-link}
+:::
+::: {.observation}
+### Organisational integrity
+[HAL 9000 and the Market’s Moloch Problem](/posts/substack/2025-10-30-hal-9000-and-the-market-s-moloch-problem.qmd){.text-link}
+:::
+::: {.observation}
+### Behavioural design
+[The Flying Spotted Ass Ape and the Psychology of Creative Formation](/posts/substack/2025-11-12-the-flying-spotted-ass-ape-and-the-psychology-of-creative-formation.qmd){.text-link}
+:::
+::: {.observation}
+### Strategic experimentation
+[Playing in the River Before the Fire](/posts/substack/2025-10-23-playing-in-the-river-before-the-fire.qmd){.text-link}
+:::
+:::
+
+[Browse the complete essay archive](/posts/substack/index.qmd){.text-link}
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[Continue reading]{.eyebrow}
+
+## Essays and working questions. {.sec-h}
+
+The notes above state the questions informing the practice; they are not reports of evaluated programme effects. Longer essays are published through the existing Substack relationship and preserved in the essay archive.
+
+[Read The Spotted Ape on Substack](https://spottedape.substack.com){.text-link}
+
+[Browse the essay archive](/posts/substack/index.qmd){.text-link}
+
+:::
+:::

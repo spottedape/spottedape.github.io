@@ -3,7 +3,7 @@ title: "The Deaf Leading the Blind: What Silicon Valley's LLMs Cannot See"
 shorttitle: "Design in the AI Era"
 author: "Marcel Maré"
 date: last-modified
-bibliography: ref-deaf-blind.bib
+bibliography: deaf-blind-ft.bib
 csl: apa.csl
 format:
   html:
@@ -69,3 +69,4 @@ The partnership of *Wally* and *Dave*, for the moment, endures. *Wally* strides 
 The bar fight, however, is still going on. And it is becoming increasingly difficult for us, as outsiders, to tell which punches are actually landing and which ones are merely striking empty air.
 :::
 :::
+

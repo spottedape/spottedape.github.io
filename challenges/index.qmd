@@ -1,0 +1,245 @@
+---
+title: "Organisational challenges"
+description: "Six common strategic and learning problems, and the workshop approaches that can help teams examine them."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# Where are teams stuck?
+
+The same visible symptom can have different causes. Use these questions to find a useful starting point, not to score or diagnose your organisation.
+
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[Find a starting point]{.eyebrow}
+
+## What is getting in the way? {.sec-h}
+
+::: {.editorial-grid}
+::: {.observation}
+### The Planning Trap
+There is a plan, but leaders cannot state where to play, how to win or what the organisation will stop doing.
+
+[Explore the challenge](#planning-trap)
+:::
+::: {.observation}
+### Analytical Paralysis
+The evidence keeps growing while the choice, the assumptions and the next test remain unclear.
+
+[Explore the challenge](#analytical-paralysis)
+:::
+::: {.observation}
+### Knowledge Stock Collapse
+Important knowledge sits in documents and repositories, while teams struggle to use it in changing work.
+
+[Explore the challenge](#knowledge-stock-collapse)
+:::
+::: {.observation}
+### Tacit Knowledge Silos
+Experienced practitioners know how the work gets done, but that knowledge is difficult to share or learn through practice.
+
+[Explore the challenge](#tacit-knowledge-silos)
+:::
+::: {.observation}
+### The Innovation Disconnect
+Promising ideas and experiments do not connect to strategic choices, operational capability or a next decision.
+
+[Explore the challenge](#innovation-disconnect)
+:::
+::: {.observation}
+### Executive Alignment
+Leaders agree on aspirations but hold different assumptions about customers, competition, trade-offs or capabilities.
+
+[Explore the challenge](#executive-alignment)
+:::
+:::
+
+:::
+:::
+
+::: {.sec .dark #planning-trap}
+::: {.wrap}
+
+[01 / Strategic choice]{.eyebrow}
+
+## The Planning Trap {.sec-h}
+
+### What it can look like
+
+Planning documents describe targets, initiatives and resource allocations, but the leadership team cannot explain the linked choices that would make the organisation win. Priorities accumulate; explicit exclusions do not.
+
+### Why it persists
+
+Planning is often easier to coordinate around what the organisation controls than around uncertain customer response and competitive reaction. Analysis can refine assumptions without requiring anyone to make a trade-off.
+
+### The underlying issue
+
+The organisation may have a plan without an integrated strategy: an aspiration, a defined arena, a reason to win there, the capabilities that require, and the management systems that sustain them.
+
+### A useful intervention
+
+The **Strategic Choice Cascade Sprint** gives leaders a structured way to articulate the choices, identify what they will not pursue and make the assumptions behind the choices testable.
+
+[Explore the Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade){.text-link}
+
+:::
+:::
+
+::: {.sec #analytical-paralysis}
+::: {.wrap}
+
+[02 / Assumption testing]{.eyebrow}
+
+## Analytical Paralysis {.sec-h}
+
+### What it can look like
+
+Teams commission more research, compare another set of options and defer commitment because no available analysis appears to remove uncertainty.
+
+### Why it persists
+
+Evidence can narrow a question, but it cannot choose the organisation's goals or eliminate uncertainty about the future. Without a decision rule, another plausible alternative can always reopen the discussion.
+
+### The underlying issue
+
+The team may lack a working hypothesis and a clear account of what evidence would change its mind. Deductive and inductive analysis matter, but so does abductive reasoning: asking what might be true, then testing it.
+
+### A useful intervention
+
+The **Blended Epistemology Studio** helps teams create alternatives, state what would have to be true for each, and design bounded scenarios or experiments that can inform a choice.
+
+[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+
+:::
+:::
+
+::: {.sec .dark #knowledge-stock-collapse}
+::: {.wrap}
+
+[03 / Knowledge flows]{.eyebrow}
+
+## Knowledge Stock Collapse {.sec-h}
+
+### What it can look like
+
+The organisation has manuals, reports and training materials, yet teams cannot reliably bring relevant knowledge into a new customer problem, changed process or unfamiliar situation.
+
+### Why it persists
+
+Repositories preserve explicit information, but access alone does not create the context, relationships or practice needed to apply it. As conditions change, stored answers can become less useful without a way to interpret and revise them.
+
+### The underlying issue
+
+Knowledge is treated mainly as a stock to store and distribute, rather than also as a flow created through work, exchange, feedback and adaptation.
+
+### A useful intervention
+
+The **Scalable Learning & Knowledge Flows Lab** maps where useful knowledge resides, how it moves between people and work, and where teams can learn by making and testing in a bounded setting.
+
+[Explore the Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+
+:::
+:::
+
+::: {.sec #tacit-knowledge-silos}
+::: {.wrap}
+
+[04 / Tacit practice]{.eyebrow}
+
+## Tacit Knowledge Silos {.sec-h}
+
+### What it can look like
+
+Work depends on the judgment of a few experienced practitioners. Their expertise is difficult to express as instructions, new colleagues have limited opportunities to observe it, and teams repeat avoidable discovery.
+
+### Why it persists
+
+Much practical knowledge is situated: people notice cues, make adjustments and coordinate with others in ways they may not be able to explain in a document. Conventional training can describe a practice without recreating the conditions in which it is learned.
+
+### The underlying issue
+
+The organisation has not designed enough opportunities for observation, participation, peer exchange and reflection around real work.
+
+### A useful intervention
+
+The **Scalable Learning & Knowledge Flows Lab** identifies practitioners, relationships and recurring work where knowledge can move through communities of practice, shared tasks and creation spaces.
+
+[Explore the Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+
+:::
+:::
+
+::: {.sec .dark #innovation-disconnect}
+::: {.wrap}
+
+[05 / Experimentation]{.eyebrow}
+
+## The Innovation Disconnect {.sec-h}
+
+### What it can look like
+
+Teams generate concepts and run pilots, but promising activity does not change a strategic choice, build a capability or establish what the organisation should test next.
+
+### Why it persists
+
+Exploration can become detached from the decisions it is meant to inform. Conversely, an existing strategy can constrain experiments to small improvements that never test whether the original assumptions still hold.
+
+### The underlying issue
+
+The learning loop is incomplete: a hypothesis is not connected to a meaningful strategic question, and results do not lead to a decision to continue, adapt or stop.
+
+### A useful intervention
+
+The **Blended Epistemology Studio** connects knowing, making and playful reframing. Teams prototype plausible futures, surface assumptions and agree what an experiment could help them learn.
+
+[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+
+:::
+:::
+
+::: {.sec #executive-alignment}
+::: {.wrap}
+
+[06 / Shared choices]{.eyebrow}
+
+## Executive Alignment {.sec-h}
+
+### What it can look like
+
+Leaders express similar ambitions but disagree in practice about which customers matter, how the organisation will compete, which capabilities to develop or what risks it will accept.
+
+### Why it persists
+
+Broad goals can conceal incompatible assumptions. A meeting may record agreement without exposing the trade-offs or clarifying who owns the decision and the next test.
+
+### The underlying issue
+
+Alignment is treated as consensus on language rather than a shared, revisable set of choices and an understanding of what those choices require.
+
+### A useful intervention
+
+An **Executive Offsite** or the **Strategic Choice Cascade Sprint** makes differences in assumptions visible, tests critical hypotheses and records the choices, open questions and owners that follow.
+
+[Discuss an executive session](/contact/index.qmd){.text-link}
+
+:::
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[Scope before solution]{.eyebrow}
+
+## A starting point, not a diagnosis. {.sec-h}
+
+These patterns can overlap and have different causes in different organisations. An initial conversation helps establish the decision or work system involved, who needs to participate and whether a workshop is a sensible next step.
+
+[Talk about an organisational challenge](/contact/index.qmd){.btn-p}
+
+:::
+:::

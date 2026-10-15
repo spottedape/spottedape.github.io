@@ -1,58 +1,47 @@
 ---
 title: "Courses"
-description: "Learning activities and practical work designed for strategic choice, evidence, and professional judgement."
+description: "Applied learning in human judgement, responsible AI, behavioural and strategic design, and practical decision-making."
 ---
 
-::: {.page-head .wrap}
+::: {.page-head .wrap .courses-page-head}
 
-[The Spotted Ape]{.eyebrow}
+<nav class="courses-breadcrumb" aria-label="Breadcrumb">
+	<a href="/">The Spotted Ape</a>
+	<span aria-hidden="true">/</span>
+	<span aria-current="page">Courses</span>
+</nav>
 
 # Courses
 
-Short, practical learning activities that help people work with evidence, judgement and decision-quality.
+Applied learning at The Spotted Ape joins human judgement, critical thinking, responsible AI, behavioural and strategic design, and practical digital capability through realistic organisational challenges.
 
 :::
 
-::: {.sec}
+::: {.sec .dark .sample-course-section}
 ::: {.wrap}
 
-[Available learning activity]{.eyebrow}
+::: {.sample-course-grid}
 
-## Practical learning for decision-making and evidence {.sec-h}
-
-The activities below are designed to be concise, usable and grounded in real business judgement. They combine structured analysis with the kind of evidence and trade-offs leaders need to navigate in practice.
-
-:::
-:::
-
-::: {.sec .dark}
-::: {.wrap}
+::: {.sample-course-heading}
+[Sample Course]{.eyebrow}
 
 ## Should We Invest in Solar?
 
-Excel-based investment analysis and professional judgement.
-
-Use Microsoft Excel to compare three solar investment proposals, test financial assumptions and develop an evidence-based management recommendation.
-
-- **Duration:** 65–80 minutes
-- **Level:** Beginner
-- **Format:** Self-paced online activity
-- **Software:** Microsoft Excel
-- **Cost:** Free
-
-[View course](/Courses/solar-investment/index.qmd){.btn-p}
-
-:::
+<p class="sample-course-subtitle">Capital Budgeting, Sensitivity Analysis, and Managerial Judgement in Excel</p>
 :::
 
-::: {.sec}
-::: {.wrap}
+::: {.sample-course-video .ratio .ratio-16x9}
+<iframe src="https://www.youtube.com/embed/nHSyLciFe1k" title="Introduction to Should We Invest in Solar?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+:::
 
-[Use the learning activity]{.eyebrow}
+::: {.sample-course-description}
+Take the role of a junior commercial analyst at a South African manufacturing company. Compare three competing solar proposals by building and testing an Excel financial model, examining assumptions and supplier claims, then preparing an evidence-based recommendation. The spreadsheet develops analytical competence; choosing what the evidence supports calls for managerial judgement.
+:::
 
-## Designed to make evidence visible. {.sec-h}
+::: {.sample-course-action}
+[Enter Sample Course →](/Courses/solar-investment/learn/){.btn-p}
+:::
 
-Each activity is structured to help learners compare alternatives, test assumptions, recognise uncertainty and reach a reasoned recommendation. The focus remains on evidence, judgement and professional decision-making.
-
+:::
 :::
 :::

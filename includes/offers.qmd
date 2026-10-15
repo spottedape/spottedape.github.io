@@ -1,0 +1,59 @@
+::: {.offer}
+::: {.offer-label}
+[01 / Proposed intensive or short series]{.eyebrow}
+
+### [Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade)
+:::
+::: {.offer-body}
+For leadership teams with plans but unresolved choices about where to play, how to win and what capabilities to build.
+
+Make the cascade explicit, identify trade-offs and test the assumptions that matter.
+
+**Working output:** an integrated one-page strategic choice cascade.
+:::
+:::
+
+::: {.offer}
+::: {.offer-label}
+[02 / Applied learning lab]{.eyebrow}
+
+### [Scalable Learning & Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows)
+:::
+::: {.offer-body}
+For organisations that store knowledge but struggle to move expertise into changing work.
+
+Map codified and tacit knowledge, relationships and opportunities to learn through practice.
+
+**Working output:** an organisational learning and knowledge-flow blueprint.
+:::
+:::
+
+::: {.offer}
+::: {.offer-label}
+[03 / Strategy prototyping studio]{.eyebrow}
+
+### [Blended Epistemology Studio](/workshops/index.qmd#blended-studio)
+:::
+::: {.offer-body}
+For teams that need to explore beyond familiar assumptions and connect experimentation to a strategic choice.
+
+Move between knowing, making and playing; challenge alternatives through scenarios and bounded tests.
+
+**Working outputs:** alternative hypotheses, scenario prototypes and assumption tests.
+:::
+:::
+
+::: {.offer}
+::: {.offer-label}
+[04 / Scoped to the decision]{.eyebrow}
+
+### [Executive Offsites & Custom Masterclasses](/workshops/index.qmd#custom-offsites)
+:::
+::: {.offer-body}
+Combine the modules around an executive decision, a capability question or a leadership team's need to work through competing assumptions.
+
+Format, participants and intended outputs are agreed during scoping.
+
+**Starting point:** a clear decision and the people who need to work on it.
+:::
+:::

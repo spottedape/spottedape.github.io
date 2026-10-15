@@ -1,7 +1,6 @@
 ---
-title: |
-    Essays
-    ---
+title: "Essay archive"
+description: "Essays from The Spotted Ape on Substack."
 date-format: "MMM YYYY"
 listing:
     contents: .

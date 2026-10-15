@@ -1,0 +1,5 @@
+```{=html}
+<label for="final-reflection">Your reflection · 2–4 sentences</label>
+<textarea id="final-reflection" class="course-response" aria-describedby="reflection-storage"></textarea>
+<p id="reflection-storage" class="small-note" data-storage-note>Your response is saved locally in this browser; it is not submitted.</p>
+```

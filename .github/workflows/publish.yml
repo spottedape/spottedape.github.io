@@ -17,10 +17,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Build interactive homepage components
+        run: npm ci && npm run build
+
       - uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render site
         run: quarto render
+
+      - name: Render Solar investment course
+        run: quarto render Courses/DLA
 
       - uses: actions/upload-pages-artifact@v3
         with:

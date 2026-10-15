@@ -1,0 +1,58 @@
+---
+title: "Contact The Spotted Ape"
+description: "Discuss a strategic choice, organisational learning challenge, executive workshop or custom masterclass."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# Discuss a strategic challenge
+
+Start with the decision or capability your organisation needs to work on. You do not need a finished brief.
+
+:::
+
+::: {.sec  }
+::: {.wrap}
+
+[A useful first message]{.eyebrow}
+
+## A useful first message. {.sec-h}
+
+1. What decision, strategic question or learning challenge is in view?
+2. Who needs to take part, and what can they influence?
+3. What have you tried, and what would a useful next step help you decide?
+
+You can enquire about the Strategic Choice Cascade Sprint, Knowledge Flows Lab, Blended Epistemology Studio, executive facilitation or a custom masterclass. If you have a preferred format, include approximate group size and timing; delivery details are agreed during scoping.
+
+[Write an enquiry](mailto:contact@spottedape.com?subject=Strategic%20workshop%20enquiry){.btn-p}
+
+Or email **[contact@spottedape.com](mailto:contact@spottedape.com)**.
+
+An enquiry begins a discussion of fit, context and scope. Delivery arrangements and fees are agreed before an engagement is confirmed. Do not send confidential documents in your initial message.
+
+:::
+:::
+
+::: {.sec .dark }
+::: {.wrap}
+
+[Explore before you write]{.eyebrow}
+
+## Choose a starting point. {.sec-h}
+
+[View the workshop formats](/workshops/index.qmd){.text-link}
+
+[Find an organisational challenge](/challenges/index.qmd){.text-link}
+
+[Read the methodology](/methodology/index.qmd){.text-link}
+
+[See the !Khairos progression](/khairos/index.qmd){.text-link}
+
+Existing [appointments and events](/appointment/index.qmd) are available separately; the team enquiry route above is the starting point for an organisational engagement.
+
+<!-- Future form integration: use a reviewed endpoint, server-side validation and spam protection; document retention and privacy before collecting submissions. No service is currently configured. -->
+
+:::
+:::

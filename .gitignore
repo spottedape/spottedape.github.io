@@ -8,6 +8,8 @@
 # Python virtual environment
 venv/
 __pycache__/
+/node_modules/
+/site-components/
 
 # Optional: other editor files
 *.swp
@@ -15,3 +17,5 @@ __pycache__/
 
 /.quarto/
 .DS_Store
+
+/.luarc.json

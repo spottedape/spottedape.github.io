@@ -1,361 +1,123 @@
 ---
-title: "The Spotted Ape — The Visible Agent"
+title: "The Spotted Ape — Strategy, learning and human judgment"
+description: "Executive workshops that help organisations make strategic choices, test assumptions and develop the capabilities to act, including in AI-mediated work."
 ---
 
-::: {.hero}
-::: {.hero-inner}
-
-[THE AGENTIC DESIGNER]{.hero-badge}
-
-# If AI does the work, what are [you]{.hi} doing? {.hero-title}
-
-::: {.hero-sub}
-Work used to be simple.
-Learn, make, improve, repeat.
-
-Now AI does the making.
-
-So our roles change
-from producing work to deciding what matters.
-:::
-
-[Request Workshop Details](#contact){.btn-p}
-
-:::
-:::
-
-::: {.marquee-band}
-::: {.marquee-wrap}
-::: {.marquee-track}
-[Judgment]{.marquee-item} [AI Literacy]{.marquee-item} [Human-in-the-Loop]{.marquee-item} [Organizational Integrity]{.marquee-item} [Critical Thinking]{.marquee-item} [Agentic Systems]{.marquee-item} [Editorial Control]{.marquee-item} [Autonomous Workflows]{.marquee-item}
-:::
-:::
-:::
-
-::: {.sec #concept}
-::: {.wrap}
-
-[The Knowledge Work Shift]{.eyebrow}
-
-# The old path no longer holds. {.sec-h}
-
-::: {.sec-p}
-Knowledge work was built on a simple model:
-
-- Research deeply.
-- Analyze rigorously.
-- Produce original work.
-
-That model assumed the human was the one doing the heavy lifting.
-:::
-
-::: {.sec-p}
-Today, intelligent systems generate text, analysis, and structure instantly.
-
-The constraint is no longer effort.
-
-It is judgment.
-:::
-
-:::
-:::
-
----
-
-::: {.sec #framework}
-::: {.wrap}
-
-[The !Khairos Series]{.eyebrow}
-
-## From executor to orchestrator. {.sec-h}
-
-::: {.sec-p}
-This workshop series develops what we call *!Kharos*.
-
-<span class="sidenote-float">The !Kharos Strategy is derived from the *Welwitschia mirabilis*, a biological metaphor for surviving through "wet and dry." In the Namib Desert, where the Atlantic fog (the wet) meets the scorching dunes (the dry), the !Kharos has mastered a form of Rhizomatic Resilience that doesn't rely on the weather changing, but on its own structural integrity.</span>
-
-A practitioner who is not overwhelmed by AI, but grounded within it.
-:::
-
-<br><br><br><br><br>
-
-::: {.step}
-::: {.step-h}
-Deep resilience
-:::
-::: {.step-p}
-Rooted in behavioural science and systems thinking.
-
-Teams learn how to hold clarity when tools produce infinite variation.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Editorial judgment
-:::
-::: {.step-p}
-Knowing what to keep, what to cut, and what actually matters.
-
-Not more thinking but better selection.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Agentic orchestration
-:::
-::: {.step-p}
-Designing workflows where AI produces, but humans remain accountable for outcomes.
-:::
-:::
-
-::: {.sec-p}
-The goal is not AI proficiency.
-
-It is *intellectual control under conditions of abundance.*
-:::
-
-:::
-:::
-
----
-
-::: {.sec #workshops}
-::: {.wrap}
-
-[Masterclass Series]{.eyebrow}
-
-## A staged progression to Agentic Mastery. {.sec-h}
-
-::: {.sec-p}
-The workshop series follows a structured trajectory aligned to real-world automation maturity. Each stage shifts the participant’s role from interacting with tools to governing systems.
-:::
-
-::: {.step}
-::: {.step-h}
-Explorer — Assisted
-:::
-::: {.step-p}
-Participants confront the gap between intent and AI output.
-
-They learn where judgment begins.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Practitioner — Partial Automation
-:::
-::: {.step-p}
-From prompts to workflows.
-
-Participants build repeatable systems instead of isolated outputs.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Integrator — Conditional Automation
-:::
-::: {.step-p}
-Human-in-the-loop design.
-
-Teams define where human oversight is required to maintain strategic rigor and ethical compliance.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Architect — High Automation
-:::
-::: {.step-p}
-From using systems to designing them.
-
-Participants create agentic infrastructures that operate with defined boundaries.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-Steward — Full Automation
-:::
-::: {.step-p}
-The final shift: taste.
-
-Participants learn to govern outcomes, not interfaces.
-:::
-:::
-
-:::
-:::
-
----
-
-::: {.sec #case}
-::: {.wrap}
-
-[Case]{.eyebrow}
-
-## When more thinking makes everything worse. {.sec-h}
-
-::: {.sec-p}
-A senior policy analyst was weeks away from a major strategic review.
-
-Her research was strong.
-But the final report had stalled.
-:::
-
-::: {.step}
-::: {.step-h}
-The pattern
-:::
-::: {.step-p}
-Generate with AI. Over-edit. Rewrite. Repeat.
-
-Too many directions. No clear argument.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-The intervention
-:::
-::: {.step-p}
-We removed the tools.
-
-One question only:
-
-*What is the argument this report must make—if everything else is stripped away?*
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-The shift
-:::
-::: {.step-p}
-Clarity returned.
-
-AI became support—not noise.
-Whole sections were removed without hesitation.
-:::
-:::
-
-::: {.step}
-::: {.step-h}
-The result
-:::
-::: {.step-p}
-Final draft in 9 days.
-
-“This is the first version that actually argues something.”
-:::
-:::
-
-::: {.sec-p}
-This is the core issue in knowledge work today:
-
-Not lack of capability.
-But collapse under too many possibilities.
-:::
-
-::: {.sec-p}
-Professionals oscillate between:
-
-- Overthinking everything
-- Or disengaging entirely
-
-Neither produces good work.
-
-What they need is constraint.
-What they lack is judgment.
-:::
-
-:::
-:::
-
----
-
-::: {.sec #offer}
-::: {.wrap}
-
-[The Offer]{.eyebrow}
-
-## What this enables for your organization. {.sec-h}
-
-::: {.sec-p}
-This is not another AI workshop.
-
-It is a shift in how professional capability is developed.
-:::
-
-::: {.hubs}
-
-::: {.hub}
-::: {.hub-t}
-Sharper strategy
-:::
-::: {.hub-b}
-Clear arguments and outcomes, not generated volume.
-:::
-:::
-
-::: {.hub}
-::: {.hub-t}
-Organizational integrity
-:::
-::: {.hub-b}
-Defined human oversight in AI-supported work.
-:::
-:::
-
-::: {.hub}
-::: {.hub-t}
-Leadership alignment
-:::
-::: {.hub-b}
-Shared understanding of AI’s role in management and review.
-:::
-:::
-
-::: {.hub}
-::: {.hub-t}
-Future-ready teams
-:::
-::: {.hub-b}
-Professionals who can operate effectively in agentic environments.
-:::
-:::
-
-::: {.hub}
-::: {.hub-t}
-Evaluation frameworks
-:::
-::: {.hub-b}
-Providing leaders with rubrics for AI-integrated workflows.
-:::
-:::
-
-:::
-
-:::
-:::
-
----
-
-::: {.sec #contact}
-::: {.cta-inner}
-
-## If this matters to your organization, we should talk. {.sec-h}
-
-::: {.sec-p}
-AI is already in your team's workflow.
-
-The question is whether they are executing tasks, or orchestrating outcomes.
-:::
-
-[Request Workshop Details](mailto:contact@spottedape.com){.btn-p}
-
-:::
-:::
+```{=html}
+<link rel="stylesheet" href="/site-components/main.css">
+<div id="spotted-ape-home" class="sa-home">
+	<section class="sa-hero" aria-labelledby="home-title">
+		<div class="sa-hero-inner">
+			<p class="sa-kicker">The Spotted Ape / Strategy &amp; learning lab</p>
+			<h1 id="home-title" class="hero-title">If AI does the work,<br>what are <em>you</em> doing?</h1>
+			<div class="sa-hero-bottom">
+				<div>
+					<p class="sa-hero-copy">We help leadership teams make consequential choices, test what would have to be true, and build the capabilities to act.</p>
+					<div class="sa-hero-actions">
+						<a class="sa-button sa-button-primary" href="#sa-workshops">Explore the workshops <span aria-hidden="true">↘</span></a>
+						<a class="sa-button" href="#sa-needs">Identify your need <span aria-hidden="true">↓</span></a>
+					</div>
+				</div>
+				<p class="sa-hero-note">STRATEGY AS CHOICE<br>ORGANISATIONAL LEARNING<br>HUMAN JUDGMENT</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="sa-needs" class="sa-section" aria-labelledby="needs-heading">
+		<div class="sa-wrap">
+			<header class="sa-section-head">
+				<p class="sa-section-number">01 / Identify your need</p>
+				<div>
+					<h2 id="needs-heading">Where is the organisation getting stuck?</h2>
+					<p class="sa-section-intro">Choose the pattern closest to the work. This navigator is a starting point for a conversation, not a scored or validated diagnosis.</p>
+				</div>
+			</header>
+			<div id="needs-matrix-app">
+				<ul class="sa-needs-grid" aria-label="Organisational challenges">
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-choice-cascade"><span class="sa-need-top"><span>01</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">The Planning Trap</span><span class="sa-need-symptom">Plans list initiatives, but the leadership team cannot say where it will play or how it will win.</span></a></li>
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-knowledge-flows"><span class="sa-need-top"><span>02</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">Knowledge Stock Collapse</span><span class="sa-need-symptom">Useful expertise is stored across repositories, but does not reach changing work.</span></a></li>
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-knowledge-flows"><span class="sa-need-top"><span>03</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">Tacit Knowledge Silos</span><span class="sa-need-symptom">A few practitioners carry know-how that colleagues cannot learn from a document alone.</span></a></li>
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-blended-studio"><span class="sa-need-top"><span>04</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">Analytical Paralysis</span><span class="sa-need-symptom">Analysis expands while the choice, assumptions and next useful test stay unclear.</span></a></li>
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-blended-studio"><span class="sa-need-top"><span>05</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">The Innovation Disconnect</span><span class="sa-need-symptom">Experiments produce activity, but do not inform a strategic choice or build capability.</span></a></li>
+					<li class="sa-need-cell"><a class="sa-need" href="#offer-executive-offsites"><span class="sa-need-top"><span>06</span><span aria-hidden="true">↗</span></span><span class="sa-need-title">Executive Alignment</span><span class="sa-need-symptom">Leaders share an ambition but hold different assumptions about trade-offs and capabilities.</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section id="sa-workshops" class="sa-section sa-section-dark" aria-labelledby="workshops-heading">
+		<div class="sa-wrap">
+			<header class="sa-section-head">
+				<p class="sa-section-number">02 / The workshop catalogue</p>
+				<div>
+					<h2 id="workshops-heading">Make a choice.<br>Learn how to act.</h2>
+					<p class="sa-section-intro">Four ways to work on strategic direction, organisational learning and the capabilities those choices require.</p>
+				</div>
+			</header>
+			<div class="sa-workshop-list">
+				<article id="offer-choice-cascade" class="sa-workshop-module">
+					<span class="sa-workshop-index">01</span>
+					<div><h3>Strategic Choice Cascade Sprint</h3><a class="sa-module-link" href="/workshops/#choice-cascade">Full workshop details <span aria-hidden="true">↗</span></a></div>
+					<div><p>Make aspiration, where to play, how to win, capabilities and management systems explicit. Stress-test the assumptions behind an integrated strategy.</p><span class="sa-workshop-output">Working output / One-page choice cascade</span></div>
+				</article>
+				<article id="offer-knowledge-flows" class="sa-workshop-module">
+					<span class="sa-workshop-index">02</span>
+					<div><h3>Scalable Learning &amp; Knowledge Flows Lab</h3><a class="sa-module-link" href="/workshops/#knowledge-flows">Full workshop details <span aria-hidden="true">↗</span></a></div>
+					<div><p>Map codified and tacit knowledge, the relationships through which it moves, and the conditions teams need to learn through work.</p><span class="sa-workshop-output">Working output / Learning and knowledge-flow blueprint</span></div>
+				</article>
+				<article id="offer-blended-studio" class="sa-workshop-module">
+					<span class="sa-workshop-index">03</span>
+					<div><h3>Blended Epistemology Studio</h3><a class="sa-module-link" href="/workshops/#blended-studio">Full workshop details <span aria-hidden="true">↗</span></a></div>
+					<div><p>Move between knowing, making and playing to reframe a strategic question, create scenarios and test what might be true.</p><span class="sa-workshop-output">Working output / Hypotheses, prototypes and tests</span></div>
+				</article>
+				<article id="offer-executive-offsites" class="sa-workshop-module">
+					<span class="sa-workshop-index">04</span>
+					<div><h3>Executive Offsites &amp; Custom Masterclasses</h3><a class="sa-module-link" href="/workshops/#custom-offsites">Full workshop details <span aria-hidden="true">↗</span></a></div>
+					<div><p>Combine modules around an executive decision, competing assumptions or an organisational capability question.</p><span class="sa-workshop-output">Working output / Scoped to the decision</span></div>
+				</article>
+			</div>
+		</div>
+	</section>
+
+	<section class="sa-section sa-section-dark" aria-labelledby="masterclass-heading">
+		<div class="sa-wrap">
+			<header class="sa-section-head">
+				<p class="sa-section-number">03 / One-day masterclass</p>
+				<div>
+					<h2 id="masterclass-heading">A day built for decisions, not slide marathons.</h2>
+					<p class="sa-section-intro">An illustrative executive sequence: strategic framing, hypothesis testing, learning flows and a concrete synthesis. Timing and delivery are confirmed during scoping.</p>
+				</div>
+			</header>
+			<div id="masterclass-timeline-app">
+				<ol class="sa-schedule-fallback" aria-label="Illustrative masterclass schedule">
+					<li><strong>08:45–09:00 · K</strong> Arrival and strategic question</li>
+					<li><strong>09:00–09:30 · K</strong> The choice cascade</li>
+					<li><strong>09:30–10:15 · S</strong> Where to play, and where not to play</li>
+					<li><strong>10:15–10:30 · Break</strong> Coffee</li>
+					<li><strong>10:30–11:15 · W</strong> What would have to be true?</li>
+					<li><strong>11:15–12:00 · S/W</strong> The Judging Hat</li>
+					<li><strong>12:00–13:00 · Break</strong> Lunch</li>
+					<li><strong>13:00–13:45 · K</strong> Knowledge stocks and flows</li>
+					<li><strong>13:45–14:45 · S</strong> Designing a creation space</li>
+					<li><strong>14:45–15:00 · Break</strong> Afternoon reset</li>
+					<li><strong>15:00–16:00 · W</strong> Executive choice synthesis</li>
+				</ol>
+			</div>
+			<p class="sa-source-note">K = Knowledge · S = Skills · W = Wisdom. This indicative schedule is adapted to the audience, work and delivery context. Breaks and activity rhythm are designed for the session rather than treated as universal rules.</p>
+		</div>
+	</section>
+
+	<section class="sa-section" aria-labelledby="method-heading">
+		<div class="sa-wrap sa-final-cta">
+			<div>
+				<p class="sa-section-number">04 / Method</p>
+				<h2 id="method-heading">Strategy chooses.<br>Learning builds capability.<br>Judgment holds the line.</h2>
+				<p class="sa-section-intro">Martin's choice cascade, Brown's learning ecologies and disciplined executive learning connect through the decisions people make, test and remain accountable for.</p>
+				<a class="sa-module-link" href="/methodology/">Read the methodology <span aria-hidden="true">↗</span></a>
+			</div>
+			<a class="sa-button sa-button-primary" href="/contact/">Discuss a strategic challenge <span aria-hidden="true">↗</span></a>
+		</div>
+	</section>
+</div>
+<script type="module" src="/site-components/main.js"></script>
+```

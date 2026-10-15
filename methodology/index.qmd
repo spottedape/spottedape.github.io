@@ -1,0 +1,158 @@
+---
+title: "Methodology"
+description: "How strategic choice, organisational learning and human judgment come together in practical executive workshops."
+---
+
+::: {.page-head .wrap}
+
+[The Spotted Ape]{.eyebrow}
+
+# How the work fits together
+
+Strategy identifies the choices an organisation must make. Learning develops the capability to act on them. Judgment tests whether the choices and their consequences remain sound.
+
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[01 / Strategy as choice]{.eyebrow}
+
+## A plan records activity. Strategy makes choices. {.sec-h}
+
+A strategy is an integrated set of choices made under uncertainty. It begins with an aspiration, then makes explicit where the organisation will play and how it intends to win there. Those choices imply capabilities the organisation must build and management systems that support them.
+
+The cascade matters because its parts constrain one another. A new ambition without a choice of arena is difficult to act on. An arena without a distinctive way to win can become a market description. A proposed advantage without the capability and operating conditions to sustain it remains an assertion.
+
+We help teams make these links visible, including the choices they will not pursue. Analysis informs the choices; it does not remove the responsibility to make them.
+
+[Explore the Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade){.text-link}
+
+:::
+:::
+
+::: {.sec .dark}
+::: {.wrap}
+
+[02 / Design and inquiry]{.eyebrow}
+
+## Use evidence to make uncertainty workable. {.sec-h}
+
+Strategic questions rarely arrive as problems with a single known answer. Design thinking helps teams move between understanding a situation, framing a consequential problem, generating alternatives and learning from tests. It keeps attention on the people, systems and conditions that shape whether a choice can work.
+
+Deductive reasoning asks what follows from stated premises. Inductive reasoning looks for patterns in observations. Abductive reasoning asks what might explain what is happening, or what could plausibly work. It creates hypotheses, not proof. A hypothesis becomes useful when the team names what would have to be true and what evidence or experiment could challenge it.
+
+The practical aim is not endless ideation. It is to turn uncertain assumptions into questions that can change a decision.
+
+:::
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[03 / Organisational learning]{.eyebrow}
+
+## Knowledge must travel into practice. {.sec-h}
+
+Documents, procedures and repositories preserve knowledge. They are useful stocks, but a stock is not the same as the ability to apply, adapt or question what is stored. Some important knowledge is tacit: people develop it through participation, observation, adjustment and work with others.
+
+Learning therefore depends on flows as well as storage. Who can reach whom? Where can a practitioner show how a decision is made? What recurring work allows another person to try, receive feedback and improve? What happens when an experiment reveals that an established assumption no longer fits?
+
+Communities of practice and creation spaces can make such exchange possible. They need a real problem, access to relevant people and resources, room to make and test, and a path back to decisions and operating practice. They are not simply new names for training rooms or repositories.
+
+[Explore the Scalable Learning & Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+
+:::
+:::
+
+::: {.sec .dark}
+::: {.wrap}
+
+[04 / Knowing, making, playing]{.eyebrow}
+
+## A different way to learn can reveal a different problem. {.sec-h}
+
+John Seely Brown's account of learning makes room for three complementary modes. **Knowing** brings concepts, evidence and experience into view. **Making** gives an idea a form that can be examined. **Playing** makes it possible to try a variation, change perspective and reframe the question.
+
+In a strategy setting, a team might first describe what it believes about customers and competition; sketch a different way to create value; then use a scenario to test how a customer, competitor or colleague might respond. The sketch is not a forecast. It is a concrete hypothesis the team can discuss, revise or set aside.
+
+This sequence can open a new problem space without treating play as an end in itself. Each activity should inform a strategic question or a capability the organisation needs to develop.
+
+[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+
+:::
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[05 / Designed executive learning]{.eyebrow}
+
+## The learning design is part of the intervention. {.sec-h}
+
+Before selecting activities, we need to understand who is in the room, what they already know, which decisions they can influence and what they need to do afterwards. Learning outcomes should be specific enough to guide both the session and its tangible outputs.
+
+We distinguish three kinds of outcome:
+
+::: {.editorial-grid}
+::: {.observation}
+### Knowledge
+What participants need to understand: a strategic concept, the evidence available, or the structure of a decision.
+:::
+::: {.observation}
+### Skills
+What participants need to practise: mapping choices, articulating assumptions, prototyping a scenario or tracing knowledge through work.
+:::
+::: {.observation}
+### Wisdom
+What participants need to judge: which evidence is sufficient, what uncertainty to accept, what to test next and who remains accountable.
+:::
+:::
+
+The format follows the outcome. A short explanation can introduce a concept; participants then apply it to a live or representative problem. A scenario can ask them to judge a choice from another stakeholder's position. Discussion and critique make reasoning visible. Breaks and changes of activity are planned around the audience and the work, not a claimed universal minute-by-minute rule.
+
+Participants should leave with a useful working artifact: for example, an integrated choice cascade, a hypothesis-and-test map, a knowledge-flow blueprint, a scenario prototype or explicit decision rights. It is a basis for further work, not a guarantee that an organisation will implement it.
+
+:::
+:::
+
+::: {.sec .dark}
+::: {.wrap}
+
+[06 / From choice to action]{.eyebrow}
+
+## One connected working sequence. {.sec-h}
+
+<ol class="process">
+<li><b>Frame the decision</b><span>Agree the organisational question, participants, evidence and boundaries.</span></li>
+<li><b>Make choices explicit</b><span>Describe the aspiration, arena, way to win, capabilities and enabling systems.</span></li>
+<li><b>Surface assumptions</b><span>Ask what would have to be true and what could change the team's view.</span></li>
+<li><b>Make and test</b><span>Use a scenario, prototype or work-based activity to examine a hypothesis.</span></li>
+<li><b>Design for learning</b><span>Identify the knowledge, practice and relationships needed to develop capability.</span></li>
+<li><b>Decide and review</b><span>Record the choice, unresolved questions, owners and a proportionate next test.</span></li>
+</ol>
+
+The sequence is adapted to the work. A team may return to an earlier choice when new evidence changes the problem; the sequence is a guide for inquiry, not a maturity scale.
+
+:::
+:::
+
+::: {.sec}
+::: {.wrap}
+
+[Judgment and responsibility]{.eyebrow}
+
+## Tools can contribute. People still own consequential choices. {.sec-h}
+
+AI can alter how quickly teams generate options, analyse information and produce work. That makes the purpose, evidence threshold, decision rights and learning consequences more important to specify. Where a system recommends or acts, a useful design asks who can inspect it, challenge it, stop it and remain accountable for the outcome.
+
+This concern connects the strategic and learning work to The Spotted Ape's existing interest in human judgment, agency and organisational integrity. It is relevant where AI is changing work, but it does not require every strategy or learning problem to be framed as an AI problem.
+
+The practice draws on ideas associated with Roger Martin, John Seely Brown, and Fitzpatrick & Hunt. These are intellectual foundations, not partnerships, endorsements or proprietary frameworks of The Spotted Ape.
+
+[Read the thinking behind the practice](/thinking/index.qmd){.text-link}
+
+[Discuss a strategic or learning challenge](/contact/index.qmd){.btn-p}
+
+:::
+:::

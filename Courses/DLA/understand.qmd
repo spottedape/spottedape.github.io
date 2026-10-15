@@ -1,0 +1,181 @@
+---
+title: "01 · Understand"
+description: "Cape Manufacturing solar investment case - Establish an understanding of the problem"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+{{< include includes/_spotted-ape-branding-course.html >}}
+
+{{< include includes/_embed-utility.qmd >}}
+
+{{< include includes/_course-progress.qmd >}}
+
+:::::: {.case-study aria-label="Cape Manufacturing case study: The proposals arrive"}
+::: case-study-label
+Case study · Cape Manufacturing · The proposals arrive
+:::
+
+You have accepted the brief. The suppliers offer different combinations of installed cost, generation and self-consumption. In this case, electricity the factory cannot use when it is generated earns no revenue.
+
+::::: case-message
+::: {.case-avatar aria-hidden="true"}
+FD
+:::
+
+:::: case-message-body
+::: case-meta
+Monday 09:00 · Financial Director
+:::
+
+## First, establish what we are buying—and what we can use.
+
+Check the proposal data before calculating. A larger system produces more electricity, but how much of that output will actually reduce our grid purchases?
+::::
+:::::
+::::::
+
+:::: {#before-you-open-the-spreadsheet .interactive}
+## Before you open the spreadsheet …
+
+Which measure would you inspect first if you had to advise the Financial Director?
+
+{{< include includes/_understand-prediction-input.qmd >}}
+
+::: {#prediction-status .small-note}
+Your choice is saved automatically on this device. You will revisit it on Reflect.
+:::
+::::
+
+::: page-visual
+![](assets/02_proposals_comparison.png){fig-alt="Three-proposal visual comparison"}
+:::
+
+::::: obe
+::: obe-head
+Stage outcome and evidence
+:::
+
+::: obe-body
+**Outcome for this stage:** After completing this stage, you should be able to **interpret the case data and explain how self-consumption affects the economic value of solar generation**.
+
+**Evidence:** your prediction response and concept-check explanation.
+:::
+:::::
+
+:::: course-context
+::: label
+Course guidance · interpret the inputs
+:::
+
+## Price is only one part of the decision
+
+A larger PV system can generate more electricity, but Cape Manufacturing only saves money on solar electricity it can use when it is produced. This makes **self-consumption** the bridge between technical output and economic value.
+
+If a system generates 100 kWh while the factory can use only 80 kWh, its self-consumption is 80%. In this simplified case, unused generation has no economic value.
+::::
+
+| Proposal           | A          | B           | C           |
+|--------------------|------------|-------------|-------------|
+| Installed cost     | R650,000   | R820,000    | R990,000    |
+| System size        | 60 kWp     | 80 kWp      | 100 kWp     |
+| Year-1 generation  | 92,000 kWh | 121,000 kWh | 147,000 kWh |
+| Self-consumption   | 90%        | 85%         | 78%         |
+| Year-1 maintenance | R9,000     | R11,000     | R14,000     |
+
+:::: excel
+::: label
+Excel instruction · read cells, do not calculate yet
+:::
+
+### Use the Case Data sheet as your source of truth
+
+1.  Click the **Case Data** sheet.
+2.  Economic assumptions are in `A3:E9`{.cell}. Click `B4`{.cell}: the Formula Bar should show **2.8**, the tariff in R/kWh.
+3.  Proposal inputs are in `A12:F17`{.cell}. System A is column `B`{.cell}, B is `C`{.cell}, C is `D`{.cell}.
+4.  Click `D15`{.cell} (147,000 kWh) and then `D16`{.cell} (78%). Note that the cell address changes in the Name Box.
+
+**Useful habit:** never retype an input elsewhere if a formula can reference the original cell. This improves auditability and reduces inconsistent assumptions.
+::::
+
+## Check your understanding
+
+Which system generates the most electricity, and which has the highest self-consumption? Explain why neither fact alone identifies the best investment.
+
+<details>
+<summary>Check your answer</summary>
+
+System C has the highest gross generation (147,000 kWh). System A has the highest self-consumption (90%). Those facts do not, by themselves, identify the best investment.
+
+</details>
+
+::::::: platform-note
+::: label
+Microsoft Excel · same task
+:::
+
+::::: platform-grid
+::: platform
+**Excel** Use the sheet tabs at the bottom. Click a cell and read its address in the **Name Box**; read/edit the formula in the **Formula Bar**.
+:::
+
+::: platform
+**Google Sheets compatibility** Use the sheet tabs at the bottom. Click a cell and read its address in the **Name box** at the left of the formula bar; read/edit the formula in the formula bar.
+:::
+:::::
+
+:::::::
+
+::: output
+**Completed:** interpreted proposal inputs and recorded your initial judgement.
+:::
+
+::: next
+**Next:** learn the few Excel moves needed to build the model confidently.
+:::
+
+<details class="glossary-card">
+<summary>Glossary &amp; further reading <span class="glossary-hint">· optional</span></summary>
+
+Photovoltaic (PV)
+:   Technology that converts sunlight into electricity, as used in the proposed rooftop solar panels.
+
+kW and kWp
+:   A kilowatt (kW) measures power: the rate of producing or using energy. Kilowatt-peak (kWp) states a solar array’s rated power under standard test conditions, not its guaranteed output at all times.
+
+Kilowatt-hour (kWh)
+:   A unit of energy: 1 kWh is the energy produced or used at a steady power of 1 kW for one hour. It measures an amount over time, unlike kW or kWp.
+
+Year-1 generation
+:   The total electricity expected from the system in its first year, measured in kWh. Only the portion the factory can use when generated reduces grid purchases in this case.
+
+Self-consumption
+:   The proportion of solar electricity Cape Manufacturing uses itself when it is generated, rather than exporting or wasting it. Higher self-consumption generally increases savings in this model.
+
+Electricity tariff
+:   The price charged for electricity; this model uses a single assumed rand amount per kWh of grid electricity avoided. Real South African bills can include other charges.
+
+Installed cost
+:   The upfront amount for purchasing and installing the solar system. Annual maintenance is a separate cost in the case data.
+
+Auditability
+:   The ability to trace a result back through its formulas to the original inputs, so someone else can check it.
+
+::: glossary-reading
+**Further reading**
+
+- **City of Cape Town — Going solar**\
+  Local guidance on solar photovoltaic generation and reducing grid electricity purchases.\
+  [Read the resource ↗](https://www.capetown.gov.za/solarpv){target="_blank" rel="noopener" aria-label="Read City of Cape Town — Going solar (opens in a new tab)"}
+
+- **Eskom — Tariffs and charges**\
+  South African tariff categories and links to pricing documents; the course tariff remains an illustrative assumption.\
+  [Read the resource ↗](https://www.eskom.co.za/distribution/tariffs-and-charges/){target="_blank" rel="noopener" aria-label="Read Eskom — Tariffs and charges (opens in a new tab)"}
+
+:::
+
+</details>
+
+{{< include includes/_course-page-nav.qmd >}}

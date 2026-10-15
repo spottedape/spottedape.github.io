@@ -1,1 +1,1 @@
-Sitemap: https://spottedape.github.io/sitemap.xml
+Sitemap: https://thespottedape.com/sitemap.xml

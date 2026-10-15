@@ -41,9 +41,9 @@ table { font-size:.94rem; }
 
 /* V8 — iframe-first shell */
 html { scroll-behavior:smooth; background:#fff; }
-body { margin:0; }
+body { margin:0; position:relative; }
 #quarto-header, #quarto-search, .navbar, footer.footer, #quarto-margin-sidebar, .quarto-title-breadcrumbs { display:none!important; }
-#quarto-content { padding:0!important; }
+#quarto-content { padding:54px 0 0!important; }
 main.content { max-width:var(--max)!important; margin:0 auto!important; padding:14px 18px 34px!important; }
 .quarto-title-block { margin:0 0 .6rem!important; }
 .quarto-title-block .quarto-title-banner { padding:0!important; background:transparent!important; }
@@ -188,8 +188,73 @@ th,td { overflow-wrap:anywhere; }
  table { font-size:.8rem; }
 }
 
-.course-start #title-block-header { display:none; }
+body:has(.hero) #title-block-header { display:none!important; }
 .case-study h2 { border:0; padding-bottom:0; }
+
+.spotted-ape-brand {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  z-index:1000;
+  background:#101112;
+  border-bottom:2px solid #d4ff00;
+  color:#ece9e1;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+.spotted-ape-brand__inner {
+  width:min(100%,1040px);
+  min-height:46px;
+  margin:0 auto;
+  padding:0 24px;
+  display:flex;
+  align-items:center;
+}
+.spotted-ape-brand ol {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  list-style:none;
+  margin:0;
+  padding:3px 0;
+}
+.spotted-ape-brand li {
+  display:inline-flex;
+  align-items:center;
+  min-height:38px;
+  font-size:.69rem;
+  font-weight:650;
+}
+.spotted-ape-brand li+li::before {
+  content:"/";
+  color:#d4ff00;
+  margin:0 10px;
+}
+.spotted-ape-brand a {
+  display:inline-flex;
+  min-height:44px;
+  align-items:center;
+  color:inherit;
+  text-decoration:none;
+}
+.spotted-ape-brand__course-current { display:inline-flex; min-height:44px; align-items:center; }
+.spotted-ape-brand__course-link { display:inline-flex; }
+.spotted-ape-brand__course-current { color:#d4ff00; }
+.spotted-ape-brand a:hover,
+.spotted-ape-brand [aria-current="page"] {
+  color:#d4ff00;
+}
+.spotted-ape-brand a:focus-visible {
+  outline:3px solid #d4ff00;
+  outline-offset:-3px;
+  border-radius:2px;
+}
+@media(max-width:620px) {
+  #quarto-content { padding-top:100px!important; }
+  .spotted-ape-brand__inner { padding-inline:10px; }
+  .spotted-ape-brand li { font-size:.62rem; }
+  .spotted-ape-brand li+li::before { margin-inline:7px; }
+}
 
 /* Optional glossary support; native disclosure also works without JavaScript. */
 details.glossary-card { margin:1.25rem 0; padding:1rem 1.25rem; border-radius:12px; background:var(--soft); }

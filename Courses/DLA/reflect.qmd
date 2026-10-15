@@ -1,0 +1,102 @@
+---
+title: "05 · Reflect"
+description: "Cape Manufacturing solar investment case — Reflect on your learning and the investment decision"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+{{< include includes/_spotted-ape-branding-course.html >}}
+
+{{< include includes/_embed-utility.qmd >}}
+
+{{< include includes/_course-progress.qmd >}}
+
+:::::: {.case-study aria-label="Cape Manufacturing case study: The debrief"}
+::: case-study-label
+Case study · Cape Manufacturing · The debrief
+:::
+
+The analysis is ready for management review. A recommendation is a proposal for the next step; it does not establish that a contract has been approved or that the supplier assumptions have been verified.
+
+::::: case-message
+::: {.case-avatar aria-hidden="true"}
+FD
+:::
+
+:::: case-message-body
+::: case-meta
+Monday 16:00 · Financial Director
+:::
+
+## What changed your judgement—and what remains uncertain?
+
+Explain how the model and sensitivity test changed your initial view. What would you check next, and what would you carry into our next investment decision?
+::::
+:::::
+::::::
+
+::: {#revisit-your-initial-judgement .state-box}
+## Revisit
+
+Your initial prediction on this device was: **[No saved prediction available.]{#prior-prediction}**
+
+What did you initially think mattered most in choosing between the proposals?
+
+## Explain
+
+Which result, assumption or sensitivity finding changed or strengthened your judgement, and why?
+
+## Transfer
+
+Identify another business investment decision where you could use the same pattern:
+
+**Inputs → Model → Test assumptions → Interpret → Recommend**
+
+{{< include includes/_reflect-reflection-input.qmd >}}
+:::
+
+::: {#reference-model-after-completion .course-card}
+## Reference model — after completion
+
+Use the completed model only after you have built, tested and checked your own work. Compare formulas and reasoning; do not replace your work with the reference values.
+
+[Download completed reference workbook](downloads/SU_DLA_Solar_Completed_Reference_Workbook_V8.xlsx){.course-button .alt download=""}
+:::
+
+::: next
+**Completed:** built evidence, tested assumptions and communicated a qualified recommendation. Carry this analytical pattern into your next investment decision.
+:::
+
+<details class="glossary-card">
+<summary>Glossary &amp; further reading <span class="glossary-hint">· optional</span></summary>
+
+Reflection
+:   Examining how evidence and experience changed your reasoning, and what you would do differently next time. Here, connect your initial view to a specific model result or sensitivity finding.
+
+Transfer of learning
+:   Applying a method learned in one setting to a different problem. The inputs-to-recommendation pattern can support another investment decision, with assumptions adapted to that case.
+
+Assumption
+:   An input or condition accepted for modelling purposes that may still need verification. A calculation based on it does not turn it into verified evidence.
+
+Qualified recommendation
+:   Advice that states the conditions or uncertainties affecting it, such as verifying self-consumption before committing. It supports a decision without claiming that approval or verification has already occurred.
+
+::: glossary-reading
+**Further reading**
+
+- **University of Edinburgh — What? So what? Now what?**\
+  A short framework for interpreting an experience and applying the learning in future.\
+  [Read the resource ↗](https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience/what-so-what-now-what){target="_blank" rel="noopener" aria-label="Read University of Edinburgh — What? So what? Now what? (opens in a new tab)"}
+
+- **University of Edinburgh — Revisiting reflections**\
+  How returning to earlier reflections can reveal changes in understanding.\
+  [Read the resource ↗](https://reflection.ed.ac.uk/reflectors-toolkit/producing-reflections/revisit-reflections){target="_blank" rel="noopener" aria-label="Read University of Edinburgh — Revisiting reflections (opens in a new tab)"}
+
+:::
+
+</details>
+
+{{< include includes/_course-page-nav.qmd >}}
