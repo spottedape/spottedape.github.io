@@ -18,7 +18,7 @@ csl: ieee.csl
 ### Academic Papers, Publications & Reports
 
 ::: {.column-margin}
-![A phase-based behavioural design framework was successfully designed, implemented and assessed to effectively explore and modify cookstove-related behaviours.](../images/Fig_BCD.jpg){#fig-bcd fig-alt="A diagram of the phase-based Behaviour Centred Design framework."}
+![Application of Behaviour Centred Design to a cookstove intervention in South Africa.](../images/Fig_BCD.jpg){#fig-bcd fig-alt="A diagram of the phase-based Behaviour Centred Design framework."}
 
 ![Investigated customer preferences for improved flame-based cookstove features in South Africa.](../images/Fig_Mamelodi.jpg){#fig-mamelodi fig-alt="Research into cookstove preferences in Mamelodi, South Africa."}
 :::

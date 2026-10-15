@@ -161,7 +161,7 @@ Skip to content
 <li><strong>Context:</strong> Wellness application development</li>
 <li><strong>Core Problem:</strong> Effectively integrating visual design principles into a platform to promote and sustain positive behaviour change.</li>
 </ul>
-<p><strong>Outcome:</strong> Designed and implemented a personalized user experience based on user research and feedback analysis, resulting in measurable increases in user engagement.</p>
+<p><strong>Outcome:</strong> Designed and implemented a personalised user experience informed by user research and feedback.</p>
 <h3 id="strategic-context" class="anchored">2. Strategic Context</h3>
 <p>The Momentum Recharge project focused on the intersection of visual communication and wellness. The primary goal was to create a digital environment that didn’t just track data, but actively encouraged healthy habits through:</p>
 <ul>
@@ -180,23 +180,23 @@ Skip to content
 <p>The research phase aimed to understand how users perceive wellness metrics and what visual cues most effectively trigger positive action.</p>
 <h3 id="key-insights" class="anchored">4. Key Insights</h3>
 <ol type="1">
-<li><strong>Personalization is Paramount:</strong> Users are more likely to engage with wellness tools when the experience feels tailored to their specific lifestyle.</li>
+<li><strong>Personalisation is Paramount:</strong> Users are more likely to engage with wellness tools when the experience feels tailored to their specific lifestyle.</li>
 <li><strong>Visual Clarity Drives Action:</strong> Complex data must be translated into intuitive visual design to prevent cognitive overwhelm.</li>
 <li><strong>Feedback Loops:</strong> Real-time feedback, aligned with user preferences, significantly boosts the perceived value of the application.</li>
 </ol>
 <h3 id="intervention-design" class="anchored">5. Intervention Design</h3>
-<p>Based on research findings, the application was customized through several key design pillars:</p>
+<p>Based on research findings, the application was customised through several key design pillars:</p>
 <ul>
-<li><strong>Identity-Aligned UX:</strong> Creating a personalized interface that reflects the user’s wellness journey.</li>
+<li><strong>Identity-Aligned UX:</strong> Creating a personalised interface that reflects the user’s wellness journey.</li>
 <li><strong>Behavioural Visuals:</strong> Using design principles to highlight progress and nudge healthy choices.</li>
-<li><strong>Data-Driven Customization:</strong> Adjusting the application’s flow based on feedback analysis to ensure a high level of user-product fit.</li>
+<li><strong>Data-Driven Customisation:</strong> Adjusting the application’s flow based on feedback analysis to ensure a high level of user-product fit.</li>
 </ul>
 <h3 id="impact-evidence" class="anchored">6. Impact &amp; Evidence</h3>
-<p>The implementation of these behavioural and design strategies led to several key outcomes:</p>
+<p>The implementation focused on the following intended outcomes:</p>
 <ul>
-<li><strong>Increased User Engagement:</strong> Higher daily active usage and longer session durations.</li>
-<li><strong>Improved User Satisfaction:</strong> Positive qualitative feedback regarding the personalized nature of the application.</li>
-<li><strong>Enhanced Data Interaction:</strong> Clearer data visualisation led to more frequent user interaction with wellness metrics.</li>
+<li><strong>Increased User Engagement:</strong> Support regular use through an interface informed by user research.</li>
+<li><strong>Improved User Satisfaction:</strong> Positive qualitative feedback regarding the personalised nature of the application.</li>
+<li><strong>Enhanced Data Interaction:</strong> Make wellness metrics easier to interpret and use through clearer data visualisation.</li>
 </ul>
 <h3 id="strategic-value-transferability" class="anchored">7. Strategic Value &amp; Transferability</h3>
 <p>This project demonstrates the value of merging UX research with behavioural design to solve engagement challenges in the health-tech sector. It is highly transferable to:</p>
@@ -235,7 +235,7 @@ Skip to content
 <li><strong>Context:</strong> Public health crisis involving low medication adherence</li>
 </ul>
 <p><strong>Core Problem:</strong> High rates of HIV risk paired with low adherence to life-saving antiretroviral (ARV) medication and pre-exposure prophylaxis (PrEP) among vulnerable youth populations.</p>
-<p><strong>Outcome:</strong> Developed a multi-channel behavioural journey that successfully improved adherence rates by aligning communication “nudges” with the core motivations of the target demographic.</p>
+<p><strong>Outcome:</strong> Developed a multi-channel behavioural journey that aimed to support adherence by linking communication to participants’ motivations.</p>
 <h3 id="strategic-context" class="anchored">2. Strategic Context</h3>
 <p>In the fight against HIV, the availability of medication (ARVs and PrEP) is only half the battle. For adolescent girls and young women, the barriers to consistent usage are often non-clinical, including:</p>
 <ul>
@@ -259,14 +259,14 @@ Skip to content
 <li><strong>Personalised Reminders:</strong> Direct-to-user nudges that felt supportive rather than clinical, helping to overcome the “forgetting” barrier.</li>
 </ul>
 <h3 id="impact-evidence" class="anchored">5. Impact &amp; Evidence</h3>
-<p>The project successfully shifted the needle on adherence through:</p>
+<p>The project supported adherence through the following activities and intended outcomes:</p>
 <ul>
-<li><strong>Improved Adherence Rates:</strong> Measurable increase in consistent ARV and PrEP usage among the target cohort.</li>
+<li><strong>Supporting Consistent Use:</strong> The intervention aimed to support consistent ARV and PrEP use through communication linked to participants’ motivations.</li>
 <li><strong>Enhanced Motivation:</strong> Qualitative feedback indicated that users felt more empowered and less “policed” regarding their health choices.</li>
 <li><strong>Optimised Communication:</strong> Evidence-based refinement of which messages resonated most with AGYW.</li>
 </ul>
 <h3 id="strategic-value-transferability" class="anchored">6. Strategic Value &amp; Transferability</h3>
-<p>This project illustrates the power of <strong>Behavioural Design</strong> in a public health context. The framework of mapping “touchpoints to motivations” is highly transferable to:</p>
+<p>This project illustrates the power of <strong>Behavioural Design</strong> in a public health context. Linking communication touchpoints to participants’ motivations may also inform work in:</p>
 <ul>
 <li><strong>Chronic Disease Management:</strong> Improving long-term adherence for diabetes or hypertension.</li>
 <li><strong>Preventative Health:</strong> Encouraging vaccination uptake or regular screenings.</li>
@@ -335,7 +335,7 @@ Skip to content
 <ol type="1">
 <li><strong>Normalisation of Risk:</strong> Health dangers were acknowledged but behaviourally discounted.</li>
 <li><strong>Social Proof Dominance:</strong> Adoption decisions were strongly influenced by visible community norms.</li>
-<li><strong>Aspirational Identity Leverage:</strong> Participants responded better to narratives of capability and pride than to fear.</li>
+<li><strong>Capability and Pride:</strong> Participants responded better to narratives of capability and pride than to fear.</li>
 <li><strong>Demonstration Over Instruction:</strong> Hands-on experience produced stronger engagement than informational campaigns.</li>
 </ol>
 <h3 id="intervention-design" class="anchored">5. Intervention Design</h3>
@@ -394,7 +394,7 @@ Skip to content
 <li><strong>Target Group:</strong> High-performance coaching staff and athletes</li>
 </ul>
 <p><strong>Core Problem:</strong> The need for a seamless, real-time method to capture and relay athletic performance data to coaching staff during high-stakes competition.</p>
-<p><strong>Outcome:</strong> Designed and implemented a remote real-time digital video production system that enabled immediate performance feedback, significantly enhancing the coaching experience.</p>
+<p><strong>Outcome:</strong> Assisted in the design and implementation of a remote real-time digital video production system that enabled immediate performance feedback.</p>
 <h3 id="strategic-context" class="anchored">2. Strategic Context</h3>
 <p>During major sporting events like the Commonwealth Games, the margin between winning and losing is often found in immediate technical adjustments. Traditional video analysis often suffered from:</p>
 <ul>
@@ -419,9 +419,9 @@ Skip to content
 <li><strong>Tool Creation:</strong> Developed custom digital coaching tools to facilitate on-the-fly performance analysis.</li>
 </ul>
 <h3 id="impact-evidence" class="anchored">5. Impact &amp; Evidence</h3>
-<p>The intervention fundamentally changed how coaching staff interacted with performance data:</p>
+<p>The project supported coaching staff’s use of performance data:</p>
 <ul>
-<li><strong>Revolutionised Coaching Experience:</strong> Enabled “live” tactical adjustments based on instant video playback.</li>
+<li><strong>Coaching Feedback:</strong> Enabled “live” tactical adjustments based on instant video playback.</li>
 <li><strong>Operational Efficiency:</strong> Streamlined the workflow from capture to analysis, removing technical bottlenecks.</li>
 <li><strong>Team Capability:</strong> Successfully upskilled production staff in advanced editing and digital tool usage.</li>
 </ul>
@@ -479,9 +479,9 @@ Skip to content
 <li><strong>UX for Global Audiences:</strong> Ensuring the interface was intuitive for an international demographic with varying levels of digital literacy and different primary languages.</li>
 </ul>
 <h3 id="impact-evidence" class="anchored">4. Impact &amp; Evidence</h3>
-<p>The multimedia intervention delivered significant visibility for the South African pavilion:</p>
+<p>The multimedia work supported the South African pavilion’s presentation:</p>
 <ul>
-<li><strong>Captured Interest:</strong> Successfully drew in expo visitors, increasing dwell time at the South Africa exhibit.</li>
+<li><strong>Captured Interest:</strong> Created multimedia content for visitors to the South African exhibit.</li>
 <li><strong>Effective Showcasing:</strong> High-quality content successfully communicated the breadth of the country’s tourism portfolio.</li>
 <li><strong>Global Recognition:</strong> Contributed to a positive and modernised perception of South Africa as a world-class travel destination.</li>
 </ul>

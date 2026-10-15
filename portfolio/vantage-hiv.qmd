@@ -3,7 +3,7 @@ title: "Vantage HIV"
 subtitle: "Improving ARV and PrEP adherence through a comprehensive behavioural journey."
 date: 2022-11-01
 description: |
-    In the Vantage HIV Project, I assisted in the challenge of low adherence to antiretroviral (ARV) medication and pre-exposure prophylaxis (PrEP) usage among adolescent girls and young women at risk of HIV. I collaborated with the BCA team to create a comprehensive behavioural journey. Touchpoints were linked to key motivations. Through community radio spots, social media messaging, and personalised reminders, the project successfully improved adherence, aligning nudges with specific motivations. This case study illustrates the power of behavioural design in public health, demonstrating how strategic touchpoints can drive meaningful behaviour change in vulnerable populations.
+    In the Vantage HIV Project, I assisted in the challenge of low adherence to antiretroviral (ARV) medication and pre-exposure prophylaxis (PrEP) usage among adolescent girls and young women at risk of HIV. I collaborated with the BCA team to create a comprehensive behavioural journey. Touchpoints were linked to key motivations. Through community radio spots, social media messaging, and personalised reminders, the project aimed to support adherence by linking communication to specific motivations. This case study illustrates the power of behavioural design in public health, demonstrating how strategic touchpoints can drive meaningful behaviour change in vulnerable populations.
 image: /images/proj-vantage-hiv.jpg
 toc: false
 categories: [Behavioural-Design, UX-Research, Healthcare, Social-Impact]
@@ -17,7 +17,7 @@ categories: [Behavioural-Design, UX-Research, Healthcare, Social-Impact]
 
 **Core Problem:** High rates of HIV risk paired with low adherence to life-saving antiretroviral (ARV) medication and pre-exposure prophylaxis (PrEP) among vulnerable youth populations.
 
-**Outcome:** Developed a multi-channel behavioural journey that successfully improved adherence rates by aligning communication "nudges" with the core motivations of the target demographic.
+**Outcome:** Developed a multi-channel behavioural journey that aimed to support adherence by linking communication to participants’ motivations.
 
 ### 2. Strategic Context
 
@@ -47,15 +47,15 @@ The strategy was deployed across multiple channels to meet users where they alre
 
 ### 5. Impact & Evidence
 
-The project successfully shifted the needle on adherence through:
+The project supported adherence through the following activities and intended outcomes:
 
-- **Improved Adherence Rates:** Measurable increase in consistent ARV and PrEP usage among the target cohort.
+- **Supporting Consistent Use:** The intervention aimed to support consistent ARV and PrEP use through communication linked to participants’ motivations.
 - **Enhanced Motivation:** Qualitative feedback indicated that users felt more empowered and less "policed" regarding their health choices.
 - **Optimised Communication:** Evidence-based refinement of which messages resonated most with AGYW.
 
 ### 6. Strategic Value & Transferability
 
-This project illustrates the power of **Behavioural Design** in a public health context. The framework of mapping "touchpoints to motivations" is highly transferable to:
+This project illustrates the power of **Behavioural Design** in a public health context. Linking communication touchpoints to participants’ motivations may also inform work in:
 
 - **Chronic Disease Management:** Improving long-term adherence for diabetes or hypertension.
 - **Preventative Health:** Encouraging vaccination uptake or regular screenings.

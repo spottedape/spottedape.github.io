@@ -1,5 +1,5 @@
 ---
-title: "The !Khairos Framework"
+title: "The !Khairos Capability Progression"
 description: "A progression of professional practice: assisted, structured, orchestrated, agentic and governed."
 ---
 
@@ -7,7 +7,7 @@ description: "A progression of professional practice: assisted, structured, orch
 
 [The Spotted Ape]{.eyebrow}
 
-# The !Khairos Framework
+# The !Khairos Capability Progression {#the-khairos-framework}
 
 Professional capability must remain viable as the conditions of work change.
 
@@ -43,11 +43,11 @@ It also means asking how expertise develops. A task can be efficient to delegate
 
 ### Explorer
 
-**Shift** — From accepting plausible production to inspecting how a judgment was reached.
+**Shift** — From accepting plausible production to inspecting how a judgement was reached.
 
 **Practice** — Compare an output with the brief. Mark evidence, inference, unsupported claims and missing information before accepting it.
 
-**Intended artifact** — An initial Human Agency Map and an annotated work sample.
+**Intended artefact** — An initial Human Agency Map and an annotated work sample.
 
 **Reflection** — Where did fluent wording or confidence stand in for a reason to trust the answer?
 :::
@@ -61,7 +61,7 @@ It also means asking how expertise develops. A task can be efficient to delegate
 
 **Practice** — State purpose, audience, evidence threshold and a stopping rule. Apply the same rubric to alternatives and explain exclusions.
 
-**Intended artifact** — A Judgment Rubric adapted to a recurring task.
+**Intended artefact** — A Judgement Rubric adapted to a recurring task.
 
 **Reflection** — Did I choose the criteria first, or invent them to defend the answer I already preferred?
 :::
@@ -75,7 +75,7 @@ It also means asking how expertise develops. A task can be efficient to delegate
 
 **Practice** — Map decisions, verification, hand-offs and feedback. Test whether each human intervention is possible and meaningful.
 
-**Intended artifact** — An Agentic Workflow Blueprint.
+**Intended artefact** — An Agentic Workflow Blueprint.
 
 **Reflection** — Where did a convenient default become a decision? Whose attention or learning does the workflow depend on?
 :::
@@ -89,9 +89,9 @@ It also means asking how expertise develops. A task can be efficient to delegate
 
 **Practice** — Define what may be recommended or executed, the required evidence, override rights and conditions for stopping or escalation. Rehearse a failure.
 
-**Intended artifact** — A Decision Rights Map linked to the blueprint.
+**Intended artefact** — A Decision Rights Map linked to the blueprint.
 
-**Reflection** — Am I delegating a task, a judgment or responsibility? Would someone else recognise the distinction?
+**Reflection** — Am I delegating a task, a judgement or responsibility? Would someone else recognise the distinction?
 :::
 
 ::: {.stage}
@@ -103,7 +103,7 @@ It also means asking how expertise develops. A task can be efficient to delegate
 
 **Practice** — Review decisions and consequences over time. Revise boundaries, escalation and learning practices when the evidence warrants it.
 
-**Intended artifact** — Revised maps and rubric, with a record of decisions, exceptions and review.
+**Intended artefact** — Revised maps and rubric, with a record of decisions, exceptions and review.
 
 **Reflection** — What is the team no longer practising? Are our incentives making meaningful scrutiny harder?
 :::

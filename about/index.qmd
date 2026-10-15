@@ -46,7 +46,7 @@ These strands provide the provenance for the current work. An available tool doe
 
 ## Connecting strategic choices to organisational learning. {.sec-h}
 
-The Spotted Ape helps leadership teams make choices under uncertainty and examine the capabilities and knowledge flows those choices require. Behavioural and design questions remain central: how people interpret evidence, where a default substitutes for a decision, how expertise develops and how a workflow shapes responsibility.
+The Spotted Ape helps leadership teams make decisions under uncertainty and develop the capabilities to act. We combine behavioural design, strategic thinking and practical learning to examine how people use evidence, develop expertise and remain accountable. Behavioural and design questions remain central: where a default substitutes for a decision and how a workflow shapes responsibility.
 
 AI is one consequential change in work and competition, not a required frame for every engagement. Where it matters, workshops examine what can be delegated, which practices people still need to develop, and who remains accountable for decisions and consequences.
 

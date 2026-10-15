@@ -1,6 +1,6 @@
 ---
 title: "Methodology"
-description: "How strategic choice, organisational learning and human judgment come together in practical executive workshops."
+description: "How strategic choice, organisational learning and human judgement come together in practical executive workshops."
 ---
 
 ::: {.page-head .wrap}
@@ -9,7 +9,7 @@ description: "How strategic choice, organisational learning and human judgment c
 
 # How the work fits together
 
-Strategy identifies the choices an organisation must make. Learning develops the capability to act on them. Judgment tests whether the choices and their consequences remain sound.
+Strategy identifies the choices an organisation must make. Learning develops the capability to act on them. Judgement tests whether the choices and their consequences remain sound.
 
 :::
 
@@ -18,15 +18,15 @@ Strategy identifies the choices an organisation must make. Learning develops the
 
 [01 / Strategy as choice]{.eyebrow}
 
-## A plan records activity. Strategy makes choices. {.sec-h}
+## A strategy connects choices about where to compete and how to create an advantage. {.sec-h #a-plan-records-activity.-strategy-makes-choices.}
 
-A strategy is an integrated set of choices made under uncertainty. It begins with an aspiration, then makes explicit where the organisation will play and how it intends to win there. Those choices imply capabilities the organisation must build and management systems that support them.
+In the approach described by A.G. Lafley and Roger Martin in *[Playing to Win](https://rogerlmartin.com/lets-read/playing-to-win)*, strategy connects choices about ambition, competitive focus, advantage, capabilities and supporting management systems. Their **Strategy Choice Cascade** helps teams examine whether these choices support one another.
 
-The cascade matters because its parts constrain one another. A new ambition without a choice of arena is difficult to act on. An arena without a distinctive way to win can become a market description. A proposed advantage without the capability and operating conditions to sustain it remains an assertion.
+The Strategy Choice Cascade matters because its choices constrain and reinforce one another. A new ambition without a choice of arena is difficult to act on. An arena without a distinctive way to win can become a market description. A proposed advantage without the capability and operating conditions to sustain it remains an assertion.
 
 We help teams make these links visible, including the choices they will not pursue. Analysis informs the choices; it does not remove the responsibility to make them.
 
-[Explore the Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade){.text-link}
+[Explore the Strategic Decision Workshop](/workshops/index.qmd#choice-cascade){.text-link}
 
 :::
 :::
@@ -40,7 +40,7 @@ We help teams make these links visible, including the choices they will not purs
 
 Strategic questions rarely arrive as problems with a single known answer. Design thinking helps teams move between understanding a situation, framing a consequential problem, generating alternatives and learning from tests. It keeps attention on the people, systems and conditions that shape whether a choice can work.
 
-Deductive reasoning asks what follows from stated premises. Inductive reasoning looks for patterns in observations. Abductive reasoning asks what might explain what is happening, or what could plausibly work. It creates hypotheses, not proof. A hypothesis becomes useful when the team names what would have to be true and what evidence or experiment could challenge it.
+Deductive reasoning asks what follows from stated premises. Inductive reasoning looks for patterns in observations. Abductive reasoning asks what might explain what is happening, or what could plausibly work. It creates hypotheses, not proof. For a proposed strategy, the team identifies the conditions it requires and the evidence that would challenge those conditions. This strategic inquiry draws on [Roger Martin’s question, “What would have to be true?”](https://rogerlmartin.substack.com/p/the-evolution-of-the-strategic-choice-structuring-process-653521519014).
 
 The practical aim is not endless ideation. It is to turn uncertain assumptions into questions that can change a decision.
 
@@ -60,7 +60,7 @@ Learning therefore depends on flows as well as storage. Who can reach whom? Wher
 
 Communities of practice and creation spaces can make such exchange possible. They need a real problem, access to relevant people and resources, room to make and test, and a path back to decisions and operating practice. They are not simply new names for training rooms or repositories.
 
-[Explore the Scalable Learning & Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+[Explore the Knowledge Sharing & Organisational Learning Lab](/workshops/index.qmd#knowledge-flows){.text-link}
 
 :::
 :::
@@ -78,7 +78,7 @@ In a strategy setting, a team might first describe what it believes about custom
 
 This sequence can open a new problem space without treating play as an end in itself. Each activity should inform a strategic question or a capability the organisation needs to develop.
 
-[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+[Explore the Strategy Prototyping Studio](/workshops/index.qmd#blended-studio){.text-link}
 
 :::
 :::
@@ -111,7 +111,7 @@ What participants need to judge: which evidence is sufficient, what uncertainty 
 
 The format follows the outcome. A short explanation can introduce a concept; participants then apply it to a live or representative problem. A scenario can ask them to judge a choice from another stakeholder's position. Discussion and critique make reasoning visible. Breaks and changes of activity are planned around the audience and the work, not a claimed universal minute-by-minute rule.
 
-Participants should leave with a useful working artifact: for example, an integrated choice cascade, a hypothesis-and-test map, a knowledge-flow blueprint, a scenario prototype or explicit decision rights. It is a basis for further work, not a guarantee that an organisation will implement it.
+Participants should leave with a useful working artefact: for example, a record of strategic choices structured using the Strategy Choice Cascade, a hypothesis-and-test map, a knowledge-flow blueprint, a scenario prototype or explicit decision rights. It is a basis for further work, not a guarantee that an organisation will implement it.
 
 :::
 :::
@@ -125,8 +125,8 @@ Participants should leave with a useful working artifact: for example, an integr
 
 <ol class="process">
 <li><b>Frame the decision</b><span>Agree the organisational question, participants, evidence and boundaries.</span></li>
-<li><b>Make choices explicit</b><span>Describe the aspiration, arena, way to win, capabilities and enabling systems.</span></li>
-<li><b>Surface assumptions</b><span>Ask what would have to be true and what could change the team's view.</span></li>
+<li><b>Make choices explicit</b><span>Use the Strategy Choice Cascade to connect ambition, competitive focus, advantage, capabilities and supporting management practices.</span></li>
+<li><b>Surface assumptions</b><span>Identify the conditions each option requires and the evidence that would change the team’s view.</span></li>
 <li><b>Make and test</b><span>Use a scenario, prototype or work-based activity to examine a hypothesis.</span></li>
 <li><b>Design for learning</b><span>Identify the knowledge, practice and relationships needed to develop capability.</span></li>
 <li><b>Decide and review</b><span>Record the choice, unresolved questions, owners and a proportionate next test.</span></li>
@@ -140,15 +140,15 @@ The sequence is adapted to the work. A team may return to an earlier choice when
 ::: {.sec}
 ::: {.wrap}
 
-[Judgment and responsibility]{.eyebrow}
+[Judgement and responsibility]{.eyebrow}
 
 ## Tools can contribute. People still own consequential choices. {.sec-h}
 
 AI can alter how quickly teams generate options, analyse information and produce work. That makes the purpose, evidence threshold, decision rights and learning consequences more important to specify. Where a system recommends or acts, a useful design asks who can inspect it, challenge it, stop it and remain accountable for the outcome.
 
-This concern connects the strategic and learning work to The Spotted Ape's existing interest in human judgment, agency and organisational integrity. It is relevant where AI is changing work, but it does not require every strategy or learning problem to be framed as an AI problem.
+This concern connects the strategic and learning work to The Spotted Ape's existing interest in human judgement, agency and organisational integrity. It is relevant where AI is changing work, but it does not require every strategy or learning problem to be framed as an AI problem.
 
-The practice draws on ideas associated with Roger Martin, John Seely Brown, and Fitzpatrick & Hunt. These are intellectual foundations, not partnerships, endorsements or proprietary frameworks of The Spotted Ape.
+Our strategy work draws on the Strategy Choice Cascade described in *Playing to Win* by A.G. Lafley and Roger Martin. Our learning design also draws on John Seely Brown and Fitzpatrick & Hunt. Our contribution is to combine established strategic approaches with behavioural design, practical learning and human judgement, applying them to the organisation’s decisions and working conditions. These are intellectual foundations, not partnerships, endorsements or proprietary frameworks of The Spotted Ape.
 
 [Read the thinking behind the practice](/thinking/index.qmd){.text-link}
 

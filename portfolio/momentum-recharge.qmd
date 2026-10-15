@@ -3,7 +3,7 @@ title: "Momentum Recharge"
 subtitle: "Integrating visual design and behavioural principles for wellness engagement."
 date: 2022-11-01
 description: |
-    The Momentum Recharge project tasked me with integrating key visual design principles into a wellness application aimed at promoting positive behaviour change. Through user research and feedback analysis, We customized the application to align with user preferences and leveraged expertise in UX design to create a personalized user experience. The result was increased user engagement.
+    The Momentum Recharge project tasked me with integrating key visual design principles into a wellness application aimed at promoting positive behaviour change. User research and feedback analysis informed changes to the application’s interface and experience, with the aim of supporting wellness engagement.
 image: /images/proj-momentum-recharge.jpg
 toc: false
 categories: [Behavioural-Design, Data-Visualisation, UX-Research, Wellness]
@@ -15,7 +15,7 @@ categories: [Behavioural-Design, Data-Visualisation, UX-Research, Wellness]
 - **Context:** Wellness application development
 - **Core Problem:** Effectively integrating visual design principles into a platform to promote and sustain positive behaviour change.
 
-**Outcome:** Designed and implemented a personalized user experience based on user research and feedback analysis, resulting in measurable increases in user engagement.
+**Outcome:** Designed and implemented a personalised user experience informed by user research and feedback.
 
 ### 2. Strategic Context
 
@@ -37,25 +37,25 @@ The research phase aimed to understand how users perceive wellness metrics and w
 
 ### 4. Key Insights
 
-1.  **Personalization is Paramount:** Users are more likely to engage with wellness tools when the experience feels tailored to their specific lifestyle.
+1.  **Personalisation is Paramount:** Users are more likely to engage with wellness tools when the experience feels tailored to their specific lifestyle.
 2.  **Visual Clarity Drives Action:** Complex data must be translated into intuitive visual design to prevent cognitive overwhelm.
 3.  **Feedback Loops:** Real-time feedback, aligned with user preferences, significantly boosts the perceived value of the application.
 
 ### 5. Intervention Design
 
-Based on research findings, the application was customized through several key design pillars:
+Based on research findings, the application was customised through several key design pillars:
 
-- **Identity-Aligned UX:** Creating a personalized interface that reflects the user's wellness journey.
+- **Identity-Aligned UX:** Creating a personalised interface that reflects the user's wellness journey.
 - **Behavioural Visuals:** Using design principles to highlight progress and nudge healthy choices.
-- **Data-Driven Customization:** Adjusting the application's flow based on feedback analysis to ensure a high level of user-product fit.
+- **Data-Driven Customisation:** Adjusting the application's flow based on feedback analysis to ensure a high level of user-product fit.
 
 ### 6. Impact & Evidence
 
-The implementation of these behavioural and design strategies led to several key outcomes:
+The implementation focused on the following intended outcomes:
 
-- **Increased User Engagement:** Higher daily active usage and longer session durations.
-- **Improved User Satisfaction:** Positive qualitative feedback regarding the personalized nature of the application.
-- **Enhanced Data Interaction:** Clearer data visualisation led to more frequent user interaction with wellness metrics.
+- **Increased User Engagement:** Support regular use through an interface informed by user research.
+- **Improved User Satisfaction:** Positive qualitative feedback regarding the personalised nature of the application.
+- **Enhanced Data Interaction:** Make wellness metrics easier to interpret and use through clearer data visualisation.
 
 ### 7. Strategic Value & Transferability
 

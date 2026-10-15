@@ -1,6 +1,6 @@
 ---
 title: "Thinking & Field Notes"
-description: "Essays and working questions on strategy, learning, AI, human judgment, behavioural design and organisational integrity."
+description: "Essays and working questions on strategy, learning, AI, human judgement, behavioural design and organisational integrity."
 ---
 
 ::: {.page-head .wrap}
@@ -24,7 +24,7 @@ A researcher researched; a writer wrote; an analyst analysed. Those acts produce
 
 When an AI-generated document looks competent, what has the person presenting it demonstrated? Organisations may need to make framing, selection, interpretation and the explanation of a decision more visible.
 
-The difficult educational question follows: **how do novices become experts when machines increasingly perform novice work?** Retaining selected practice, comparing independent judgments and examining revisions are approaches worth testing, not a universal solution.
+The difficult educational question follows: **how do novices become experts when machines increasingly perform novice work?** Retaining selected practice, comparing independent judgements and examining revisions are approaches worth testing, not a universal solution.
 
 [Moholy-Nagy and the Art of Remote Creation](/posts/substack/2025-08-21-moholy-nagy-and-the-art-of-remote-creation.qmd){.text-link}
 
@@ -34,13 +34,13 @@ The difficult educational question follows: **how do novices become experts when
 ::: {.sec .dark }
 ::: {.wrap}
 
-[Judgment]{.eyebrow}
+[Judgement]{.eyebrow}
 
 ## A plausible answer is not yet a decision. {.sec-h}
 
-Judgment involves deciding what problem is being addressed, what evidence belongs, which information is missing and what uncertainty can be accepted. It is exercised in context, with consequences for other people.
+Judgement involves deciding what problem is being addressed, what evidence belongs, which information is missing and what uncertainty can be accepted. It is exercised in context, with consequences for other people.
 
-The question is not whether a machine can contribute to judgment. It is how an organisation designs responsibility for the judgment: whose criteria, whose evidence threshold, whose decision and whose review?
+The question is not whether a machine can contribute to judgement. It is how an organisation designs responsibility for the judgement: whose criteria, whose evidence threshold, whose decision and whose review?
 
 A reviewer who can reject an output but cannot explain why has a different problem from a reviewer who lacks the authority to stop it. Both matter.
 
@@ -121,7 +121,7 @@ The essay archive ranges across the practice's interests. These groupings are wa
 [Wisdom is Like a Baobab Tree](/posts/substack/2025-12-08-wisdom-is-like-a-baobab-tree.qmd){.text-link}
 :::
 ::: {.observation}
-### AI and human judgment
+### AI and human judgement {#ai-and-human-judgment}
 [Will AI Take My Job?](/posts/substack/2025-05-08-will-ai-take-my-job-unlikely-but-it-might-eat-my-admin.qmd){.text-link}
 :::
 ::: {.observation}

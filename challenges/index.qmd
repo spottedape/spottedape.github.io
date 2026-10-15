@@ -23,7 +23,7 @@ The same visible symptom can have different causes. Use these questions to find 
 ::: {.editorial-grid}
 ::: {.observation}
 ### The Planning Trap
-There is a plan, but leaders cannot state where to play, how to win or what the organisation will stop doing.
+There is a plan, but leaders have not agreed where to compete, why customers will choose the organisation, or what it will stop doing.
 
 [Explore the challenge](#planning-trap)
 :::
@@ -34,7 +34,7 @@ The evidence keeps growing while the choice, the assumptions and the next test r
 [Explore the challenge](#analytical-paralysis)
 :::
 ::: {.observation}
-### Knowledge Stock Collapse
+### Knowledge That Does Not Reach the Work
 Important knowledge sits in documents and repositories, while teams struggle to use it in changing work.
 
 [Explore the challenge](#knowledge-stock-collapse)
@@ -71,7 +71,7 @@ Leaders agree on aspirations but hold different assumptions about customers, com
 
 ### What it can look like
 
-Planning documents describe targets, initiatives and resource allocations, but the leadership team cannot explain the linked choices that would make the organisation win. Priorities accumulate; explicit exclusions do not.
+Planning documents describe targets, initiatives and resource allocations, but the leadership team cannot explain the connected choices intended to create a competitive advantage. Priorities accumulate; explicit exclusions do not.
 
 ### Why it persists
 
@@ -79,13 +79,13 @@ Planning is often easier to coordinate around what the organisation controls tha
 
 ### The underlying issue
 
-The organisation may have a plan without an integrated strategy: an aspiration, a defined arena, a reason to win there, the capabilities that require, and the management systems that sustain them.
+The organisation may have a plan without an integrated strategy: connected choices about ambition, competitive focus, advantage, the capabilities required and the management practices that support them.
 
 ### A useful intervention
 
-The **Strategic Choice Cascade Sprint** gives leaders a structured way to articulate the choices, identify what they will not pursue and make the assumptions behind the choices testable.
+The **Strategic Decision Workshop** uses the Strategy Choice Cascade described by A.G. Lafley and Roger Martin in *[Playing to Win](https://rogerlmartin.com/lets-read/playing-to-win)* to connect the team’s choices, clarify exclusions and identify assumptions to test.
 
-[Explore the Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade){.text-link}
+[Explore the Strategic Decision Workshop](/workshops/index.qmd#choice-cascade){.text-link}
 
 :::
 :::
@@ -111,9 +111,9 @@ The team may lack a working hypothesis and a clear account of what evidence woul
 
 ### A useful intervention
 
-The **Blended Epistemology Studio** helps teams create alternatives, state what would have to be true for each, and design bounded scenarios or experiments that can inform a choice.
+The **Strategy Prototyping Studio** helps teams create alternatives, identify the conditions each alternative requires, and design bounded scenarios or experiments that can inform a choice.
 
-[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+[Explore the Strategy Prototyping Studio](/workshops/index.qmd#blended-studio){.text-link}
 
 :::
 :::
@@ -123,7 +123,7 @@ The **Blended Epistemology Studio** helps teams create alternatives, state what 
 
 [03 / Knowledge flows]{.eyebrow}
 
-## Knowledge Stock Collapse {.sec-h}
+## Knowledge That Does Not Reach the Work {.sec-h #knowledge-stock-collapse-1}
 
 ### What it can look like
 
@@ -139,9 +139,9 @@ Knowledge is treated mainly as a stock to store and distribute, rather than also
 
 ### A useful intervention
 
-The **Scalable Learning & Knowledge Flows Lab** maps where useful knowledge resides, how it moves between people and work, and where teams can learn by making and testing in a bounded setting.
+The **Knowledge Sharing & Organisational Learning Lab** maps where useful knowledge resides, how it moves between people and work, and where teams can learn by making and testing in a bounded setting.
 
-[Explore the Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+[Explore the Knowledge Sharing & Organisational Learning Lab](/workshops/index.qmd#knowledge-flows){.text-link}
 
 :::
 :::
@@ -155,7 +155,7 @@ The **Scalable Learning & Knowledge Flows Lab** maps where useful knowledge resi
 
 ### What it can look like
 
-Work depends on the judgment of a few experienced practitioners. Their expertise is difficult to express as instructions, new colleagues have limited opportunities to observe it, and teams repeat avoidable discovery.
+Work depends on the judgement of a few experienced practitioners. Their expertise is difficult to express as instructions, new colleagues have limited opportunities to observe it, and teams repeat avoidable discovery.
 
 ### Why it persists
 
@@ -167,9 +167,9 @@ The organisation has not designed enough opportunities for observation, particip
 
 ### A useful intervention
 
-The **Scalable Learning & Knowledge Flows Lab** identifies practitioners, relationships and recurring work where knowledge can move through communities of practice, shared tasks and creation spaces.
+The **Knowledge Sharing & Organisational Learning Lab** identifies practitioners, relationships and recurring work where knowledge can move through communities of practice, shared tasks and creation spaces.
 
-[Explore the Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows){.text-link}
+[Explore the Knowledge Sharing & Organisational Learning Lab](/workshops/index.qmd#knowledge-flows){.text-link}
 
 :::
 :::
@@ -195,9 +195,9 @@ The learning loop is incomplete: a hypothesis is not connected to a meaningful s
 
 ### A useful intervention
 
-The **Blended Epistemology Studio** connects knowing, making and playful reframing. Teams prototype plausible futures, surface assumptions and agree what an experiment could help them learn.
+The **Strategy Prototyping Studio** connects knowing, making and playful reframing. Teams prototype plausible futures, surface assumptions and agree what an experiment could help them learn.
 
-[Explore the Blended Epistemology Studio](/workshops/index.qmd#blended-studio){.text-link}
+[Explore the Strategy Prototyping Studio](/workshops/index.qmd#blended-studio){.text-link}
 
 :::
 :::
@@ -223,7 +223,7 @@ Alignment is treated as consensus on language rather than a shared, revisable se
 
 ### A useful intervention
 
-An **Executive Offsite** or the **Strategic Choice Cascade Sprint** makes differences in assumptions visible, tests critical hypotheses and records the choices, open questions and owners that follow.
+An **Executive Offsite** or the **Strategic Decision Workshop** makes differences in assumptions visible, tests critical hypotheses and records the choices, open questions and owners that follow.
 
 [Discuss an executive session](/contact/index.qmd){.text-link}
 

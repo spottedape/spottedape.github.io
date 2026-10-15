@@ -55,7 +55,7 @@ Despite the availability of safer alternatives, adoption rates remained low beca
 
 1.  **Normalisation of Risk:** Health dangers were acknowledged but behaviourally discounted.
 2.  **Social Proof Dominance:** Adoption decisions were strongly influenced by visible community norms.
-3.  **Aspirational Identity Leverage:** Participants responded better to narratives of capability and pride than to fear.
+3.  **Capability and Pride:** Participants responded better to narratives of capability and pride than to fear.
 4.  **Demonstration Over Instruction:** Hands-on experience produced stronger engagement than informational campaigns.
 
 ### 5. Intervention Design

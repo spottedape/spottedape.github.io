@@ -1,6 +1,6 @@
 ---
 title: "Spotted Ape"
-subtitle: "Strategic Execution Engine"
+subtitle: "Earlier service concept: Human oversight for AI-supported execution"
 author: "thespottedape.com · in collaboration with marcelmare.com"
 format:
   revealjs:
@@ -26,7 +26,7 @@ format:
 ## {.slide-hero background-color="#FAFAF8"}
 
 ::: {.hero-eyebrow}
-Strategic Execution Engine
+Earlier service concept / Human oversight for AI-supported execution
 :::
 
 ::: {.hero-title}
@@ -77,10 +77,10 @@ Traditional consulting delivers decks. Organisations are left navigating the gap
 :::
 
 
-## Our Framework {.slide-section background-color="#FAFAF8"}
+## Our Approach to Human Oversight and AI Execution {#our-framework .slide-section background-color="#FAFAF8"}
 
 ::: {.eyebrow}
-Our Framework
+Our Approach to Human Oversight and AI Execution
 :::
 
 ### Strategic Steering, Not Consulting {.section-title}
@@ -178,7 +178,7 @@ We treat marketing ecosystems as living organisms — not machines. Our HITL app
 
 ::: {.card-amber}
 **Rhizomatic Growth**  
-AI agents spread horizontally across channels while human judgment keeps roots in behavioural truth.
+AI agents spread horizontally across channels while human judgement keeps roots in behavioural truth.
 :::
 
 ::: {.card-teal .mt-sm}
@@ -192,16 +192,16 @@ We replace vanity metrics with decisions that hold under the push-back of realit
 
 ::: {.stat-card}
 ::: {.stat-big}
-65%
+Scoped
 :::
-Routine mechanical tasks automated at Tier I
+Routine tasks assessed for automation at Tier I
 :::
 
 ::: {.stat-card}
 ::: {.stat-big}
 24/7
 :::
-Agent-driven execution without human bandwidth limits
+Automated activity within agreed operating boundaries
 :::
 
 :::
@@ -224,7 +224,7 @@ Service Model
 
 **Efficiency**
 
-Automating 65% of routine tasks — SEO, content drafts, distribution. Human validates brand voice and cultural safety.
+Identify routine tasks suitable for automation — SEO, content drafts and distribution — and define human review of brand voice and cultural context.
 
 *Agent:* Mechanical automation
 
@@ -248,9 +248,9 @@ Collaborative workflow where agents share data to optimise multi-channel campaig
 
 **Transformation**
 
-Full autonomy — lifecycle management and micro-segmentation. Human interrogates systemic logic and designs for emergence.
+Automation within agreed boundaries, with defined review and escalation. People examine the system’s logic and remain responsible for consequential decisions.
 
-*Agent:* Full autonomous mesh
+*Agent:* Automation within agreed boundaries
 
 [Custom Marketing OS]{.tier-outcome .outcome-amber}
 :::

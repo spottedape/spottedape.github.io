@@ -20,7 +20,7 @@ website:
   title: "The Spotted Ape"
   favicon: images/favicon.png
   site-url: https://thespottedape.com
-  description: "Executive workshops for strategic choice and organisational learning, including the changing conditions of AI-mediated work."
+  description: "Executive workshops that help leadership teams make strategic decisions, develop capabilities and retain accountability as AI changes work."
   open-graph: true
   search: false
   navbar: false

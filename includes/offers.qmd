@@ -2,14 +2,14 @@
 ::: {.offer-label}
 [01 / Proposed intensive or short series]{.eyebrow}
 
-### [Strategic Choice Cascade Sprint](/workshops/index.qmd#choice-cascade)
+### [Strategic Decision Workshop](/workshops/index.qmd#choice-cascade)
 :::
 ::: {.offer-body}
-For leadership teams with plans but unresolved choices about where to play, how to win and what capabilities to build.
+For leadership teams with plans but unresolved decisions about where to compete, how to create an advantage and which capabilities to develop.
 
-Make the cascade explicit, identify trade-offs and test the assumptions that matter.
+Connect the team’s strategic choices, clarify what it will exclude and identify the assumptions that need testing.
 
-**Working output:** an integrated one-page strategic choice cascade.
+**Working output:** a one-page record of strategic choices and assumptions.
 :::
 :::
 
@@ -17,7 +17,7 @@ Make the cascade explicit, identify trade-offs and test the assumptions that mat
 ::: {.offer-label}
 [02 / Applied learning lab]{.eyebrow}
 
-### [Scalable Learning & Knowledge Flows Lab](/workshops/index.qmd#knowledge-flows)
+### [Knowledge Sharing & Organisational Learning Lab](/workshops/index.qmd#knowledge-flows)
 :::
 ::: {.offer-body}
 For organisations that store knowledge but struggle to move expertise into changing work.
@@ -32,7 +32,7 @@ Map codified and tacit knowledge, relationships and opportunities to learn throu
 ::: {.offer-label}
 [03 / Strategy prototyping studio]{.eyebrow}
 
-### [Blended Epistemology Studio](/workshops/index.qmd#blended-studio)
+### [Strategy Prototyping Studio](/workshops/index.qmd#blended-studio)
 :::
 ::: {.offer-body}
 For teams that need to explore beyond familiar assumptions and connect experimentation to a strategic choice.

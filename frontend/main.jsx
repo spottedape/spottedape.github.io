@@ -8,17 +8,17 @@ const recommendations = [
     number: '01',
     id: 'planning-trap',
     title: 'The Planning Trap',
-    symptom: 'Plans list initiatives, but the leadership team cannot say where it will play or how it will win.',
-    solution: 'Strategic Choice Cascade Sprint',
+    symptom: 'Plans list initiatives, but leaders have not agreed which customers and markets to focus on or how to create a competitive advantage.',
+    solution: 'Strategic Decision Workshop',
     workshopId: 'offer-choice-cascade',
-    output: 'An integrated one-page choice cascade with its critical assumptions.',
+    output: 'A one-page record of strategic choices and the assumptions that need testing.',
   },
   {
     number: '02',
     id: 'knowledge-stock-collapse',
-    title: 'Knowledge Stock Collapse',
+    title: 'Knowledge That Does Not Reach the Work',
     symptom: 'Useful expertise is stored across repositories, but it does not reliably reach changing work.',
-    solution: 'Scalable Learning & Knowledge Flows Lab',
+    solution: 'Knowledge Sharing & Organisational Learning Lab',
     workshopId: 'offer-knowledge-flows',
     output: 'A practical map of the knowledge, relationships and learning conditions the work depends on.',
   },
@@ -27,7 +27,7 @@ const recommendations = [
     id: 'tacit-knowledge-silos',
     title: 'Tacit Knowledge Silos',
     symptom: 'A few practitioners carry know-how that colleagues cannot learn from a document alone.',
-    solution: 'Scalable Learning & Knowledge Flows Lab',
+    solution: 'Knowledge Sharing & Organisational Learning Lab',
     workshopId: 'offer-knowledge-flows',
     output: 'A blueprint for moving expertise through shared practice, feedback and creation spaces.',
   },
@@ -36,7 +36,7 @@ const recommendations = [
     id: 'analytical-paralysis',
     title: 'Analytical Paralysis',
     symptom: 'The analysis expands while the choice, its assumptions and the next useful test stay unclear.',
-    solution: 'Blended Epistemology Studio',
+    solution: 'Strategy Prototyping Studio',
     workshopId: 'offer-blended-studio',
     output: 'Alternative hypotheses, scenario prototypes and questions that could change the decision.',
   },
@@ -45,7 +45,7 @@ const recommendations = [
     id: 'innovation-disconnect',
     title: 'The Innovation Disconnect',
     symptom: 'Experiments produce activity, but do not inform a strategic choice or build a needed capability.',
-    solution: 'Blended Epistemology Studio',
+    solution: 'Strategy Prototyping Studio',
     workshopId: 'offer-blended-studio',
     output: 'A bounded experiment linked to an explicit strategic hypothesis.',
   },
@@ -80,10 +80,10 @@ const sessions = [
     minutes: 30,
     tag: 'K',
     category: 'knowledge',
-    title: 'The choice cascade',
+    title: 'The Strategy Choice Cascade',
     format: 'Short framing session with questions',
     group: 'Full group',
-    artifact: 'A first view of aspiration, arena, advantage, capabilities and systems.',
+    artifact: 'An initial Strategy Choice Cascade connecting ambition, competitive focus, advantage, capabilities and supporting management practices.',
   },
   {
     id: 'where-to-play',
@@ -92,7 +92,7 @@ const sessions = [
     minutes: 45,
     tag: 'S',
     category: 'skill',
-    title: 'Where to play, and where not to play',
+    title: 'Choose where to compete—and what to exclude',
     format: 'Try-it-now mapping and post-up',
     group: 'Triplets',
     artifact: 'A boundary map across priority customers, needs, channels or geographies.',
@@ -116,7 +116,7 @@ const sessions = [
     minutes: 45,
     tag: 'W',
     category: 'scenario',
-    title: 'What would have to be true?',
+    title: 'Identify the conditions each option requires',
     format: 'Scenario challenge and hypothesis test',
     group: 'Pairs',
     artifact: 'A set of assumptions, evidence needs and possible disconfirming tests.',
@@ -128,10 +128,10 @@ const sessions = [
     minutes: 45,
     tag: 'S/W',
     category: 'scenario',
-    title: 'The Judging Hat',
+    title: 'Stakeholder review',
     format: 'Role-reversal stress-test',
     group: 'Tables exchange strategies; review in small groups',
-    artifact: 'A stress-tested cascade with exposed gaps and questions.',
+    artifact: 'A reviewed strategy draft with gaps and assumptions identified.',
   },
   {
     id: 'lunch',
@@ -191,7 +191,7 @@ const sessions = [
     title: 'Executive choice synthesis',
     format: 'Facilitated debate and stand-and-share',
     group: 'Full group',
-    artifact: 'A revised one-page cascade, open tests and named next-step owners.',
+    artifact: 'A revised one-page record of strategic choices, assumptions to test and people responsible for the next steps.',
   },
 ];
 
@@ -200,7 +200,7 @@ const filters = [
   { id: 'knowledge', label: 'Knowledge' },
   { id: 'skill', label: 'Skill drills' },
   { id: 'scenario', label: 'Scenario challenges' },
-  { id: 'break', label: 'Sacred breaks' },
+  { id: 'break', label: 'Breaks' },
 ];
 
 function NeedMatrix() {
@@ -254,7 +254,7 @@ function NeedMatrix() {
             transition={{ duration: 0.28, ease: [0.16, 1, 0.3, 1] }}
           >
             <div className="sa-recommendation-copy">
-              <span className="sa-recommended-label"><span aria-hidden="true">●</span> Recommended solution</span>
+              <span className="sa-recommended-label"><span aria-hidden="true">●</span> Suggested workshop</span>
               <h3>{activeNeed.solution}</h3>
               <p>{activeNeed.output}</p>
             </div>
@@ -349,7 +349,7 @@ function MasterclassTimeline() {
             <dl className="sa-session-details">
               <div><dt>Format</dt><dd>{activeSession.format}</dd></div>
               <div><dt>Group</dt><dd>{activeSession.group}</dd></div>
-              <div><dt>Working artifact</dt><dd>{activeSession.artifact}</dd></div>
+              <div><dt>Working output</dt><dd>{activeSession.artifact}</dd></div>
             </dl>
           </motion.article>
         </AnimatePresence>

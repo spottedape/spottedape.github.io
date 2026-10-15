@@ -326,7 +326,7 @@ To achieve congruence across the brand ecosystem, the Value Proposition addresse
 
 **1. High-Margin Outcomes (Luxury & Agencies):** - **Cinematic Status:** Leverages the heritage of *Quite Franckly* to solve the "Emotional Gap" in modern advertising, communicating "Status" and "Atmosphere" for luxury brands. - **Rapid Fidelity:** Leverages the *Gees.Studio* engine to solve the "Speed Gap". It allows agencies to maintain premium quality without the multi-month timelines of traditional CGI houses.
 
-**2. Strategic Assets (Institutions & Tech):** - **Visual Legacy:** Positions the studio as a curator for high-stakes institutional storytelling, moving beyond "campaigns" to "systems". - **Visual Clarity:** Acts as a "Sense-Making" tool for the tech sector. By prototyping the future visually, Grant provides clarity that drives investment and adoption [@Brand2017Visual]. s **3. Scalable Authority (Creative Pros):** - **Strategic Skills:** This pillar creates a "One-to-Many" revenue stream. It uses the authority of **Grantfranck.com** to monetize the methodology itself, transforming proprietary workflows into educational assets.
+**2. Strategic Assets (Institutions & Tech):** - **Visual Legacy:** Positions the studio as a curator for high-stakes institutional storytelling, moving beyond "campaigns" to "systems". - **Visual Clarity:** Acts as a "Sense-Making" tool for the tech sector. By prototyping the future visually, Grant provides clarity that drives investment and adoption [@Brand2017Visual]. s **3. Scalable Authority (Creative Pros):** - **Strategic Skills:** This pillar creates a "One-to-Many" revenue stream. It uses the authority of **Grantfranck.com** to monetize the methodology itself, transforming studio workflows into educational assets.
 
 **Summary:** By framing the value prop through these five lenses, the business model avoids being "just a studio". It becomes a **Strategic Creative Partner** that offers specific, differentiated value to every segment of the modern creative economy.
 :::
@@ -420,7 +420,7 @@ The "Customer Relationships" must solve the client's fear of commoditisation. By
 -   **Hybrid Production Engagements:** High-ticket, project-based revenue for cinematic CGI and synthetic media execution.
 -   **TaaS / Capacity Retainers:** Recurring revenue model providing agencies with "Elastic Production" access [@Maurya2016Scaling].
 -   **Knowledge Asset Sales:** Scalable income via mentorship, workshops, and business-led creative frameworks [@Leland2016Brand].
--   **Process IP Licensing:** Revenue generated from proprietary AI-motion systems and custom-trained model access [@Cueball2026TopAI].
+-   **Process IP Licensing:** Revenue generated from custom AI-motion systems and custom-trained model access [@Cueball2026TopAI].
 :::
 :::::
 
@@ -452,7 +452,7 @@ The revenue model is designed to transition the business from a labor-intensive 
 #### Strategic Asset Categories:
 
 -   **Taste Governance:** Senior-level creative direction and "Human-in-the-loop" expertise to filter and refine synthetic output [@Mahler2026HowAI].
--   **Proprietary Pipelines:** Custom AI-motion systems, specialized prompt libraries, and integrated CGI-GenAI workflows [@Cueball2026TopAI].
+-   **Custom Production Pipelines:** Custom AI-motion systems, specialized prompt libraries, and integrated CGI-GenAI workflows [@Cueball2026TopAI].
 -   **Multi-Layered Brand Equity:** The tri-layered digital presence serving as an "Authority Engine" for diverse customer segments [@Leland2016Brand].
 -   **Elastic Talent Mesh:** A global infrastructure of specialized specialists and autonomous agents for on-demand scalability.
 -   **High-Performance Stack:** Specialized computing power and cloud-based generative AI infrastructure required for high-fidelity rendering.
@@ -465,7 +465,7 @@ The revenue model is designed to transition the business from a labor-intensive 
 The resource model transitions the business from a "Labor-Dependent" studio to an "Asset-Dependent" practice.
 
 1.  **Codified Taste:** The most critical resource is no longer "hours of labor" but the "Governance of Taste". This is the asset that prevents the value proposition from being commoditized by accessible AI tools.
-2.  **IP as an Engine:** By developing proprietary pipelines, the business creates a "Force Multiplier". One senior director can now oversee the output volume previously requiring a 10-person team.
+2.  **IP as an Engine:** By developing custom production pipelines, the business creates a "Force Multiplier". One senior director can now oversee the output volume previously requiring a 10-person team.
 3.  **Relational Scalability:** The "Talent Mesh" ensures that the studio doesn't carry the risk of high fixed salaries. The resource is "Access" rather than "Ownership", which is the hallmark of an invincible, lean business model.
 :::
 
@@ -522,7 +522,7 @@ The Key Activities are designed to support a "Lean but Heavy" studio posture:
 ::: {.column .centered style="width: 60%;"}
 #### The Strategic Ecosystem:
 
--   **Frontier Tech Labs (GenAI/SaaS):** Collaborative "Beta" access to maintain the "Proprietary Pipeline" moat [@Cueball2026TopAI].
+-   **Frontier Tech Labs (GenAI/SaaS):** Collaborative "Beta" access to maintain the "Custom Production Pipeline" moat [@Cueball2026TopAI].
 -   **The Elastic Talent Mesh:** A *"Team-as-a-Subscription" (TaaS)* mesh of high-end sound designers, colourists, and niche CGI artists.
 -   **Strategic Agency Alliances:** Partnerships with global firms to access high-margin *Luxury & Institutional* segments [@Young2017Ogilvy].
 -   **Infrastructure & Cloud Partners:** GPU cloud providers and hardware specialists enabling "Studio-Grade" output without local overhead.

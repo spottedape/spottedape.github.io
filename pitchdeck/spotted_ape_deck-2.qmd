@@ -1,5 +1,6 @@
 ---
 title: "The Visible Agent, The Invisible Studio"
+subtitle: "Earlier service concept"
 format: 
   revealjs:
     theme: black
@@ -110,10 +111,9 @@ We combine both:
 
 ## The Strategy
 
-“Fake it till you make it”—but with intent.
+Make human involvement explicit while testing which tasks can be automated reliably.
 
-Not deception.  
-**Staged maturity.**
+**Build capability through transparent trials.**
 
 - Present a stable AI experience today  
 - Use human oversight to:
@@ -131,7 +131,7 @@ Over time:
 - More autonomous capability  
 - Increasing system intelligence  
 
-The illusion becomes reality.
+Autonomy expands only where evidence supports it.
 
 ---
 
@@ -143,14 +143,14 @@ Clients get:
 - Consistent interaction  
 - High-quality output  
 
-Without AI volatility.
+With human review and defined escalation when AI outputs are unreliable.
 
 ---
 
 ## The Position
 
 **AI delivers the experience.**  
-**Humans guarantee the outcome.**
+**People retain responsibility for review, intervention and consequential decisions.**
 
 ---
 

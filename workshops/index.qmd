@@ -1,6 +1,6 @@
 ---
 title: "Workshops & Labs"
-description: "Executive workshops for strategic choice, organisational learning, knowledge flows and responsible adaptation."
+description: "Executive workshops to clarify strategic decisions, share expertise and test new approaches to work."
 ---
 
 ::: {.page-head .wrap}
@@ -20,7 +20,7 @@ Structured working sessions for leadership teams facing consequential choices, u
 
 ## A workshop should leave useful work behind. {.sec-h}
 
-The engagements below are designed around a real organisational question. Participants examine choices and assumptions, practise a relevant capability and make a working artifact they can take into the next conversation.
+The engagements below are designed around a real organisational question. Participants examine choices and assumptions, practise a relevant capability and make a working artefact they can take into the next conversation.
 
 Every programme is scoped around its participants, decision, evidence, constraints and intended use. Formats and durations described as proposed below are starting points for discussion, not confirmed delivery commitments. No session by itself guarantees strategic alignment or implementation.
 
@@ -32,7 +32,7 @@ Every programme is scoped around its participants, decision, evidence, constrain
 
 [01 / Executive leadership, strategy and business-unit teams]{.eyebrow}
 
-## Strategic Choice Cascade Sprint {.sec-h}
+## Strategic Decision Workshop {.sec-h #strategic-choice-cascade-sprint}
 
 ### The problem
 
@@ -44,31 +44,33 @@ Executive leaders, strategy directors and business-unit leaders who can shape or
 
 ### Questions the team works on
 
-- What is the organisation's winning aspiration?
-- Where will it play, and where will it not play?
-- How will it create a meaningful reason to choose it?
-- What capabilities must be present for that choice to work?
-- Which management systems need to support those capabilities?
+This workshop uses the **Strategy Choice Cascade** described in *[Playing to Win](https://rogerlmartin.com/lets-read/playing-to-win)* by A.G. Lafley and Roger Martin. The Spotted Ape facilitates its application to the team’s decisions, assumptions and capabilities. The questions below adapt that structure.
+
+- What does success mean for this organisation?
+- Which customers, needs, markets or channels will it focus on—and which will it exclude?
+- Why will those customers choose it over the alternatives?
+- What must the organisation be able to do well to deliver that advantage?
+- Which management practices, measures and decision processes will support those capabilities?
 
 ### What participants do
 
-The group frames the decision and makes the choice cascade explicit. Leaders map boundaries across relevant customers, needs, geographies or channels, then examine whether the proposed way to win follows from those boundaries. They identify required capabilities and systems rather than treating them as a later implementation list.
+Participants frame the decision and use the Strategy Choice Cascade to connect their strategic choices. Leaders map boundaries across relevant customers, needs, geographies or channels, then examine whether the proposed competitive advantage is credible within those boundaries. They identify required capabilities and systems rather than treating them as a later implementation list.
 
-For each important choice, participants ask **what would have to be true?** They turn assumptions into questions that could change the decision. In a Judging Hat exercise, another group takes the position of a selective customer, a capable competitor or a sceptical decision-maker and stress-tests the cascade. Participants distinguish a persuasive argument from an assumption that still needs evidence.
+Drawing on [Roger Martin’s approach to strategic inquiry](https://rogerlmartin.substack.com/p/the-evolution-of-the-strategic-choice-structuring-process-653521519014), participants ask: **“What would have to be true for this option to succeed?”** They turn assumptions into questions that could change the decision. In a stakeholder review exercise, another group takes the position of a selective customer, a capable competitor or a sceptical decision-maker and challenges the proposed choices. Participants distinguish a persuasive argument from an assumption that still needs evidence.
 
 ### What the team develops
 
-An integrated view of aspiration, where to play, how to win, capabilities and enabling systems; a clearer account of trade-offs; and a short list of assumptions and tests that matter to the choice.
+A connected set of strategic choices: what success means, where to compete, how to create an advantage, and the capabilities and management practices required. The team also identifies exclusions and priority assumptions to test.
 
 ### What participants leave with
 
-The primary working output is a **one-page strategic choice cascade**. It records the connected choices and makes unresolved assumptions visible. It is a basis for further evidence and executive decision-making, not a substitute for that work.
+Participants leave with a **one-page record of strategic choices and assumptions**, structured using the Strategy Choice Cascade. It records the connected choices and makes unresolved assumptions visible. It is a basis for further evidence and executive decision-making, not a substitute for that work.
 
 ### Proposed format
 
-The strategy brief proposes a one-day intensive or a three-session sprint. The suitable format, duration, preparation and follow-up need to be confirmed during scoping.
+Possible formats include a one-day intensive or a three-session series. The suitable format, duration, preparation and follow-up need to be confirmed during scoping.
 
-[Discuss a strategic choice sprint](/contact/index.qmd){.text-link}
+[Discuss a strategic decision workshop](/contact/index.qmd){.text-link}
 
 :::
 :::
@@ -78,7 +80,7 @@ The strategy brief proposes a one-day intensive or a three-session sprint. The s
 
 [02 / Transformation, product, operations and learning leaders]{.eyebrow}
 
-## Scalable Learning & Knowledge Flows Lab {.sec-h}
+## Knowledge Sharing & Organisational Learning Lab {.sec-h #scalable-learning-knowledge-flows-lab}
 
 ### The problem
 
@@ -94,7 +96,7 @@ Participants map a knowledge ecology around a concrete organisational challenge.
 
 The group looks for the conditions that help expertise travel: communities of practice, useful connections to people at the edge of the work, opportunities to observe and try, and places to make or test a new approach. It then designs a bounded creation space or experiment: who takes part, what work they can access, what they may try, what feedback matters and how learning returns to a decision.
 
-Where AI has entered the workflow, participants can map what people and systems produce, which judgments remain consequential, where review or intervention belongs, and which practices should remain available for learning.
+Where AI has entered the workflow, participants can map what people and systems produce, which judgements remain consequential, where review or intervention belongs, and which practices should remain available for learning.
 
 ### What the team develops
 
@@ -106,9 +108,9 @@ A **knowledge-flow and organisational-learning blueprint** showing a priority ch
 
 ### Proposed format
 
-The strategy brief proposes a two-day applied lab. Duration, participation and delivery mode are unconfirmed and should be agreed around the problem and available evidence.
+A two-day applied lab is a possible format. Duration, participation and delivery mode are unconfirmed and should be agreed around the problem and available evidence.
 
-[Discuss a knowledge-flow lab](/contact/index.qmd){.text-link}
+[Discuss a knowledge sharing lab](/contact/index.qmd){.text-link}
 
 :::
 :::
@@ -118,7 +120,7 @@ The strategy brief proposes a two-day applied lab. Duration, participation and d
 
 [03 / Innovation, product and cross-functional leadership teams]{.eyebrow}
 
-## Blended Epistemology Studio {.sec-h}
+## Strategy Prototyping Studio {.sec-h #blended-epistemology-studio}
 
 ### The problem
 
@@ -130,9 +132,9 @@ Innovation leaders, product strategists and cross-functional teams with a live s
 
 ### What participants do
 
-The studio works across three modes: **knowing**, bringing evidence and experience into view; **making**, giving a possibility a form that can be examined; and **playing**, changing perspective and reframing the question.
+Drawing on John Seely Brown’s account of learning, the studio works across three modes: **knowing**, bringing evidence and experience into view; **making**, giving a possibility a form that can be examined; and **playing**, changing perspective and reframing the question.
 
-Participants name what they know, what remains uncertain and what they currently assume. They then sketch alternatives to the existing model, develop an abductive hypothesis about what might work and build a scenario prototype that makes the idea discussable. A Judging Hat review tests it from another position. The team asks what would have to be true, what could falsify the hypothesis and what bounded experiment could inform a next choice.
+Participants name what they know, what remains uncertain and what they currently assume. They then sketch alternatives to the existing model, form a hypothesis about how an alternative could work and build a scenario prototype that makes the idea discussable. A stakeholder review challenges the proposal from another perspective. Drawing on Roger Martin’s strategic inquiry, the team identifies the conditions each alternative requires, evidence that would challenge it, and a focused experiment to inform the next decision.
 
 Making a prototype is not presented as evidence that an idea will work. It gives people something concrete to challenge, compare and revise.
 
@@ -142,11 +144,11 @@ The ability to move between analysis, imagination and practical testing without 
 
 ### What participants leave with
 
-Alternative strategic hypotheses, **scenario prototypes**, an assumption-testing framework and visual sketches of possible business models. The final set depends on the question and the work completed in the session.
+Alternative strategic hypotheses, **scenario prototypes**, a plan for testing priority assumptions and visual sketches of possible business models. The final set depends on the question and the work completed in the session.
 
 ### Proposed format
 
-The strategy brief proposes a one-day studio. The format and time required depend on the scope of the opportunity and whether follow-up testing is included.
+A one-day studio is a possible format. The format and time required depend on the scope of the opportunity and whether follow-up testing is included.
 
 [Discuss a strategy prototyping studio](/contact/index.qmd){.text-link}
 
@@ -162,9 +164,9 @@ The strategy brief proposes a one-day studio. The format and time required depen
 
 An offsite is useful when a group needs protected time to work through a real decision, not simply to discuss strategy in a different room. A custom masterclass can introduce a shared language and then move directly into application, scenario work and synthesis.
 
-We agree the decision, participant profile, learning outcomes, material, format, facilitation role and intended outputs in advance. Modules can be combined from the choice cascade, knowledge-flow lab and blended studio. Existing work on judgment under abundance, human–AI workflows, the Agentic Designer and the !Khairos capability progression can inform activities or follow-up where relevant; they are not a second product catalogue.
+We agree the decision, participant profile, learning outcomes, material, format, facilitation role and intended outputs in advance. Modules can combine strategic decision-making, knowledge sharing and strategy prototyping. Existing work on judgement under abundance, human–AI workflows, the Agentic Designer and the !Khairos capability progression can inform activities or follow-up where relevant; they are not a second product catalogue.
 
-Outputs are agreed for the engagement. They may include a choice cascade, explicit assumptions and tests, a knowledge-flow blueprint, scenario prototypes or decision ownership. A workshop artifact records work completed in the room; it does not imply executive endorsement, implementation or a guaranteed result.
+Outputs are agreed for the engagement. They may include a record of strategic choices, an assumption-testing plan, a knowledge-flow map, scenario prototypes or an agreed record of decision responsibilities. A workshop artefact records work completed in the room; it does not imply executive endorsement, implementation or a guaranteed result.
 
 [Discuss an executive offsite or custom programme](/contact/index.qmd){.text-link}
 
@@ -176,26 +178,26 @@ Outputs are agreed for the engagement. They may include a choice cascade, explic
 
 [Illustrative programme / timing to confirm]{.eyebrow}
 
-## Strategic Choice & Scalable Learning Masterclass {.sec-h}
+## Strategic Decisions & Organisational Learning Masterclass {.sec-h #strategic-choice-scalable-learning-masterclass}
 
-The supplied curriculum combines a strategy choice cascade with a practical inquiry into the capabilities and knowledge flows needed to act. It is designed for senior leaders, general managers and strategy directors. The sequence below is an illustrative programme skeleton, not a confirmed schedule or a claim that one day is sufficient for every strategic question.
+This masterclass uses the Strategy Choice Cascade described in *Playing to Win* by A.G. Lafley and Roger Martin alongside practical work on the capabilities and knowledge sharing needed to act. It is designed for senior leaders, general managers and strategy directors. The sequence below is an illustrative programme, not a confirmed schedule or a claim that one day is sufficient for every strategic question.
 
 <ol class="process">
-<li><b>09:00–09:30 · Strategic framing and the choice cascade</b><span>Clarify the decision; introduce aspiration, where to play, how to win, capabilities and management systems.</span></li>
-<li><b>09:30–10:15 · Where to play and where not to play</b><span>Map boundaries across relevant customers, needs, channels or geographies; make exclusions visible.</span></li>
+<li><b>09:00–09:30 · Strategic framing and the Strategy Choice Cascade</b><span>Clarify the decision and connect ambition, competitive focus, advantage, capabilities and supporting management practices.</span></li>
+<li><b>09:30–10:15 · Choose where to compete—and what to exclude</b><span>Map boundaries across relevant customers, needs, channels or geographies; make exclusions visible.</span></li>
 <li><b>10:15–10:30 · Break</b><span>Protected pause and room reset.</span></li>
-<li><b>10:30–11:15 · What would have to be true?</b><span>Identify assumptions behind a strategic choice and evidence that could test them.</span></li>
-<li><b>11:15–12:00 · Judging Hat stress-test</b><span>Review a team's cascade from another stakeholder's position; surface gaps, risks and unanswered questions.</span></li>
+<li><b>10:30–11:15 · Identify the conditions each option requires</b><span>Identify assumptions behind a strategic choice and evidence that could test them.</span></li>
+<li><b>11:15–12:00 · Stakeholder review</b><span>Review a team’s proposed choices from another stakeholder’s position; surface gaps, risks and unanswered questions.</span></li>
 <li><b>12:00–13:00 · Lunch</b><span>Protected break.</span></li>
 <li><b>13:00–13:45 · Knowledge stocks and flows</b><span>Explore what is codified, what is learned through practice and where knowledge must move.</span></li>
 <li><b>13:45–14:45 · Designing a creation space</b><span>Map tacit knowledge and relationships; sketch a bounded setting for making, exchange and experimentation.</span></li>
 <li><b>14:45–15:00 · Break</b><span>Protected pause.</span></li>
-<li><b>15:00–16:00 · Executive synthesis</b><span>Revise the cascade, state unresolved assumptions and agree proportionate next questions and owners.</span></li>
+<li><b>15:00–16:00 · Executive synthesis</b><span>Revise the strategic choices, record unresolved assumptions and agree who will investigate the next questions.</span></li>
 </ol>
 
 The learning design distinguishes **Knowledge** (what participants need to understand), **Skills** (what they need to practise) and **Wisdom** (what they need to judge under uncertainty). It varies explanation, individual and group application, scenario challenge and synthesis to serve those outcomes. The precise rhythm, breaks, facilitation and timetable must be adapted to participants and delivery context.
 
-The intended core output is a working **one-page choice cascade**, accompanied by assumptions to test and a first view of the learning or capability conditions the choices require. It is not represented as a signed-off strategy or a validated diagnostic.
+The intended core output is a working **one-page record of strategic choices and assumptions**, structured using the Strategy Choice Cascade. It includes priority assumptions to test and an initial account of the learning and capabilities the choices require. It is not represented as a signed-off strategy or a validated diagnostic.
 
 [Ask about the flagship masterclass](/contact/index.qmd){.btn-p}
 
@@ -207,11 +209,11 @@ The intended core output is a working **one-page choice cascade**, accompanied b
 
 [How we design the work]{.eyebrow}
 
-## Specific outcomes. Structured practice. Useful artifacts. {.sec-h}
+## Specific outcomes. Structured practice. Useful artefacts. {.sec-h #specific-outcomes.-structured-practice.-useful-artifacts.}
 
 Audience profile and learning outcomes shape the activity. Concepts are introduced only where they help participants do the work. Practice is followed by discussion or critique; scenarios let participants examine choices and consequences from a different position. Breaks and format changes are planned to suit the session rather than imposed as a universal rhythm.
 
-The work draws on strategy-as-choice, organisational learning and executive-learning design. It retains The Spotted Ape's concern with judgment, human agency and the consequences of delegating work. It does not imply a formal partnership with the scholars or institutions whose ideas inform it.
+The work combines established strategic choice and organisational learning approaches with learning activities designed around the team’s decision. It retains The Spotted Ape's concern with judgement, human agency and the consequences of delegating work. It does not imply a formal partnership with the scholars or institutions whose ideas inform it.
 
 [Read the methodology](/methodology/index.qmd){.text-link}
 

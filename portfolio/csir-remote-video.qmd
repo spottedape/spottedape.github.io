@@ -1,9 +1,9 @@
 ---
 title: "Remote Real-Time Digital Video"
-subtitle: "Revolutionising athletic coaching through real-time video production and interaction design."
+subtitle: "Supporting athletic coaching through remote video production and interaction design."
 date: 2002-07-13
 description: |
-    During the Commonwealth Games, I assisted the design of a remote real-time digital video production system to assist coaching staff. The system enabled the seamless capture and relay of athletic performance, revolutionising the coaching experience. My expertise extended to training and mentoring the team in non-linear video editing and the creation of digital coaching tools.
+    During the Commonwealth Games, I assisted the design of a remote real-time digital video production system to assist coaching staff. The system enabled the seamless capture and relay of athletic performance, supporting coaching feedback. My expertise extended to training and mentoring the team in non-linear video editing and the creation of digital coaching tools.
 image: /images/proj-csir-remote-video.jpg
 toc: false
 categories: [Interaction-Design, Multimedia, Video-Design, Innovation]
@@ -17,7 +17,7 @@ categories: [Interaction-Design, Multimedia, Video-Design, Innovation]
 
 **Core Problem:** The need for a seamless, real-time method to capture and relay athletic performance data to coaching staff during high-stakes competition.
 
-**Outcome:** Designed and implemented a remote real-time digital video production system that enabled immediate performance feedback, significantly enhancing the coaching experience.
+**Outcome:** Assisted in the design and implementation of a remote real-time digital video production system that enabled immediate performance feedback.
 
 ### 2. Strategic Context
 
@@ -48,9 +48,9 @@ Beyond the technical architecture, a significant portion of the project focused 
 
 ### 5. Impact & Evidence
 
-The intervention fundamentally changed how coaching staff interacted with performance data:
+The project supported coaching staff’s use of performance data:
 
-- **Revolutionised Coaching Experience:** Enabled "live" tactical adjustments based on instant video playback.
+- **Coaching Feedback:** Enabled "live" tactical adjustments based on instant video playback.
 - **Operational Efficiency:** Streamlined the workflow from capture to analysis, removing technical bottlenecks.
 - **Team Capability:** Successfully upskilled production staff in advanced editing and digital tool usage.
 

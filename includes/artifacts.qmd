@@ -1,8 +1,8 @@
 ::: {.tool-list}
 ### Human Agency Map
-Records what people and machines currently produce and decide, who owns the consequential judgments and which capabilities need continued practice.
+Records what people and machines currently produce and decide, who owns the consequential judgements and which capabilities need continued practice.
 
-### Judgment Rubric
+### Judgement Rubric {#judgment-rubric}
 Defines criteria for a particular work product or decision, the evidence each criterion requires and the uncertainty the team can accept.
 
 ### Agentic Workflow Blueprint
