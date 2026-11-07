@@ -7,6 +7,8 @@ project:
     - "!pitchdeck/!*.qmd"
     - "!pitchdeck/wk-ai-in-praxis.qmd"
     - "!Courses/DLA/**"
+  post-render:
+    - scripts/hide-pitchdeck.py
   resources:
     - CNAME
     - site.js
