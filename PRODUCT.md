@@ -20,11 +20,11 @@ Helps leaders make consequential choices when familiar assumptions no longer hol
 
 ## Operating Context
 
-Enquiries go through `/contact/` (name, email and question required; offering context carried by `contactHref`). Workshops, the five-day Strategic Design Leadership in the Age of AI masterclass (E–P–I–A–S, scoped to its own route), applied courses, research and advisory conversations support the practice. Research, articles and `/Courses/` archives stay on thespottedape.com as external links.
+Enquiries go through `/contact/` (name, email and question required; offering context carried by `contactHref`). Workshops, the five-day Strategic Design Leadership in the Age of AI masterclass (E–P–I–A–S, scoped to its own route), applied courses, research and advisory conversations support the practice. Research, articles and `/Courses/` archives from the previous site are served unchanged from `public/` at their original URLs.
 
 ## Capabilities and Constraints
 
-Static Astro site, published only at https://marcelmareweb.github.io. No public cohort dates, seat prices, guarantees, cart or checkout. The Find Formation exercise keeps its two-choice limit and no-data-sent promise. See AGENTS.md for the full rules, which take precedence.
+Static Astro site, published only at https://thespottedape.com. No public cohort dates, seat prices, guarantees, cart or checkout. The Find Formation exercise keeps its two-choice limit and no-data-sent promise. See AGENTS.md for the full rules, which take precedence.
 
 ## Brand Commitments
 

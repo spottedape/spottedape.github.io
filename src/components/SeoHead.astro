@@ -18,7 +18,7 @@ const {
   noindex = false,
 } = Astro.props;
 
-const siteURL = Astro.site ?? new URL('https://marcelmareweb.github.io');
+const siteURL = Astro.site ?? new URL('https://thespottedape.com');
 const canonical = new URL(canonicalURL ?? Astro.url.pathname, siteURL);
 const socialImage = ogImage ? new URL(ogImage, siteURL).href : undefined;
 

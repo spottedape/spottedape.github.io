@@ -9,7 +9,7 @@
 - Manage it with `npx astro dev status`, `npx astro dev logs`, and `npx astro dev stop`.
 - After creating or modifying any `.astro` or `.ts` files, run `npx astro check` and `npm run build`. Resolve all errors before finishing.
 - Inspect visual and interaction changes in Playwright at desktop and mobile widths; include keyboard and reduced-motion checks for changed interactions.
-- Do not push or deploy unless explicitly instructed. Publish this repository only at `https://marcelmareweb.github.io`; use the existing `main` deployment workflow and no custom domain.
+- Do not push or deploy unless explicitly instructed. Publish this repository only to `spottedape/spottedape.github.io` (git remote `origin`), served at the custom domain `https://thespottedape.com` (`public/CNAME`); use the existing `main` deployment workflow. The previous Quarto site is kept on that repository's `legacy-quarto` branch.
 
 ## Definitive practice and positioning
 
@@ -27,7 +27,7 @@ Do not reintroduce the superseded AI-agency positioning, !Kharos Strategy, or Ag
 
 The explicitly approved **Strategic Design Leadership in the Age of AI** executive masterclass uses E–P–I–A–S (Explorer, Practitioner, Integrator, Architect, Steward) as five standalone strategic decision days. Keep this curriculum scoped to `/workshops/strategic-design-leadership/` and its programme invitations. It is not an automation ladder or the positioning of the whole practice. AI supports exploration and human judgement; it does not establish validated strategies or reliable predictions. Preserve the original Find Formation exercise and its two-choice limit when extending its shared interaction code.
 
-Website: https://marcelmareweb.github.io. Use the current public contact: hello@thespottedape.com. Existing research, article and course resources on thespottedape.com remain external links on their current host; this GitHub Pages site does not replace or migrate that domain.
+Website: https://thespottedape.com (migrated from the previous Quarto site in November 2026). Use the current public contact: hello@thespottedape.com. The previous site's research, article, portfolio, pitch-deck and course resources (`Courses/`, `research/`, `posts/`, `portfolio/`, `pitchdeck/` and their `site_libs/`, `site-components/`, `images/`, `theme.css`, `site.js`) are served unchanged from `public/` at their original URLs; retired pages redirect via `redirects` in `astro.config.mjs`. Do not delete, case-fold or rewrite them.
 
 Source materials live outside the repository in `../the-spotted-ape-sources/` (a sibling folder, never committed). Check research, course and case claims against them, and check its `CLEARANCES.md` before publishing an image or quote.
 
@@ -79,7 +79,7 @@ The approved navigation strategy is implemented. Read [the implementation record
 - Use `contactHref` from `src/lib/contact.ts` for offering context. Only offering/day/module/audience/origin identifiers belong in these URLs; never personal details or a visitor’s written question.
 - Contact requires name, email and the question only. Preserve optional organisation/team fields, editable programme/module context, provider order, native form fallback and email recovery. Test requests with interception, never real messages.
 - Programme sessions use `#session-<day-id>` fragments. Preserve direct loading, reload, Back/Forward, Escape, focus restoration and native disclosures.
-- Public research, article and uppercase `/Courses/` learning archives remain linked resources, separate from local lowercase `/courses`. Do not delete, case-fold or silently redirect these resources. Any future deployment must explicitly preserve or migrate their content; deployment is not authorised by this implementation.
+- Public research, article and uppercase `/Courses/` learning archives remain linked resources, separate from local lowercase `/courses`. Do not delete, case-fold or silently redirect these resources; they are served from `public/` and every deployment must keep them.
 - No public cohort dates, seat prices, guarantees, cart or checkout are established. Keep enquiries and resource access truthful; preserve the original Find Formation exercise and its no-data-sent promise.
 
 ## Astro documentation

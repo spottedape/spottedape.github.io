@@ -4,7 +4,7 @@ import type { APIContext } from 'astro';
 export const prerender = true;
 
 export async function GET({ site }: APIContext) {
-  const siteURL = (site ?? new URL('https://marcelmareweb.github.io')).origin;
+  const siteURL = (site ?? new URL('https://thespottedape.com')).origin;
   const insights = await getCollection('insights');
   const latestInsights = insights
     .sort((first, second) => Date.parse(second.data.pubDate) - Date.parse(first.data.pubDate))

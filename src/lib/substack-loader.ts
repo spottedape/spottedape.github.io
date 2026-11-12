@@ -153,7 +153,7 @@ export function substackLoader(): Loader {
         const response = await fetch(feedUrl, {
           headers: {
             Accept: 'application/rss+xml, application/xml, text/xml;q=0.9',
-            'User-Agent': 'Mozilla/5.0 (compatible; TheSpottedApeSite/1.0; +https://marcelmareweb.github.io)',
+            'User-Agent': 'Mozilla/5.0 (compatible; TheSpottedApeSite/1.0; +https://thespottedape.com)',
           },
           signal: controller.signal,
         });

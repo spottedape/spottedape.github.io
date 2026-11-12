@@ -23,7 +23,7 @@ Send this after a conversation, never cold, and only when the prospect has said 
 | Keep | A concise decision record and the agreed follow-through |
 | Review | One follow-up conversation to check the decision is holding |
 
-**What you'll leave with.** A choice, the reasons for it, what you've agreed to give up, who owns it, and what would make you look again, all written down so the team can act on it without us. If the evidence doesn't yet support a responsible choice, we say what's missing and what to do next. Here's a sample, made from a fictional teaching case: https://marcelmareweb.github.io/decision-record/
+**What you'll leave with.** A choice, the reasons for it, what you've agreed to give up, who owns it, and what would make you look again, all written down so the team can act on it without us. If the evidence doesn't yet support a responsible choice, we say what's missing and what to do next. Here's a sample, made from a fictional teaching case: https://thespottedape.com/decision-record/
 
 **If the question turns out to be the wrong one.** If the interviews show that the original question is not the one the team needs to resolve, we explain why and agree a revised question with you before the workshop. If that changes the scope, fee or timing, we agree those changes before continuing.
 

@@ -1,6 +1,6 @@
 # The Spotted Ape
 
-Website of The Spotted Ape (Pty) Ltd, an independent strategic decision and behavioural design practice in Cape Town. Published at https://marcelmareweb.github.io.
+Website of The Spotted Ape (Pty) Ltd, an independent strategic decision and behavioural design practice in Cape Town. Published at https://thespottedape.com from the `spottedape/spottedape.github.io` repository.
 
 ## Commands
 

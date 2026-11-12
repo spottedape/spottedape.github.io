@@ -25,7 +25,7 @@ const intro = data.format === 'account' ? data.clientContext : data.context;
 const interest = data.format === 'account' ? 'strategic-decision' : data.interest;
 const invitation = data.format === 'account' ? 'Explore strategic decision support, or bring the question you need to resolve.' : 'Bring the question your team needs to work through, with or without AI.';
 const service = data.format === 'account' ? { href: '/services/#strategic-decision-design', label: 'Strategic Decision Design' } : { href: `/services/#${data.service}`, label: 'Human–AI Decision Design' };
-const canonicalURL = new URL(`/cases/${data.slug}`, Astro.site ?? 'https://marcelmareweb.github.io');
+const canonicalURL = new URL(`/cases/${data.slug}`, Astro.site ?? 'https://thespottedape.com');
 ---
 <BaseLayout title={`${data.title} | The Spotted Ape`} description={scenario ? `Teaching scenario (fictional): ${intro}` : intro} canonicalURL={canonicalURL} schemaType="Article">
 <PageIntro scale="sentence" description={intro}>
